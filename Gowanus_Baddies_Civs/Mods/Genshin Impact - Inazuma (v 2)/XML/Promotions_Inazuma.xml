@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/9/2022 3:22:57 AM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_MATHALX_DOUSHIN_STRIKE</Type>
+			<Description>TXT_KEY_PROMOTION_MATHALX_DOUSHIN_STRIKE</Description>
+			<Help>TXT_KEY_PROMOTION_MATHALX_DOUSHIN_STRIKE_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<RangedSupportFire>true</RangedSupportFire>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<OrderPriority>2</OrderPriority>
+			<PortraitIndex>11</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_MATHALX_DOUSHIN_STRIKE</PediaEntry>
+		</Row>
+	</UnitPromotions>
+</GameData>

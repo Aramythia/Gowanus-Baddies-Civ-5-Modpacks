@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 11/23/2013 1:27:25 PM -->
+<GameData>
+	<Language_en_US>
+		<!--NEWFOUNDLAND-->
+		<Row Tag="TXT_KEY_CIV_PI_NEWFOUNDLAND_ADJECTIVE">
+			<Text>Newfoundlander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PI_NEWFOUNDLAND_DESC">
+			<Text>Dominion of Newfoundland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PI_NEWFOUNDLAND_SHORT_DESC">
+			<Text>Newfoundland</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIV5_PI_NEWFOUNDLAND_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PI_NEWFOUNDLAND_TEXT_1">
+			<Text>Newfoundland was a British dominion from 1907 to 1949. The dominion was situated in northeastern North America along the Atlantic coast and comprised the island of Newfoundland and Labrador on the continental mainland. Before attaining dominion status, Newfoundland was a British colony, self-governing from 1855.[NEWLINE][NEWLINE]Newfoundland was one of the original "dominions" within the meaning of the Statute of Westminster of 1931 and accordingly enjoyed a constitutional status equivalent to the other dominions at the time. In 1934, Newfoundland became the only dominion to give up its self-governing status, ending 79 years of self-government.[NEWLINE][NEWLINE]This episode was precipitated by a crisis in Newfoundland's public finances in 1932. Newfoundland had accumulated a significant amount of debt by building a railroad across the island and raising its own regiment for the First World War. In November of that year, the government warned that Newfoundland would default on payments on the public debt. The United Kingdom government quickly established the Newfoundland Royal Commission to inquire and report on the position. The Commission's report was published in October 1933. It recommended that Newfoundland give up its system of self-government temporarily, and allow the United Kingdom to administer the dominion through an appointed commission.[NEWLINE][NEWLINE]The Newfoundland parliament accepted this recommendation and presented a petition to the King asking for the suspension of the constitution and the appointment of commissioners to administer the government until the country became self-supporting again. To enable compliance with this request, the United Kingdom Parliament passed the Newfoundland Act 1933, and on 16 February 1934, the UK government appointed six commissioners, three from Newfoundland and three from the UK, with the Governor as chairman. The dominion was never to be self-governing again. The system of a six-member Commission of Government continued to govern Newfoundland until it joined Canada in 1949 to become Canada's tenth province.</Text>
+		</Row>
+		<!--Cities-->
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_01">
+			<Text>St. John's</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_02">
+			<Text>Mount Pearl</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_03">
+			<Text>Corner Brook</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_04">
+			<Text>Conception Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_05">
+			<Text>Paradise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_06">
+			<Text>Grand Falls-Windsor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_07">
+			<Text>Gander</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_08">
+			<Text>Portugal Cove Saint Philip's</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_09">
+			<Text>Goose Bay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_10">
+			<Text>Torbay</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_11">
+			<Text>Labrador City</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_12">
+			<Text>Stephenville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_13">
+			<Text>Clarenville</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_14">
+			<Text>Bay Roberts</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_15">
+			<Text>Marystown</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_16">
+			<Text>Deer Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_17">
+			<Text>Carbonear</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_18">
+			<Text>Channel-Port aux Basques</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_19">
+			<Text>Pasadena</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_20">
+			<Text>Placentia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_21">
+			<Text>Bonavista</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_22">
+			<Text>Lewisporte</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_23">
+			<Text>Bishop's Falls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_24">
+			<Text>Harbour Grace</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_25">
+			<Text>Springdale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_26">
+			<Text>Botwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PI_NEWFOUNDLAND_27">
+			<Text>Dildo</Text>
+		</Row>
+		
+		<!--Spies-->
+		<Row Tag="TXT_KEY_SPY_NAME_PI_NEWFOUNDLAND_9">
+			<Text>Hughie</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PI_NEWFOUNDLAND_8">
+			<Text>Frederick</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PI_NEWFOUNDLAND_7">
+			<Text>Noah</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PI_NEWFOUNDLAND_6">
+			<Text>Harold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PI_NEWFOUNDLAND_5">
+			<Text>Solomon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PI_NEWFOUNDLAND_4">
+			<Text>Walter</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PI_NEWFOUNDLAND_3">
+			<Text>Stuart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PI_NEWFOUNDLAND_2">
+			<Text>Henry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PI_NEWFOUNDLAND_1">
+			<Text>Allan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PI_NEWFOUNDLAND_0">
+			<Text>Chesley</Text>
+		</Row>
+		<!--EDWARD MORRIS-->
+		<Row Tag="TXT_KEY_LEADER_PI_MORRIS">
+			<Text>Edward Morris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PI_MORRIS_HEADING_1">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PI_MORRIS_TEXT_1">
+			<Text>Edward Patrick Morris, 1st Baron Morris (May 8, 1859 – October 24, 1935) was a lawyer and Prime Minister of Newfoundland.[NEWLINE][NEWLINE]Born in St. John's, the son of Edward Morris and Catherine Fitzgerald, he was educated at Saint Bonaventure's College and the University of Ottawa, was admitted to the bar in 1885 and went into practice with his brother Francis. In 1901, he married Isabel Langrishe. Morris was a counsel for the British government during the North American fisheries arbitration in 1910 receiving a knighthood in 1904. Morris served as governor of the Newfoundland Savings Bank from 1889 to 1913 and was elected to the Newfoundland House of Assembly in 1885 as an independent. He joined the Liberal government of Sir William Whiteway as Attorney-General from 1889 to 1895.[NEWLINE][NEWLINE]Morris was the most senior Roman Catholic politician in Newfoundland and had enormous influence as a result. He had a strained relationship with Whiteway's successor as Liberal leader, Sir Robert Bond, splitting with him to form the Independent Party which he led from 1898 to 1900. Morris formed an alliance with Bond to defeat the Tories and served as minister of justice from 1900 to 1907 in Bond's government. In 1907 he again broke with Bond and formed the People's Party. Both parties tied in the 1908 General Election. Robert Bond was asked to form a government. He refused saying he could not because he could not elect a speaker, without losing a vote and thereby bringing down the government. Morris said he could form a government and was made Prime Minister. He lost a confidence vote and then called an election. He led his party to victory in the 1909 election with a clear majority. He served in that position through the First World War and represented Newfoundland at the Imperial War Conference in London.[NEWLINE][NEWLINE]His People's Party government enjoyed strong support from the dominion's Catholics but was largely opposed by Protestants. As a result of a wartime crisis over conscription, and the decline of his popularity due to accusations of wartime profiteering and conflict of interest, Morris decided that it was necessary to have a government that had support from all denominations and so he invited the opposition in the House of Assembly to join a National Government which was formed in 1917 to oversee the duration of the war. Morris retired from politics at the end of 1917 after eight years in power.[NEWLINE][NEWLINE]Morris was named a Knight Commander in the Order of St Michael and St George in 1913.[NEWLINE][NEWLINE]In 1918, Morris was elevated to the British peerage as the first Baron Morris, the only Newfoundland-born person to ever be so honoured. Lord Morris moved to London and took his seat in the House of Lords. He lived the rest of his life there, only returning to Newfoundland once. He died in London, in 1935, at the age of 76.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PI_MORRIS_NAME">
+			<Text>Sir Edward Morris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PI_MORRIS_SUBTITLE">
+			<Text>Leader of Newfoundland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PI_MORRIS_TITLES_1">
+			<Text>Prime Minister of the Dominion of Newfoundland, First Baron Morris</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_PI_MORRIS_LIVED">
+			<Text>1859 - 1935</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_NEWFOUNDLAND_TEXT">
+            <Text>Greetings, Lord Edward Morris, first Baron Morris and Prime Minister of Newfoundland! As the senior Catholic politician in Newfoundland at the turn of the twentieth century, you were one of the most prominent personages in the governance of the Dominion. Twice you split from Sir Robert Bond's Liberal party in order to lead your own party; in the second of these schisms, your People's Party won the 1909 election and made you Prime Minister. You led Newfoundland successfully through World War I, and when opposition mounted against you, you invited the opposition to join you in a National Government for the betterment of wartime Newfoundland.[NEWLINE][NEWLINE]Edward Morris, your people clamor for the capable governance that you displayed during the war. Can you build the Dominion of Newfoundland into a strong state that can overcome all of its opposition? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<!--Far East of the West-->
+		<Row Tag="TXT_KEY_TRAIT_PI_FAR_EAST_OF_THE_WEST_SHORT">
+			<Text>Far East of the West</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_PI_FAR_EAST_OF_THE_WEST">
+			<Text>Units may Embark upon discovery of Sailing. Naval Units increase a City's [ICON_PRODUCTION] Production when stationed inside it, and upon improving a Sea Resource, gain a burst of [ICON_PRODUCTION] Production in all Coastal Cities.</Text>
+		</Row>
+		<!--RIBAULT-->
+		<Row Tag="TXT_KEY_UNIT_PI_BLUE_PUTTEE">
+			<Text>Blue Puttee</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PI_BLUE_PUTTEE_HELP">
+			<Text>Replaces the Great War Infantry. The Blue Puttee is stronger when Embarked, and uses only 1 [ICON_MOVES] Movement when Embarking or Disembarking.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_PI_BLUE_PUTTEE_STRATEGY">
+			<Text>Blue Puttees excel at marine warfare, and are able to fight other embarked units in their own right. They can also Embark and Disembark quickly, allowing for fast, effective trans-continental and coastal-based warfare.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PI_BLUE_PUTTEE_TEXT">
+			<Text>During the First World War Newfoundland was a largely rural Dominion of the British Empire with a population of 240,000 people, and not yet part of Canada. The outbreak of the First World War in 1914 led the Government of Newfoundland to recruit a force for service with the British Army. Even though the island had not possessed any formal military organization since 1870, enough men soon volunteered that a whole battalion was formed, and later maintained throughout the war. The first recruits in the regiment were nicknamed the "Blue Puttees" due to the unusual colour of the puttees, chosen to give the Newfoundland Regiment a unique look, but quickly abandoned when the 1st five-hundred reached England in October 1914. The headquarters for recruiting and training was also supplied by the CLB, as was the nucleus of the command structure. In fact, the first man to enlist was also a member of the CLB. Bermudian-born Sir Joseph Outerbridge, who had been the Commanding Officer of the Church Lads' Brigade from 1890 to 1894, was the Vice President of the Patriotic Association of Newfoundland, which raised and maintained the Newfoundland Regiment, two of his sons serving in the regiment on the Western Front.[NEWLINE][NEWLINE]The regiment trained at various locations in the United Kingdom and increased from an initial contingent of 500 men to full battalion strength of 1,000 men, before being deployed. After a period of acclimatization in Egypt, the regiment was deployed at Suvla Bay on the Gallipoli peninsula with the 29th Division in support of the Gallipoli Campaign.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PI_CHEAP_EMBARKATION_EMBARKED">
+			<Text>Coastal Familiarity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PI_CHEAP_EMBARKATION_EMBARKED_HELP">
+			<Text>Uses only 1 Movement to Embark and Disembark.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PI_CHEAP_EMBARKATION_DISEMBARKED">
+			<Text>Coastal Familiarity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_PI_CHEAP_EMBARKATION_DISEMBARKED_HELP">
+			<Text>Uses only 1 Movement to Embark and Disembark.</Text>
+		</Row>
+		<!--FISHERY-->
+		<Row Tag="TXT_KEY_BUILDING_PI_FISHING_STAGE">
+			<Text>Fishing Stage</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PI_FISHING_STAGE_HELP">
+			<Text>
+				Replacement to the Seaport that only Newfoundland can build. The Fishing Stage generates extra [ICON_GOLD] Gold from Sea Resources, and provides +5 Experience to newly trained units for each nearby source of [ICON_RES_FISH] Fish.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PI_FISHING_STAGE_STRATEGY">
+			<Text>The Fishing Stage is a very versatile Industrial Era building. As well as providing extra Gold on Sea Resources, it provides newly trained units with additional Experience based on the amount of workable fish nearby. As such, a well-placed Fishing Stage essentially functions as an additional Barracks or similar Military building.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_PI_FISHING_STAGE_TEXT">
+			<Text>
+				A fishing stage is a wooden vernacular building, typical of the rough traditional buildings associated with the cod fishery in Newfoundland, Canada. Stages are located at the water's edge or "landwash", and consist of an elevated platform on the shore with working tables and sheds at which fish are landed and processed for salting and drying. Traditionally, they are painted with a red ochre paint, though colours other than red are sometimes seen.[NEWLINE][NEWLINE]The stage is unique among British and North American outbuildings because unlike the typical uses of agricultural structures, both the slaughter and the processing of a harvested animal takes place within this space. While barns and stables were intended for year-round housing of live animals, the stage would be used only for several months during the summer, and not as a shelter for livestock.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PI_NAVAL_GARRISON_PRODUCTION_DESC">
+			<Text>
+				Nothing to see here
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TECH_PI_SAILING_EMBARKATION">
+			<Text>
+				Nothing to see here
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_PI_NAVAL_GARRISON_PRODUCTION_HELP">
+			<Text>
+				Not like this'll work anyway lol
+			</Text>
+		</Row>
+        <Row Tag="TXT_KEY_DECISIONS_PI_NEWFOUNDLAND_RAILWAY">
+            <Text>Expand the Newfoundland Railway</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_PI_NEWFOUNDLAND_RAILWAY_DESC">
+            <Text>The Newfoundland Railway extends from St. John's to Port aux Basques, but it has been costly to maintain. If we commission a businessman to operate and expand the railway, we can see our rail system become more efficient and extensive.
+                [NEWLINE]
+                [NEWLINE]Requirement/Restrictions:
+                [NEWLINE][ICON_BULLET]Player must be Newfoundland
+                [NEWLINE][ICON_BULLET]Must have researched Railroad
+                [NEWLINE][ICON_BULLET]May only be enacted once per game
+                [NEWLINE]Costs:
+                [NEWLINE][ICON_BULLET]400 [ICON_GOLD] Gold
+                [NEWLINE][ICON_BULLET]1 [ICON_MAGISTRATES] Magistrate
+                [NEWLINE]Rewards:
+                [NEWLINE][ICON_BULLET]Roads and Railroads have a halved maintenance cost
+                [NEWLINE][ICON_BULLET]Railroads adjacent to cities yield +1 [ICON_PRODUCTION] Production
+            </Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_PI_NEWFOUNDLAND_RAILWAY_ENACTED_DESC">
+            <Text>The Newfoundland Railway extends from St. John's to Port aux Basques, but it has been costly to maintain. If we commission a businessman to operate and expand the railway, we can see our rail system become more efficient and extensive.
+                [NEWLINE]
+                [NEWLINE]Rewards:
+                [NEWLINE][ICON_BULLET]Roads and Railroads have a halved maintenance cost
+                [NEWLINE][ICON_BULLET]Railroads adjacent to cities yield +1 [ICON_PRODUCTION] Production
+            </Text>
+        </Row>
+        <Row Tag="TXT_KEY_WORLD_EVENT_PI_NEWFOUNDLAND_RAILWAY">
+            <Text>{1_LeaderName} has expanded the Newfoundland Railway!</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_PI_NEWFOUNDLAND_WAR_GOVT">
+            <Text>Form the Wartime National Government</Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_PI_NEWFOUNDLAND_WAR_GOVT_DESC">
+            <Text>Our government has attracted controversy for its role in the war; our opponents accuse us of profiteering off of the war. To prove to the critics that our government is operating fairly and ethically, we should unite with them and form a National Government.
+                [NEWLINE]
+                [NEWLINE]Requirement/Restrictions:
+                [NEWLINE][ICON_BULLET]Player must be Newfoundland
+                [NEWLINE][ICON_BULLET]Must be at war
+                [NEWLINE][ICON_BULLET]Must be [ICON_HAPPINESS_3] Unhappy
+                [NEWLINE][ICON_BULLET]May only be enacted once per game
+                [NEWLINE]Costs:
+                [NEWLINE][ICON_BULLET]3 [ICON_MAGISTRATES] Magistrates
+                [NEWLINE]Rewards:
+                [NEWLINE][ICON_BULLET]Gain 5 [ICON_HAPPINESS_1] Happiness
+                [NEWLINE][ICON_BULLET]Begin a We Love The King Day in all cities
+                [NEWLINE][ICON_BULLET]Gain [ICON_GOLDEN_AGE] Golden Age points 33% faster
+            </Text>
+        </Row>
+        <Row Tag="TXT_KEY_DECISIONS_PI_NEWFOUNDLAND_WAR_GOVT_ENACTED_DESC">
+            <Text>Our government has attracted controversy for its role in the war; our opponents accuse us of profiteering off of the war. To prove to the critics that our government is operating fairly and ethically, we should unite with them and form a National Government.
+                [NEWLINE]
+                [NEWLINE]Rewards:
+                [NEWLINE][ICON_BULLET]Gain 5 [ICON_HAPPINESS_1] Happiness
+                [NEWLINE][ICON_BULLET]Begin a We Love The King Day in all cities
+                [NEWLINE][ICON_BULLET]Gain [ICON_GOLDEN_AGE] Golden Age points 33% faster
+            </Text>
+        </Row>
+        <Row Tag="TXT_KEY_WORLD_EVENT_PI_NEWFOUNDLAND_WAR_GOVT">
+            <Text>{1_LeaderName} has formed a Wartime National Government in {2_CivName}!</Text>
+        </Row>
+	</Language_en_US>
+</GameData>

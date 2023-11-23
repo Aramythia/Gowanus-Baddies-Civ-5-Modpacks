@@ -1,0 +1,76 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="be436744-2432-4a0d-bf71-a1eb78b9177f" version="1">
+  <Properties>
+    <Name>PiGreat's Newfoundland</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Dominion of Newfoundland, led by Sir Edward Morris, to the game. Requires Brave New World.</Teaser>
+    <Description>Adds the Dominion of Newfoundland, led by Sir Edward Morris, to the game. Requires Brave New World.</Description>
+    <Authors>PiGreat, TopHatPaladin</Authors>
+    <SpecialThanks>Troller0001, Urdnot_Scott, GPuzzle, Hoop Thrower</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References>
+    <Mod id="1f941088-b185-4159-865c-472df81247b2" minversion="0" maxversion="999" title="Sukritact's Events and Decisions" />
+    <Mod id="01c131ef-2162-4a7b-b845-763a4e675940" minversion="0" maxversion="999" title="Unique Cultural Influence" />
+  </References>
+  <Blocks />
+  <Files>
+    <File md5="C31631CE75342DF5B9932F4727341F4B" import="1">Art/Atlases/Alpha/PI_NewfoundlandAlphaAtlas_128.dds</File>
+    <File md5="2255BE059DDF1AD953ED42B7EEA1DDD2" import="1">Art/Atlases/Alpha/PI_NewfoundlandAlphaAtlas_16.dds</File>
+    <File md5="0AE875577471E28B69A88D45414999E9" import="1">Art/Atlases/Alpha/PI_NewfoundlandAlphaAtlas_24.dds</File>
+    <File md5="F18E50206FEFF774E866901B7AD6DB31" import="1">Art/Atlases/Alpha/PI_NewfoundlandAlphaAtlas_32.dds</File>
+    <File md5="87718D0CF16DF97E27E052A80A056AC4" import="1">Art/Atlases/Alpha/PI_NewfoundlandAlphaAtlas_45.dds</File>
+    <File md5="8661A710C307EB66F28AACACEA0DCD20" import="1">Art/Atlases/Alpha/PI_NewfoundlandAlphaAtlas_48.dds</File>
+    <File md5="7A00685F9DF6A003EBD1E26DB3CF33D4" import="1">Art/Atlases/Alpha/PI_NewfoundlandAlphaAtlas_64.dds</File>
+    <File md5="31DAA401256187C13B82F716B62FFD96" import="1">Art/Atlases/Alpha/PI_NewfoundlandAlphaAtlas_80.dds</File>
+    <File md5="142B07C266BC61E8B9A3BCCBEADF77AE" import="1">Art/Atlases/PI_NewfoundlandAtlas_128.dds</File>
+    <File md5="CD86E142FFE2BBA4BD55B4A3696BC0D2" import="1">Art/Atlases/PI_NewfoundlandAtlas_256.dds</File>
+    <File md5="088BCB0A2FB7F04583CB52A182B48782" import="1">Art/Atlases/PI_NewfoundlandAtlas_32.dds</File>
+    <File md5="1BE62B5FDFE538A457D35FA5CD8099CF" import="1">Art/Atlases/PI_NewfoundlandAtlas_45.dds</File>
+    <File md5="11609A394FAC0E6AAFE58D1AF2E6BEFD" import="1">Art/Atlases/PI_NewfoundlandAtlas_64.dds</File>
+    <File md5="D8DBD4A80965816D893CCA3A6345219A" import="1">Art/Atlases/PI_NewfoundlandAtlas_80.dds</File>
+    <File md5="66ADB2FCC2F8D5332E5921CDB11950FC" import="1">Art/Flags/PI_Blue_Puttee_Flag_32.dds</File>
+    <File md5="2511F8A7849EF969567C0417E82E5F4A" import="1">Art/Flags/sv_blue_puttee.dds</File>
+    <File md5="D74C85854F572B203DE6AE37B09328E9" import="1">Art/Leaderscreen and Map/DOM_Morris.dds</File>
+    <File md5="5DC9CB3835B35A49500B5FDB45647182" import="1">Art/Leaderscreen and Map/Morris.dds</File>
+    <File md5="EFAD8183777E07B7C09F2ABC424A2F16" import="1">Art/Leaderscreen and Map/Newfoundland_Map.dds</File>
+    <File md5="E1FBF0E3EB7191F024EE8832FC6EA13B" import="1">Art/Sound/Pi_Newfoundland_Peace.mp3</File>
+    <File md5="9094441A3D9EF181ACF2AA4AE24688D2" import="1">Art/Sound/Pi_Newfoundland_War.mp3</File>
+    <File md5="AED8C287BC75FD53E3C2E49CEA2064A0" import="1">Lua/Newf_Decisions.lua</File>
+    <File md5="D2D0CDBE39EDF8FA99082308E5D39421" import="1">Lua/PlotIterators.lua</File>
+    <File md5="29732CFF72B9D9F04C1C1505516B6ACE" import="0">Lua/Uniques.lua</File>
+    <File md5="71153E45E869444AC78C6845E2BBEF3B" import="0">SQL/Newf_ArtDefines.sql</File>
+    <File md5="2DB4E2E685CD41B26B80C63D1EE9A857" import="0">SQL/Newf_GameDefines.sql</File>
+    <File md5="AE4CA0F9187F9E850A64BC0884DC1363" import="0">SQL/Newf_GameDefines_Diplo.sql</File>
+    <File md5="C1D47C0DD86ED5111051A2F0B894325A" import="1">XML/Newfoundland_Leader_Screen_Mod.xml</File>
+    <File md5="AEC747A35BEEF5DC36C8E971FFDC784C" import="0">XML/Newf_GameText.xml</File>
+    <File md5="1ECE768BA5775AF905A1A34A6ABB3FA1" import="0">XML/Newf_GameText_Diplo.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>SQL/Newf_ArtDefines.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Newf_GameDefines.sql</UpdateDatabase>
+      <UpdateDatabase>SQL/Newf_GameDefines_Diplo.sql</UpdateDatabase>
+      <UpdateDatabase>XML/Newf_GameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Newf_GameText_Diplo.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/Uniques.lua">
+      <Name>NewfieFunctions</Name>
+      <Description>
+      </Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

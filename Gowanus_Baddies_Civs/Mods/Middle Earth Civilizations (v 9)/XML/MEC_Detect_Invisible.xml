@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/16/2016 9:05:44 AM -->
+<GameData>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_MEC_DETECT_INVISIBLE</Type>
+			<Description>TXT_KEY_PROMOTION_MEC_DETECT_INVISIBLE</Description>
+			<Help>TXT_KEY_PROMOTION_MEC_DETECT_INVISIBLE_HELP</Help>
+			<CannotBeChosen>true</CannotBeChosen>
+			<PortraitIndex>58</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_MEC_DETECT_INVISIBLE</PediaEntry>
+			<SeeInvisible>INVISIBLE_SUBMARINE</SeeInvisible>
+		</Row>
+	</UnitPromotions>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_SCOUT</UnitType>
+			<PromotionType>PROMOTION_MEC_DETECT_INVISIBLE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MEC_RANGER</UnitType>
+			<PromotionType>PROMOTION_MEC_DETECT_INVISIBLE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MEC_ITHILEAN_RANGER</UnitType>
+			<PromotionType>PROMOTION_MEC_DETECT_INVISIBLE</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_MEC_NAZGUL</UnitType>
+			<PromotionType>PROMOTION_MEC_DETECT_INVISIBLE</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+</GameData>

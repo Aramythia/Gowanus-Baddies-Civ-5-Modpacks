@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+	  
+<GameData>  
+	<Language_en_US>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT] Mercenary Army[ENDCOLOR] Allows the purchasing of Variags of Khand"/>
+			<Where Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP"/>  
+		</Update>
+		<Row Tag ="TXT_KEY_UNIT_MEC_VARIAG">
+			<Text>Variag</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MEC_VARIAG">
+			<Text>
+				The Variags were men from the land of Khand, of whom little is known about apart from the fact that they fought for Sauron in the War of the Ring. They first appeared in the year 1944 of the Third Age in the north-east of Middle-earth, fighting alongside the Easterling tribe known as the Wainriders. On March 14 - 15 (Third Age: 3019) the Variags fought in Sauron's army at the Battle of the Pelennor Fields.
+				[NEWLINE][NEWLINE]Tolkien never described the Variags, and most information about them is speculative. Some speculate that they were horsemen similar to the Huns based on Khand's presumed climate and its known status as a supplier of horses to Mordor. It has also been speculated that they were axe-wielding berserkers, based on the real world Varangians.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_VARIAG_STRATEGY">
+			<Text>
+				The Variag is a unit available only through the Mercenary Army tree of the Commerce Social Policy, and is available to all civilizations (once they research Steel). This unit is three-quaters the price of the Longswordsman, and does not require iron. It also possesses unique promotions that allow it to pillage improvements at no movement cost and to plunder twice as much gold from cities. These features make the unit an interesting representation of actual real-life mercenaries, only interested in war as far as it enriches them.[NEWLINE][NEWLINE]
+				More importantly, however, is that the Variag is one of the only units in game (if not THE only unit) that can move and attack on the same turn it is purchased!
+				[NEWLINE][NEWLINE]This unit is great if you need a unit immediately, especially for defense.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_VARIAG">
+			<Text>A mercenary equilivant to the Longswordsman. Can pillage tiles at no movement cost and double plunder from cities.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>	

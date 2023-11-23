@@ -1,0 +1,201 @@
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_MATHALX_INAZUMA</Type>
+			<Description>TXT_KEY_CIV_MATHALX_INAZUMA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_MATHALX_INAZUMA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_MATHALX_INAZUMA_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_MATHALX_INAZUMA_TEXT_1</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_MATHALX_INAZUMA</CivilopediaTag>
+			<DefaultPlayerColor>PLAYERCOLOR_MATHALX_INAZUMA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_GREECE</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_ASIAN</ArtStyleType>
+			<ArtStyleSuffix>_ASIA</ArtStyleSuffix>
+			<ArtStylePrefix>ASIAN</ArtStylePrefix>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>MATHALX_INAZUMA_COLOR_ATLAS</IconAtlas>
+			<AlphaIconAtlas>MATHALX_INAZUMA_ALPHA_ICON</AlphaIconAtlas>
+			<MapImage>Mathalx_Inazuma_Map.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_MATHALX_INAZUMA_DOM</DawnOfManQuote>
+			<DawnOfManImage>Mathalx_Inazuma_DOM.dds</DawnOfManImage>
+			<SoundtrackTag>Hellenistic</SoundtrackTag>
+			<Playable>1</Playable>
+			<AIPlayable>1</AIPlayable>
+		</Row>
+	</Civilizations>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<ReligionType>RELIGION_SHINTO</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_CityNames>
+		<!-- 도처성 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_INAZUMA_CITY</CityName>
+		</Row>
+		<!-- 명신대사 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_GRAND_NARUKAMI_SHRINE</CityName>
+		</Row>
+		<!-- 이도 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_RITOU</CityName>
+		</Row>
+		<!-- 감전 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_KONDA</CityName>
+		</Row>
+		<!-- 진수삼 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_CHINJU</CityName>
+		</Row>
+		<!-- 영향산 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_YOUGOU</CityName>
+		</Row>
+		<!-- 구조 진지 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_KUJOU_ENCAMPMENT</CityName>
+		</Row>
+		<!-- 명추 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_NAZUCHI</CityName>
+		</Row>
+		<!-- 인연도 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_JINREN</CityName>
+		</Row>
+		<!-- 어영노심 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_MIKAGE_FURNACE</CityName>
+		</Row>
+		<!-- 비목촌 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_HIGI</CityName>
+		</Row>
+		<!-- 무명채 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_MUMEI</CityName>
+		</Row>
+		<!-- 황해 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_ARAUMI</CityName>
+		</Row>
+		<!-- 무상인 협곡 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_MUSOUJIN</CityName>
+		</Row>
+		<!-- 사골 광산 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MATHALX_JAKOTSU</CityName>
+		</Row>
+	</Civilization_CityNames>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MATHALX_SARA</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MATHALX_AYAKA</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MATHALX_MIKO</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MATHALX_YOIMIYA</SpyName>
+		</Row>
+		<!-- 정인 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MATHALX_MASAHITO</SpyName>
+		</Row>
+		<!-- 백일 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MATHALX_MOMOKA</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MATHALX_THOMA</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MATHALX_KOBAYASHI</SpyName>
+		</Row>
+		<!-- 좌좌목 -->
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MATHALX_SASAKI</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<LeaderheadType>LEADER_MATHALX_RAIDEN_SHOGUN</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
+			<UnitType>UNIT_MATHALX_DOUSHIN</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_MARKET</BuildingClassType>
+			<BuildingType>BUILDING_MATHALX_COMMISSION</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+
+	<Civilization_Start_Along_Ocean>
+		<Row>
+			<CivilizationType>CIVILIZATION_MATHALX_INAZUMA</CivilizationType>
+			<StartAlongOcean>true</StartAlongOcean>
+		</Row>
+	</Civilization_Start_Along_Ocean>
+</GameData>

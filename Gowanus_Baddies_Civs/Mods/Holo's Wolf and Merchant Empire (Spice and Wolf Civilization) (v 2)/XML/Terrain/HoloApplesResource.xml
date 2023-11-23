@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/14/2014 1:04:22 AM -->
+<GameData>
+	<Resources>
+		<Row>
+			<Type>RESOURCE_HOLO_APPLES</Type>
+			<Description>TXT_KEY_RESOURCE_HOLO_APPLES</Description>
+			<Civilopedia>TXT_KEY_RESOURCE_HOLO_APPLES_PEDIA</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_HOLO_APPLES_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_CITRUS</ArtDefineTag>
+			<CivilizationType>CIVILIZATION_WISEWOLF</CivilizationType>
+			<Happiness>4</Happiness>
+			<AITradeModifier>20</AITradeModifier>
+			<AIObjective>2</AIObjective>
+			<IconString>[ICON_RES_HOLO_APPLES]</IconString>
+			<PortraitIndex>12</PortraitIndex>
+			<IconAtlas>HOLO_ICON_ATLAS</IconAtlas>
+		</Row>
+	</Resources>
+	<Resource_Flavors>
+		<Row>
+			<ResourceType>RESOURCE_HOLO_APPLES</ResourceType>
+			<FlavorType>FLAVOR_HAPPINESS</FlavorType>
+			<Flavor>15</Flavor>
+		</Row>
+	</Resource_Flavors>
+	<IconFontTextures>
+		<Row>
+			<IconFontTexture>ICON_FONT_TEXTURE_HOLO_APPLES</IconFontTexture>
+			<IconFontTextureFile>Holo-AppleFontIcon</IconFontTextureFile>
+		</Row>
+	</IconFontTextures>
+	<IconFontMapping>
+		<Row>
+			<IconName>ICON_RES_HOLO_APPLES</IconName>
+			<IconFontTexture>ICON_FONT_TEXTURE_HOLO_APPLES</IconFontTexture>
+			<IconMapping>1</IconMapping>
+		</Row>
+	</IconFontMapping>
+</GameData>

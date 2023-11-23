@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/9/2021 10:52:35 PM -->
+<GameData>
+	<Traits>
+		<!--Emblian Contract-->
+		<Row>
+			<Type>TRAIT_GOD_OF_CONTRACTS</Type>
+			<Description>TXT_KEY_TRAIT_GOD_OF_CONTRACTS</Description>
+			<ShortDescription>TXT_KEY_TRAIT_GOD_OF_CONTRACTS_SHORT</ShortDescription>
+		</Row>
+	</Traits>
+</GameData>

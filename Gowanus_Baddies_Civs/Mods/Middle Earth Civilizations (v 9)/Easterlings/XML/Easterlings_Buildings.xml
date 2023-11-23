@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created byModBuddy on 3/2/2014 11:25:08 AM -->
+<GameData>
+	<BuildingClasses>
+		<Row>
+			<Type>BUILDINGCLASS_MEC_INVISIBLE_EASTERLING</Type>
+			<DefaultBuilding>BUILDING_MEC_EASTERLING_TRAIT</DefaultBuilding>
+		</Row>
+		
+	</BuildingClasses>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MEC_EASTERLING_TRAIT</Type>
+			<BuildingClass>BUILDINGCLASS_MEC_INVISIBLE_EASTERLING</BuildingClass>
+			<Cost>-1</Cost>
+			<FaithCost>-1</FaithCost>
+			<PrereqTech>NULL</PrereqTech>
+			<GreatWorkCount>-1</GreatWorkCount>
+			<NumTradeRouteBonus>1</NumTradeRouteBonus>
+			<TradeRouteLandGoldBonus>200</TradeRouteLandGoldBonus>
+			<NeverCapture>true</NeverCapture>
+		</Row>
+	</Buildings>
+</GameData>

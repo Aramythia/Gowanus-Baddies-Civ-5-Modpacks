@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/2/2014 11:25:08 AM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MEC_BARROW</Type>
+			<BuildingClass>BUILDINGCLASS_SHRINE</BuildingClass>
+			<FreeStartEra>ERA_MEDIEVAL</FreeStartEra>
+			<MaxStartEra>ERA_RENAISSANCE</MaxStartEra>
+			<Cost>40</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_POTTERY</PrereqTech>
+			<Description>TXT_KEY_BUILDING_MEC_BARROW</Description>
+			<Civilopedia>TXT_KEY_CIV_BUILDINGS_BARROW</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_MEC_BARROW_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_MEC_BARROW_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_TEMPLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<ConquestProb>66</ConquestProb>
+			<IconAtlas>MEC_ICON_ATLAS</IconAtlas>
+			<PortraitIndex>38</PortraitIndex>
+		</Row>
+	</Buildings>
+	
+	
+	<Building_Flavors>
+		<Row>
+			<BuildingType>BUILDING_MEC_BARROW</BuildingType>
+			<FlavorType>FLAVOR_RELIGION</FlavorType>
+			<Flavor>35</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEC_BARROW</BuildingType>
+			<FlavorType>FLAVOR_CULTURE</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_YieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MEC_BARROW</BuildingType>
+			<YieldType>YIELD_FAITH</YieldType>
+			<Yield>2</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEC_BARROW</BuildingType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_YieldChanges>
+	
+</GameData>

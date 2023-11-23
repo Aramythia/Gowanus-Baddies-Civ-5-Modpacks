@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="f8458728-9f76-4a2b-96d2-063544fc0514" version="1">
+  <Properties>
+    <Name>Starting Worker</Name>
+    <Teaser>This mod provides a starting worker when you begin a new game.</Teaser>
+    <Description>This mod provides a starting worker when you begin a new game.
+
+Compatible with BlouBlou's Starting Scout mod.</Description>
+    <Authors>thecrazyscotsman</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="C7C2943B6FC117BE28B0A92F23E182C9" import="0">Starting Worker.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Starting Worker.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="a3c5f183-6752-41cb-8ae7-4a4273e89f47" version="1">
+  <Properties>
+    <Name>Belobog Civilization Mod</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the Belobog Civilization from Honkai: Star Rail to the game.</Teaser>
+    <Description>Adds the Belobog Civilization, led by Supreme Guardian Bronya Rand from Honkai: Star Rail to the game.</Description>
+    <Authors>theepiccoder</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="A2CEA2C5E25D6F132A18230B7AA86151" import="1">Art/AlphaBelobog128.dds</File>
+    <File md5="F951EC0ED2F07084B951F4228FE2520E" import="1">Art/AlphaBelobog16.dds</File>
+    <File md5="C41F5E023EE4AEACDE7C7B10CC333656" import="1">Art/AlphaBelobog24.dds</File>
+    <File md5="66FA855647A3C7F493B68481AEB7D4C9" import="1">Art/AlphaBelobog32.dds</File>
+    <File md5="D81BD850C159F509E1FB216276EBA125" import="1">Art/AlphaBelobog48.dds</File>
+    <File md5="ADFCC19478170A1C88CDE5A43C538E5A" import="1">Art/AlphaBelobog64.dds</File>
+    <File md5="3EC0B6C450DD7CC672B90769270A2B5F" import="1">Art/Belobog_DOM.dds</File>
+    <File md5="14827D7F71AE2964E14AA797611ECE7C" import="1">Art/Belobog_Scene.xml</File>
+    <File md5="28813784CAB0C8B7DBCDD2F75DA057ED" import="1">Art/bronyamap.dds</File>
+    <File md5="2A57677B8305E742D8F5B9F2D0D012D3" import="1">Art/CivSymbolsBelobog128.dds</File>
+    <File md5="0F44415DB4AF12F6B50879308B50241B" import="1">Art/CivSymbolsBelobog16.dds</File>
+    <File md5="3764B05A5DC21C6B8490C6E7A3CA479A" import="1">Art/CivSymbolsBelobog214.dds</File>
+    <File md5="F370BEF56E2E8839F7B4DAF383B8B2E8" import="1">Art/CivSymbolsBelobog22.dds</File>
+    <File md5="98A27F9BCC3F3D360A1ED03CD759287C" import="1">Art/CivSymbolsBelobog24.dds</File>
+    <File md5="464D677DB55049F938C411B823C8F2D8" import="1">Art/CivSymbolsBelobog256.dds</File>
+    <File md5="E8E83ECB4B0307ACB170CFFF78F83E26" import="1">Art/CivSymbolsBelobog32.dds</File>
+    <File md5="2E2AC7485A51A9D161817EB46011B982" import="1">Art/CivSymbolsBelobog45.dds</File>
+    <File md5="02751CCDE9AF8432B3B83C0D61B5B839" import="1">Art/CivSymbolsBelobog48.dds</File>
+    <File md5="9A17A03550B0D12C4AC386EDCCDF7505" import="1">Art/CivSymbolsBelobog64.dds</File>
+    <File md5="D6C9BB702A305247E6BE32CD66FA0B24" import="1">Art/CivSymbolsBelobog80.dds</File>
+    <File md5="289B58C89BA2EA49E452AB22D2E94F01" import="1">Art/diplo_Bronya.dds</File>
+    <File md5="0F405B9ADF6009B3557306C6980E5ED7" import="1">Lua/BelobogScript.lua</File>
+    <File md5="8C57223CB79670822443A0C544B70DD1" import="1">Music/BronyaPeace.mp3</File>
+    <File md5="76408B706F0F57EBA8F71613346E061A" import="1">Music/BronyaWar.mp3</File>
+    <File md5="4DB872B68F9F00882858BE59ADD28266" import="1">Text/BelobogText.xml</File>
+    <File md5="90489673E6CB06AF2168218CA5B48F6B" import="1">Text/BronyaDiplo.xml</File>
+    <File md5="72A51BC538AFB3F3B7B43BA01B599B32" import="0">Text/BronyaDiploSQL.sql</File>
+    <File md5="3E03CD5AA36BEFD6591AB893EE1145BB" import="1">XML/Atlas_Belobog.xml</File>
+    <File md5="6088012FFB75571306E3BB1E28F4AA89" import="0">XML/BelobogSound.xml</File>
+    <File md5="D43E3B1036FEEBA73C2C0248FC8853A3" import="1">XML/Belobog_Civilization.xml</File>
+    <File md5="63EEEA4489F1A2D24388B861BE4BCD58" import="1">XML/Bronya_Leader.xml</File>
+    <File md5="0C5AD836220BA473A34458FE3E48ADE7" import="1">XML/Everwinter_Monument.xml</File>
+    <File md5="31973C775D7162FDAC99653D77C73257" import="1">XML/Silvermane_Guards.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/Bronya_Leader.xml</UpdateDatabase>
+      <UpdateDatabase>Art/Belobog_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Atlas_Belobog.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Belobog_Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Everwinter_Monument.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Silvermane_Guards.xml</UpdateDatabase>
+      <UpdateDatabase>Text/BelobogText.xml</UpdateDatabase>
+      <UpdateDatabase>Text/BronyaDiplo.xml</UpdateDatabase>
+      <UpdateDatabase>Text/BronyaDiploSQL.sql</UpdateDatabase>
+      <UpdateDatabase>XML/BelobogSound.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/BelobogScript.lua">
+      <Name>Belobog Script</Name>
+      <Description>Belobog Yippee</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/9/2022 3:23:33 AM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_FIRSTGREETING_1">
+			<Text>No salutations needed, foreigner. I am the exalted Raiden Shogun, who set her mind straight for the sake of Inazuma's prosperity. I will cut you down without hesitation should you prove to be a danger to Inazuma, so bear no malice here.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DEFEATED_1">
+			<Text>The mortal plane... a fleeting dream...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DEFEATED_2">
+			<Text>Detached from the world...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_NEUTRAL_1">
+			<Text>What is the situation?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_NEUTRAL_2">
+			<Text>State your query. To the point.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_NEUTRAL_3">
+			<Text>What needs my attention, foreigner?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_LUXURY_TRADE_1">
+			<Text>I come in behalf of the people of Inazuma to acquire this demanded luxury. I hope you will agree with this request.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_STRATEGIC_TRADE_1">
+			<Text>There are things that must be done and what must not be done, I came to you to acquire the resources to do what must be done.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_OPEN_BORDERS_EXCHANGE_1">
+			<Text>The world remains constant over the centuries while what humans make lasts but a fleeting moment. I nevertheless want to see how the moment's development and eternity mesh together. Will you not do the same?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_LETSHEARIT_1">
+			<Text>Begin.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_POLITE_HELLO_1">
+			<Text>Good day to you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_POLITE_HELLO_2">
+			<Text>It is a good day for desserts! Cavities are no big deal — you can just replace your teeth. Desserts are not a serious obstacle to my pursuit of eternity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_POLITE_HELLO_3">
+			<Text>I have judged you to be useful to the Shogunate. I hope you will prove to be that way, and I will provide you whatever amenity I can to make it so.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_HOSTILE_HELLO_1">
+			<Text>Enemy of eternity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_HOSTILE_HELLO_2">
+			<Text>You are a demon that begets ill thoughts.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_HOSTILE_HELLO_3">
+			<Text>The time that we spend may be but a moment, but do not waste it.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>The glory of conquest lasts but a fleeting moment. It is foolish of you to provoke me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>I will not make judgment regarding your intent, but I will request you to pull your troops back for the sake of both nations.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_EXPANSION_WARNING_1">
+			<Text>The movement of borders is transitory, but what you do threatens eternity and I advise you to halt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_EXPANSION_SERIOUS_WARNING_1">
+			<Text>The movement of borders is transitory, but I will not tolerate things that danger my pursuit of eternity.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DOW_LEADER_MATHALX_RAIDEN_SHOGUN_1">
+			<Text>You are deemed the enemy of eterniy, and thus I have decided to cut you personally. Now, you shall perish!</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_HOSTILE_1">
+			<Text>Yes, the transitory nature of human life makes you pathetically violent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_HOSTILE_2">
+			<Text>Remove all obstacles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_WEAK_HOSTILE_1">
+			<Text>You believe me this powerless. Foolishness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_WEAK_HOSTILE_2">
+			<Text>Absurd.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_STRONG_HOSTILE_1">
+			<Text>Torn to oblivion!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_STRONG_HOSTILE_2">
+			<Text>Pathetic and foolish one! Glory in the mortal plane is but a fleeting dream!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_EXCITED_1">
+			<Text>Yes, the transitory nature of human life makes you want to raise a thunderclap. So be it, I accept your challenge.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_EXCITED_2">
+			<Text>Insolent, but I too am interested in combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_WEAK_EXCITED_1">
+			<Text>The mortal plane is a fleeting dream, and I will satisfy your lust for conflict.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_WEAK_EXCITED_2">
+			<Text>Absurd, you seek to challenge an ill-prepared opponent. However, I am curious how my skill takes me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_STRONG_EXCITED_1">
+			<Text>Torn to oblivion!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_STRONG_EXCITED_2">
+			<Text>Pathetic and foolish one! You will be punished by the eternal lightning!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>Erosion is a terrible thing, but it will be overcome through repairs and growth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>I said desserts are not a serious obstacle to my pursuit of eternity. Economy and Civilizations may be fleeting, but progress is eternal, yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>To pursue eternity one must be able to withstand any threat at any moment. I will look to your example.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>Ah, the drive to advance and evolve in the martial arts is truly fantastic, no?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_CANT_MATCH_OFFER_1">
+			<Text>I have counseled with the Kanjou Commission. This offer is too large for us to handle.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_CAUGHT_YOUR_SPY_HOSTILE">
+			<Text>Do you honestly think that acquiring technology through illicit means will help you in the long run?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_CAUGHT_YOUR_SPY_FRIENDLY">
+			<Text>I still believe you are useful to the Shogunate, so I advise you to cease and repent.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_CAUGHT_YOUR_SPY_1">
+			<Text>If you think you can achieve eternity through such cheap tricks you are misguided.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_KILLED_YOUR_SPY">
+			<Text>I will purge all enemies of eternity. Your spy was purged accordingly.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_OPEN_BORDERS_OFFER">
+			<Text>I would like to see what your civilization has accomplished in its short moment alongside eternity. Will you not indulge this one?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_RESEARCH_AGREEMENT_OFFER">
+			<Text>As the advancement in martial art is fantastic, creation and evolution is not the enemy of eternity. Surely, we can work something that will stand the test of time?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_SAME_POLICIES_AUTOCRACY">
+			<Text>The mortal realm might be fleeting, but to think I will be stained by evil in that brief moment.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_SAME_POLICIES_FREEDOM">
+			<Text>The pursuit of eternity was ultimately a part of a promise to bring prosperity to my people. Unchanging rules are unconducive to growth, and there is a need to adopt a more flexible chain of thought.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_SAME_POLICIES_ORDER">
+			<Text>What is outside eternity is an exception, and it must be rectified.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DECLARE_FRIENDSHIP_1">
+			<Text>This one would like to call you a friend of the Shogunate. Will you accept?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DOF_FRIENDS_1">
+			<Text>I would like to maintain our relationship as a part of pursuing eternity.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DOF_OLD_FRIENDS_1">
+			<Text>Mortal life is fleeting as a dew, but I would like to stay with you.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DOF_BATTLE_BROTHERS_1">
+			<Text>You could have saved them all. If you remember me I can be eternal. Then, shall we breach once more?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_CULTURE_BOMBED_1">
+			<Text>Avarice for that small piece of land... Incredible.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_RENEW_DEAL_1">
+			<Text>If only contracts were eternal, but I suppose renewing it is in spirit of eternity, don't you think?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>I accept that proposal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>That will do.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>Alright.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_GENEROUS_1">
+			<Text>You show goodwill toward Inazuma. I happily accept.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_GENEROUS_2">
+			<Text>I will not decline aid to my pursuit of eternity.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_GENEROUS_3">
+			<Text>I will accept with thanks in behalf of the people of Inazuma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>I decline.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>I find this unsatisfactory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_UNACCEPTABLE_3">
+			<Text>Do not try to make ill gains at the cost of the people of Inazuma.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_INSULTING_1">
+			<Text>Nonsense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_INSULTING_2">
+			<Text>Foolishness!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_INSULTING_3">
+			<Text>I am not idle for such blabberings.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_RETURNED_CIVILIAN_1">
+			<Text>I am thankful that you have saved the people of Inazuma.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

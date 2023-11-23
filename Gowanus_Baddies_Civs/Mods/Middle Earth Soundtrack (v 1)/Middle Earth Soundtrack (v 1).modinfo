@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6724fecd-91d2-44fe-884d-abb59be314ad" version="1">
+  <Properties>
+    <Name>Middle Earth Soundtrack</Name>
+    <Teaser>Adds Middle Earth Themed Music.</Teaser>
+    <Description>This is a seperate mod to handle the soundtrack for Middle Earth Civilizations. 
+
+In order to effectively use this mod you will need to use Middle Earth Civilizations. This mod doesn't do anything without it. 
+
+This music was taken from the Battle For Middle Earth game by EA.
+
+Special Thanks:
+Howard Shore
+New Line Cinema
+EA Games
+BFME2</Description>
+    <Authors>yenyang</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="8A05EF6B6F1AC38240DC38271FFE4FDC" import="1">Soundtrack/Evil/Either/evilEither01.mp3</File>
+    <File md5="F99963498EF384EA6631136480CD8442" import="1">Soundtrack/Evil/Either/evilEither02.mp3</File>
+    <File md5="07E4F764695DD619916A5C33DAC781D7" import="1">Soundtrack/Evil/Either/evilEither03.mp3</File>
+    <File md5="4AA7A55B8CB5255A4892EF61D24F172F" import="1">Soundtrack/Evil/Either/evilEither04.mp3</File>
+    <File md5="56659453CC3886DD0CDCEC1E4E58F115" import="1">Soundtrack/Evil/Either/evilEither05.mp3</File>
+    <File md5="01B93F1FF3142284E09BA9C8D75EDEE8" import="1">Soundtrack/Evil/Peace/evilPeace01.mp3</File>
+    <File md5="41E0731ACF3E4B7B18DCA1952F7393D7" import="1">Soundtrack/Evil/Peace/evilPeace02.mp3</File>
+    <File md5="8837CEFBD546ABC7224EEDE0FCE6F4F2" import="1">Soundtrack/Evil/War/evilWar01.mp3</File>
+    <File md5="AD9C2375D51CEA1D26A50183E7EA30C1" import="1">Soundtrack/Evil/War/evilWar02.mp3</File>
+    <File md5="96277CDD563B7BC682DB359C966D1736" import="1">Soundtrack/Evil/War/evilWar03.mp3</File>
+    <File md5="749570B502A8D1629A8E122659ED8FA6" import="1">Soundtrack/Evil/War/evilWar04.mp3</File>
+    <File md5="175FF3281224B62BA958FD3F26055FA2" import="1">Soundtrack/Evil/War/evilWar05.mp3</File>
+    <File md5="080147A96BF7297BE6A5933125F2DC90" import="1">Soundtrack/Good/Either/goodEither01.mp3</File>
+    <File md5="626ABCD2775977C486203C67B74E02C4" import="1">Soundtrack/Good/Either/goodEither02.mp3</File>
+    <File md5="5EE182AF2C728960E34ED77DE6D39202" import="1">Soundtrack/Good/Either/goodEither03.mp3</File>
+    <File md5="92AA52D1C1ABF6FB4764173F627CB48C" import="1">Soundtrack/Good/Either/goodEither04.mp3</File>
+    <File md5="748154C197B49C0045D79EE11C74057E" import="1">Soundtrack/Good/Either/goodEither05.mp3</File>
+    <File md5="05395F7A3872998209BBE4D67C7645F6" import="1">Soundtrack/Good/Peace/goodPeace01.mp3</File>
+    <File md5="AE5E752C2E6AFADDEA46480D0283B5EB" import="1">Soundtrack/Good/Peace/goodPeace02.mp3</File>
+    <File md5="F9F2836910007C154BF77C45C409834C" import="1">Soundtrack/Good/Peace/goodPeace03.mp3</File>
+    <File md5="423916976E2BF5A085203552F24CFE60" import="1">Soundtrack/Good/War/goodWar01.mp3</File>
+    <File md5="1044B859D340382287D737332EFBCB39" import="1">Soundtrack/Good/War/goodWar02.mp3</File>
+    <File md5="70388DF6AF33E7BEB3B39C600E240D8F" import="1">Soundtrack/Good/War/goodWar03.mp3</File>
+    <File md5="4A30FEE43AEF2B277B05510CF7098C72" import="0">Soundtrack/XML/MEC_Audio_2DSounds.xml</File>
+    <File md5="306D39524D4A05C959AD63B1A5FD6A5F" import="0">Soundtrack/XML/MEC_Audio_Sounds.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>Soundtrack/XML/MEC_Audio_2DSounds.xml</UpdateDatabase>
+      <UpdateDatabase>Soundtrack/XML/MEC_Audio_Sounds.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>

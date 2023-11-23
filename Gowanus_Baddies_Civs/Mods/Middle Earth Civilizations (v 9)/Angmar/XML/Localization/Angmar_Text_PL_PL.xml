@@ -1,0 +1,182 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	  
+<GameData>  
+	<Language_PL_PL>
+		<Row Tag ="TXT_KEY_CIV_MEC_ANGMAR_DESC">
+			<Text>Królestwo Angmaru</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_ANGMAR_SHORT_DESC">
+			<Text>Angmar</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_ANGMAR_ADJECTIVE">
+			<Text>Angmarska</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_ANGMAR_TEXT_1">
+			<Text>
+				Angmar był krainą założoną przez złego przywódcę Nazgûli, który stał się znany jako Czarnoksiężnik z Angmaru w 1300 roku Trzeciej Ery. Królestwo to było położone na dalekiej północy Gór Mglistych. Ląd ten był znany ze swojej zimnej pogody, przeważnie padał tam śnieg. Niedługo po założeniu Królestwa Angmaru, zaczęło ono prowadzić wojnę przeciwko Dúnedaińskim królestwom Arthedain, Cardolan i Rhudaur. Najsłabsze pod-królestwo Arnoru, Rhudaur, zostało podbite przez Czarnoksiężnika, który zastąpił Dúnedaińskiego przywódcę jednym z rdzennych 'Ludzi Gór'. Następnie w 1409 roku Trzeciej Ery, Angmar zaatakował Cardolan oraz Rivendell i zniszczył wszystkie tamtejsze osady poza stolicą Cardolan, Wzgórzami Kurhanów. Po Wielkiej Pladze, ostatni mieszkańcy Cardolanu zmarli pozwalając Angmarowi wysłać Upiory Kurhanów na wzgórza. Podczas 1974 roku Trzeciej Ery, Angmar zwielokrotnił swoje siły i rozpoczął ostateczny atak na Arthedain, które nie miało już żadnych sojuszników do pomocy. Następnie, Angmar podbił jego stolicę Fornost, w ten sposób niszcząc ostatnie północne królestwo Dúnedainów. Trochę później, Książe Eärnur - trzydziesty trzeci i ostatni Król Gondoru - pojawił się by wspomóc Arthedain, lecz przybył za późno. Jego armia pokonała siły Angmaru w Bitwie o Fornost, a Czarnoksiężnik uciekł do Mordoru pozostawiając Angmar niechybnej zgubie, która nastąpiła w 1975 roku Trzeciej Ery. [NEWLINE][NEWLINE] Twój Władca Sauron wzywa cię ponownie Czarnoksiężniku, Królu Angmaru i Władco Nazguli. Czy zasiądziesz zwycięsko na tronach swoich przeciwników? Czy twoje armie zostaną zniszczone, gdy uciekniesz wycofując się? Czy potrafisz zbudować cywilizację, która przetrwa próbę czasu?</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_ANGMAR">
+			<Text>Angmar</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_BORDERLANDS">
+			<Text>Pogranicze</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_FORODWAITH">
+			<Text>Forodwaith</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_ANGMAR">
+			<Text>Angmar</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_NORTH_DOWNS">
+			<Text>Północne Wzgórza</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_CARN_DUN">
+			<Text>Carn Dum</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_GOROTHLAD">
+			<Text>Gorothlad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_EASTERN_ANGMAR">
+			<Text>Wschodni Angmar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_HIMBAR">
+			<Text>Himbar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_NAN_GURTH">
+			<Text>Nan Gurth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MALENHAD">
+			<Text>Malenhad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_URUGARTH">
+			<Text>Urugarth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_DOR_DAIDELOS">
+			<Text>Dor Daidelos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_AUGHAIRE">
+			<Text>Aughaire</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_FOROCHEL">
+			<Text>Forochel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_DUVUMEN">
+			<Text>Duvumen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_DONNVAIL">
+			<Text>Donnvail</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_FASACH_FALROLD">
+			<Text>Fasach Falrold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_IMLAD_BALCHORTH">
+			<Text>Imlad Balchorth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_GATH_ULOR">
+			<Text>Gath Ulor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_WITCH_KING">
+			<Text>Czarnoksiężnik z Angmaru</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_LEADER_MEC_WITCH_KING_PEDIA">
+			<Text>Czarnoksiężnik z Angmaru</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_WITCH_KING">
+			<Text>
+				Czarnoksiężnik z Angmaru był przywódcą Nazgûli tzw. Upiorów Pierścienia i drugim najważniejzym dowódcą Saurona podczas Drugiej i Trzeciej Ery. Kiedyś był on ludzkim królem, jednakże został zepsuty przez jeden z Dziewięciu Pierścieni Władzy dany ludzkim władcom i stał się nieumarłym upiorem służącym Sauronowi. Król Nazgûli pojawił się ponownie w 1300 roku Trzeciej Ery na północy niedaleko od zaginionego Królestwa Arnoru. Założył tam królestwo Angmar. Właśnie po utworzeniu Angmaru i kilku konfliktach z Dúnedainami Północy Król Nazgûli zdobył tytuł Czarnoksiężnika, Władcy Angmaru. Następnie rozpoczął otwartą wojnę z trzema podzielonymi królestwami Arnoru (Arthedain, Rhudaur i Cardolan). W 1356 roku Trzeciej Ery, Czarnoksiężnik przeprowadził inwazję na królestwo Rhudaur i zastąpił Dúnedaińskich królów wodzem ludzi gór sprzymierzonych z Angmarem. Król Argeleb z Arthedain został zabity podczas próby obrony Rhudauru przed Angmarem. W 1409 roku Trzeciej Ery oddziały Czarnoksiężnika zaatakowały fortecę Amon Sûl i spalili wieżę, podczas czego król Arveleg z Arthedain został zabity. Następnie Czarnoksiężnik zaatakował i zniszczył królestwo Cardolan. Następnie przeprowadził inwazję na Arthedain i był blisko jego zniszczenia lecz Król Araphor z pomocą elfów z Lindon i Rivendell pokonał agresorów. Po niedługim czasie, jedynym miejscem stawiającym opór siłom Czarnoksiężnika było zachodnie królestwo Arthedain. Czarnoksiężnik kontynuował więc wojnę przez stulecia. W 1636 roku Trzeciej Ery, wysłał upiory do Kurhanów w Cardolan by zapobiec odrodzeniu się królestwa. Czarnoksiężnik wygrał ostatecznie na północy w 1974 roku Trzeciej Ery, gdy jego siły zdobyły Fornost Erain, stolicę Arthedain. Dzięki jego zdobyciu, ostatnie królestwo upadło, a razem z nim, ostatnie resztki zaginionego królestwa Arnoru przepadły na zawsze. Czarnoksiężnik zasiadł na swoim zdobytym tronie w niedawno podbitym Fornost. Jednakże jego gloria trwała niedługo, gdy w 1975 roku Trzeciej Ery, generał Eärnur z Gondoru dopłynął do Szarych Przystani, razem z armią Gondoru. Jego armia była wspierana przez Elfy z Lindon i resztki północnych Dúnedainów podczas ataku na Czarnoksiężnika. Nie znaleziono go w Fornost, lecz na polach na zachód od miasta, niedaleko Jeziora Evendim, w domu starożytnch króli Arnoru, Annúminas. Bitwa ta jest znana jako Bitwa o Fornost. Armia Dúnedainów Eärnura dołączyła później do walki w mgle bitwy z Glorfindelem i jego elficką armią z Rivendell. Czarnoksiężnik wyszedł ze swej kryjówki i rozpoczął walkę z Eärnurem. Gdy Eärnur próbował go zaatakować, jego koń został opętany strachem Króla Nazgûli i uciekł. Czarnoksiężnik, wykpiwając Eärnura, uciekł z pola bitwy. Gdy Eärnur zaczął za nim podążać, Glorfindel powstrzymał go ostrzeżeniem które stało się przepowiednią przyszłości: "Nie goń go! On już nie powróci do tych krain. Jeszcze daleko do jego zagłady i nie zostanie on zabity przez mężczyznę." Czarnoksiężnik, niszcząc Północne Królestwo, uciekł na północ. Angmar został pozostawiony bez władcy i niedługo później upadł. Czarnoksiężnik z Angmaru został zabity w Bitwie na Polach Pelennoru prez Meriadoka Brandybucka i Éowinę, siostrzenicę Theódena pod koniec Wojny w ten sposób wypełniając przepowiednię Glorfindela.
+			</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_UNIT_MEC_SNOW_TROLL">
+			<Text>Śnieżny Troll</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MEC_SNOW_TROLL">
+			<Text>Śnieżne trolle są jednym z kilku gatunków trolli. Pochodzą z zamarźniętych i zimnych północnych pustkowi Angmaru. Jako istoty wymyślone przez projektantów Króla Nazguli, dodatku do gry Władca Pierścieni: Bitwa o Śródziemie II, Śnieżne Trolle nie mogą być uważane za kanoniczne odnośnie dzieł Tolkiena, ale trolle żyjące na Zimnych Polach w zachodniej części Eriadoru musiały być do nich podobne. Śnieżne Trolle są mniejsze niż ich południowi krewni, ale tak czy inaczej zazwyczaj mierzą 10 stóp. Kolor ich skóry i sierści jest zazwyczaj biały lub jasnoszary i jest ona raczej krótka jak na trolle; posiadają również długie, silne nogi dzięki którym mogą pokonywać duże odległości. Są one wyjątkowo szybkie w porównaniu do innych gatunków trolli, na tyle szybkie by móc dogonić konia i mogą je nawet lekko wyprzedzić, gdy zajdzie taka potrzeba.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_SNOW_TROLL_STRATEGY">
+			<Text>
+				Śnieżny Troll jest podstawową mobilną jednostką Królestwa Angmaru. Zastępują Rycerzy, ale są od nich zupełnie inni. Są silniejsi niż Rycerze, ale wymagają więcej produkcji do ich wytworzenia. Troll Jaskiniowy ulepsza się do Okrętów Lądowych zamiast Kawalerii. Śnieżny Troll nie wymaga koni. Śnieżny Troll rozpoczyna grę z awansem nazwanym jak on sam który daje +25% Ataku na polach Śniegu lub Tundry. Awans ten jest tracony wraz z ulepszeniem jednostki. 
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_SNOW_TROLL">
+			<Text>Zastępuje Rycerzy. Silniejszy i nawet lepszy na polach śniegu lub tundry.</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_UNIT_MEC_GUNDABAD_ORC">
+			<Text>Orkowie z Gundabad</Text>
+		</Row>
+
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_ANTIQUITY_MEC_GUNDABAD_ORC">
+			<Text>Orkowie z Gundabad to Orkowie zamieszkujący Górę Gundabad. Zaatakowali ją i zabrali ją Krasnoludom Durina podczas gdy tu rezydowały. Byli sługami Czarnoksiężnika z Angmaru zanim zajęli Gundabad. W pewnym okresie czasu podczas Drugiej Ery, orkowie którzy przeżyli zniszczenie Twierdzy Angband byli zmuszeni do tułaczki po Północnych Pustkowiach w celu znalezienia domu. Właśnie wtedy zaatakowali górę i zabrali ją Krasnoludom. Podczas Trzeciej Ery, Orkowie z Angmaru oficjalnie uznali Gundabad za swoją stolicę co bardzo zdenerwowało Krasnoludów. Gundabad pozostał orkijską twierdzą, aż został oczyszczony z orków w 2799 roku Trzeciej Ery, po Wojnie Krasnoludów z Orkami. Jednakże, małe grupy orków powróciły i znów ufortyfikowały górę podczas wydarzeń z Hobbit: Czyli tam i z powrotem, zagrażając Dzikim Krainom po raz kolejny. To właśnie dlatego Gobliny pojawiły się w Bitwie Pięciu Armii w swojej liczbie. Ich przywódca, Bolg, syn Azoga, był głównodowodzącym orków z Góry Gundabad oraz przypuszczalnie także orków z Gór Mglistych i został zabity przez zmiennokształtnego Beorna. Nie wiadomo co stało się z orkami po tym wydarzeniu ani kto był ich następnym dowódcą, lecz niektórzy mówią, że opuścili Gundabad osiedlili się w Górach Mglistych. Orkowie z Gundabad wyglądali podobnie do Orków z Mordoru, piechoty Mrocznego władcy Saurona. Mieli ciemną skórę, kły, pazury i małą ilość włosów. Nosili zbroję z brązowych i białych futer gwintowanych zębami różnych bestii i ostre tarcze nosząc Żelazną Koronę. Jak wielu orków, używali długich, ostrych mieczy nazywanych Sejmitarami na które nabijali i którymi cieli swoich wrogów.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_GUNDABAD_ORC_STRATEGY">
+			<Text>Orkowie z Gundabad są potężną podstawową jednostką walczącą wręcz z Epoki Klasycznej. Orkowie z Gundabad posiadają awans Szarża w związku z czym są +25% lepsi w atakowaniu rannych przeciwników.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_GUNDABAD_ORC">
+			<Text>Zastępują Zbrojnych. +2 Siły w walce. Zaczynają z awansem Szarża.</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_TRAIT_MEC_LORD_OF_THE_NAZGUL">
+			<Text>Burzysz miasta z podwójną prędkością. Jednostki walczące wręcz mogą plądrować pola z ulepszeniami bez zużywania punktów ruchu. Jednostki walczące wręcz zyskują Narzędzia Oblężnicze, specjalny awans dający +25% [ICON_STRENGTH] ataku przeciw miastom.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_TRAIT_MEC_LORD_OF_THE_NAZGUL_SHORT">
+			<Text>Władca Nazguli</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_WITCH_KING_NAME">
+			<Text>Czarnoksiężnik z Angmaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_WITCH_KING_SUBTITLE">
+			<Text>Władca Angmaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_WITCH_KING_LIVED">
+			<Text>1300TE-3019TE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_WITCH_KING_DEFEATED_%">
+			<Text>Achhh. Moja godzina dobiegła końca. Poddaje się i klękam przed Twoją potęgą.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_WITCH_KING_FIRSTGREETING_%">
+			<Text>Nadeszła moja godzina. Ciemność zatryumfuje a zwycięstwo będzie moje. Pozostanie jedynie pył i popiół. Wszyscy przede mną uklękną.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ROGASH">
+			<Text>Rogash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_MORGOMIR">
+			<Text>Morgomir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_HWALDAR">
+			<Text>Hwaldar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_MAKOARE">
+			<Text>Makoare</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_BREOSAL">
+			<Text>Breosal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ADHARGAL">
+			<Text>Adhargal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_GRISGART">
+			<Text>Grisgart</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_MORDRED">
+			<Text>Mordred</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_KARSH">
+			<Text>Karsh</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MEC_SNOW_TROLL">
+			<Text>Śnieżny Troll</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEC_SNOW_TROLL_HELP">
+			<Text>+25 Ataku na polach śniegu i Tundry</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEC_SIEGE_TOOLS">
+			<Text>Narzędzia Oblężnicze</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEC_SIEGE_TOOLS_HELP">
+			<Text>+25 Ataku przeciwko miastom</Text>
+		</Row>
+	</Language_PL_PL>
+</GameData>	

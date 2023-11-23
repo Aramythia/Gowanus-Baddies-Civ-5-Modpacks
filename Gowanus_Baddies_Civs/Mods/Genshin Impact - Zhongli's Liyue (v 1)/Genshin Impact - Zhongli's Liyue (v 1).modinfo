@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="5b388021-7e5c-4024-a645-c847dead224e" version="1">
+  <Properties>
+    <Name>Genshin Impact - Zhongli's Liyue</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>I will have order!</Teaser>
+    <Description>Zhongli is here to lead Liyue to new glory!</Description>
+    <Authors>Qrow</Authors>
+    <SpecialThanks>Nyx, Chrisy15. TheMH06, CrocWorks, Mathetes, President Barak Obama</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="BC8D108EDB02977746CA50E6968BD407" import="1">art/LiyueAlphaAtlas128.dds</File>
+    <File md5="27C63DBAB278BEF5980B52B74BABB9A7" import="1">art/LiyueAlphaAtlas16.dds</File>
+    <File md5="9F766E681345D6EFCA129304FCB9558A" import="1">art/LiyueAlphaAtlas24.dds</File>
+    <File md5="71BEAEEA34EECB836CAD614F24C1F1A5" import="1">art/LiyueAlphaAtlas256.dds</File>
+    <File md5="B05A3846EE06A73903FD9E8448989174" import="1">art/LiyueAlphaAtlas32.dds</File>
+    <File md5="BDBCAFE528D909FB72776BE44CD37337" import="1">art/LiyueAlphaAtlas45.dds</File>
+    <File md5="71CF91AF71017A5F1145A09334F755B7" import="1">art/LiyueAlphaAtlas48.dds</File>
+    <File md5="600844308ABD84188E660E9A1197AD1C" import="1">art/LiyueAlphaAtlas64.dds</File>
+    <File md5="9ADF33BDCD5341C65908CEFECC9F47FD" import="1">art/LiyueAlphaAtlas80.dds</File>
+    <File md5="4A929F01A794FE70BD253FEF46A03493" import="1">art/LiyueAtlas128.dds</File>
+    <File md5="AF1371EEC2525CF36EA94DC4542A1469" import="1">art/LiyueAtlas256.dds</File>
+    <File md5="60FDF15A6CBB6AF15C4ADE67BCB2E78A" import="1">art/LiyueAtlas32.dds</File>
+    <File md5="6DAB34678143090883F5791B43C8E698" import="1">art/LiyueAtlas45.dds</File>
+    <File md5="D47094DBC91CCA7CD139C40CF942464A" import="1">art/LiyueAtlas64.dds</File>
+    <File md5="24A0ECD7E08BE3EB23B82C78D604CE41" import="1">art/LiyueAtlas80.dds</File>
+    <File md5="A8697E6DF9285A43AC3988D643F46F1D" import="1">art/LiyueMap.dds</File>
+    <File md5="CCE9E9EBD198D302C0268EA4DB921C92" import="1">art/ZhongliDOM.dds</File>
+    <File md5="942F42F77A06FF68B8694807D6656239" import="1">art/Zhongli_Liyue_LeaderScene.dds</File>
+    <File md5="BC7FF96F998A2EFE2A4B8BC210A90B5C" import="0">core/AdeptalWarriorPromo.sql</File>
+    <File md5="926768C233F5F49F7E612E4B70CC6550" import="0">core/FeiyunCommerceGuild.xml</File>
+    <File md5="817BB5E198BBBF78AE819DE15DE63E3E" import="0">core/ZhongliDiplomacy.sql</File>
+    <File md5="F1358EFBE2DBCA4ACF37675ECB3CA98F" import="0">core/ZhongliResponses.xml</File>
+    <File md5="5FEFCE707B754CDA2CAE11648FC5240E" import="0">core/Zhonglitrait.sql</File>
+    <File md5="4EAA2F329EA37236FCCEF48213B2F554" import="1">core/ZhongliDiplo.xml</File>
+    <File md5="A6292AB8ACCEF8F2176AADF8A2820904" import="0">core/Liyue.xml</File>
+    <File md5="7E893F7FDA0543AF470830DD546F6983" import="0">core/LiyueAtlas.sql</File>
+    <File md5="B8B7B6C6687D25C17D3551FD51EE3518" import="0">core/LiyueText.xml</File>
+    <File md5="83B962488B91E27C760BC3A010B44180" import="0">core/LiyueUnits.xml</File>
+    <File md5="AE51A97E24EBC5D36D32AC6BF46B53F9" import="0">core/Zhongli.xml</File>
+    <File md5="73D580B0123AA9B7C541D0F5315EF883" import="0">core/ZhongliTrait.xml</File>
+    <File md5="11E3353354440D3FCE182F6B4C4475BA" import="0">LUA/Lua Script1.lua</File>
+    <File md5="7E931A8E809F5A204E95EC106193080C" import="1">sound/Liyue_War.mp3</File>
+    <File md5="D25F7673B86808AD7C4C85D0E7470978" import="1">sound/ZhongliSound.xml</File>
+    <File md5="51E8AAE5591EE3C6E9EE01B2446A5CE3" import="1">sound/Liyue_Peace.mp3</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>core/FeiyunCommerceGuild.xml</UpdateDatabase>
+      <UpdateDatabase>core/Liyue.xml</UpdateDatabase>
+      <UpdateDatabase>core/LiyueAtlas.sql</UpdateDatabase>
+      <UpdateDatabase>core/LiyueText.xml</UpdateDatabase>
+      <UpdateDatabase>core/LiyueUnits.xml</UpdateDatabase>
+      <UpdateDatabase>core/Zhongli.xml</UpdateDatabase>
+      <UpdateDatabase>core/ZhongliTrait.xml</UpdateDatabase>
+      <UpdateDatabase>core/AdeptalWarriorPromo.sql</UpdateDatabase>
+      <UpdateDatabase>sound/ZhongliSound.xml</UpdateDatabase>
+      <UpdateDatabase>core/Zhonglitrait.sql</UpdateDatabase>
+      <UpdateDatabase>core/ZhongliResponses.xml</UpdateDatabase>
+      <UpdateDatabase>core/ZhongliDiplomacy.sql</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/Lua Script1.lua">
+      <Name>ORDER</Name>
+      <Description>ORDER</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/9/2022 3:15:07 AM -->
+<GameData>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_MATHALX_INAZUMA</Type>
+			<PrimaryColor>COLOR_PLAYER_MATHALX_INAZUMA_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_MATHALX_INAZUMA_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_BLACK_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MATHALX_INAZUMA_ICON</Type>
+			<Red>.90</Red>
+			<Green>.825</Green>
+			<Blue>.625</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_MATHALX_INAZUMA_BACKGROUND</Type>
+			<Red>.6</Red>
+			<Green>.42</Green>
+			<Blue>.9</Blue>
+			<Alpha>1.0</Alpha>
+		</Row>
+	</Colors>
+</GameData>

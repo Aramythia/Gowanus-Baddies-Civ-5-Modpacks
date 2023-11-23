@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	  
+<GameData>  
+	<Language_PL_PL>
+		<Row Tag ="TXT_KEY_CIV_MEC_GONDOR_DESC">
+			<Text>Królestwo Gondoru</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_GONDOR_SHORT_DESC">
+			<Text>Gondor</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_GONDOR_ADJECTIVE">
+			<Text>Gondoriańska</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_GONDOR_TEXT_1">
+			<Text>
+				Aragorn, syn Arathorna, Elessar, Dúnadan, Król Gondoru, Dziedzic Syna Isildura Elendila. Gdy Aragorn miał jedynie dwa lata, jego ojciec Arathorn został zabity podczas ścigania orków. Aragorn był później wychowywany w Rivendell przez Elronda. Następnie Aragorn przyjął swoją odpowiednią rolę jako szesnasty Wódz Dúnedainów i Strażników Północy i porzucił wygody Rivendell dla dziczy, w której żył z resztą swoich ludzi, których królestwo zostało zniszczone przez domowe i regionalne wojny przed wiekami. [NEWLINE][NEWLINE] Podczas Wojny o Pierścień Aragorn dołączył do Frodo Bagginsa i jego trzech przyjaciół w karczmie Pod Rozbrykanym Kucykiem w Bree. Czwórka ta wyruszyła z Shire, by zanieść Jedyny Pierścień do Rivendell. Tam, Aragorn stwierdził, że dołączy do Frodo, w ten sposób formując Drużynę Pierścienia która została utworzona by bronić Frodo, którego zadaniem było zniszczenie Pierścienia w ogniu Góry Przeznaczenia w Mordorze. Poza Aragornem, Gandalfem i Frodo, drużyna zawierała Pippina, Merryego, Samwisea Gamgee, elfa Legolasa, krasnoluda Gimliego i Boromira z Gondoru. Po porażce Saurona, Aragorn został ukoronowany jako Król Elessar. Stał się 26 Królem Arnoru, 35 Królem Gondoru i pierwszym Wysokim Królem Zjednoczonego Królestwa, aczkolwiek minęło kilka lat zanim jego auytorytet został pewnie przywrócony w Arnorze. [NEWLINE][NEWLINE] Wolni Ludzie Śródziemia wzywają cię jeszcze raz, Królu Elessarze. Czy powrócisz zwycięski, tak jak powróciłeś spod Czarnej Bramy pod koniec Wojny o Pierścień? Czy zawiedziesz i zostaniesz zepsuty przez zło jak twój przodek Isildur? Czy potrafisz zbudować cywilizację, która przetrwa próbę czasu?
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_GONDOR_PEDIA">
+			<Text>
+				Gondor był najwspanialszym królestwem Ludzi ze Śródziemia, graniczącym z Rohanem na północy, Haradem na południu, przylądkiem Andrast i morzem na zachodzie i Mordorem na wschodzie. Jego pierwszą stolicą był Osgiliath, została jednak ona przeniesiona do Minas Tirith w 1640 roku Trzeciej Ery. Miasto Minas Tirith pozostało stolicą Gondoru przez resztę Trzeciej Ery i podczas lat Czwartej Ery; inne główne twierdze Gondoru zawierają Dol Amroth w Belfalas i Osgiliath, miasto na Anduinie. Gondor został założony przez dwóch braci: Isildura i Anáriona, wygnańców z Númenoru. Gondor był królestwem sprzymierzonym z Arnorem, którego linia królów wodzów pochodziła od Isildura, podczas gdy linia królów Gondoru pochodziła od Anáriona. Gondor był u szczytu swojej siły w swoich wczesnych latach istnienia dzięki statkom i sile militarnej posiadanej przez swoją armię. Jednakże, nieustające ataki sprzymierzeńców Saurona, wojna domowa, a także dewastująca plaga sprawiły że stopniowo upadało i upadało w ciągu Trzeciej Ery, aż do czasu w którym Sauron ostatecznie odniósł porażkę, a Aragorn II Elessar został koronowany.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_GONDOR">
+			<Text>Królestwo Gondoru</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_LEBENNIN">
+			<Text>Lebennin</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_ITHILEAN">
+			<Text>Ithilien</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_MINAS_TIRITH">
+			<Text>Minas Tirith</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_DOL_AMROTH">
+			<Text>Dol Amroth</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_LAMEDON">
+			<Text>Lamedon</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_ANFALAS">
+			<Text>Anfalas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_BELFALAS">
+			<Text>Belfalas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ANDRAST">
+			<Text>Andrast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_VALE_OF_ERECH">
+			<Text>Dolina Erech</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_DRUWAITH_IAUR">
+			<Text>Druwaith Iaur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_SOUTH_ITHILIEN">
+			<Text>Południowe Ithilien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_OSGILIATH">
+			<Text>Osgiliath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MINAS_ANOR">
+			<Text>Minas Anor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MINAS_ITHIL">
+			<Text>Minas Ithil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_PELARGIR">
+			<Text>Pelargir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_CAIR_ANDROS">
+			<Text>Cair Andros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_CALEMBEL">
+			<Text>Calembel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ETHRING">
+			<Text>Ethring</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_TARNOST">
+			<Text>Tarnost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_HENNETH_ANNUN">
+			<Text>Henneth Annun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_LINHIR">
+			<Text>Linhir</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_TOLFALAS">
+			<Text>Tolfalas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_EDHELLOND">
+			<Text>Edhellond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_AMON_HEN">
+			<Text>Amon Hen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_AMON_LHAW">
+			<Text>Amon Lhaw</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_TOL_BRANDIR">
+			<Text>Tol Brandir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MORTHOND">
+			<Text>Morthond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_BLACKROOT">
+			<Text>Czarny Korzeń</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_LEFNUI">
+			<Text>Lefnui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_PINNATH_GELIN">
+			<Text>Pinnath Gelin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_DOR_EN_ERNIL">
+			<Text>Dor En Ernil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_SERNI">
+			<Text>Serni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_POROS">
+			<Text>Poros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_EMYN_ARNEN">
+			<Text>Arnen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_NARDOL">
+			<Text>Nardol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_EILENACH">
+			<Text>Eilenach</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_AMON_DIN">
+			<Text>Amon Din</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ERUI">
+			<Text>Erui</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_LEADER_MEC_ARAGORN">
+			<Text>Aragorn</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_LEADER_MEC_ARAGORN_PEDIA">
+			<Text>Aragorn</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_ARAGORN">
+			<Text>Aragornpedia</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_CITADEL_GUARD">
+			<Text>Strażnicy Cytadeli</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MEC_CITADEL_GUARD">
+			<Text>
+				Strażnicy Cytadeli, czasem nazywani Strażnikami Wieży, byli elitarną jednostką żołnierzy w Gondorze podczas Trzeciej i Czwartej Ery którzy bronili najwyższy poziom (krąg) Minas Tirith, w szczególności korytarz zawierający fontannę i Białe Drzewo Gondoru i prowadził do cytadeli. Służyli jako osobiści ochroniarze Namiestników Gondoru, a później Królów Gondor. Byli głównie stacjonującą jednostką straży, aniżeli mobilnym oddziałem, jednakże czasem można było zobaczyć ich jako mobilny oddział gdy podróżowali z Namiestnikiem. Byli dowodzeni przez Kapitana Straży, wybieranego przez Namiestnika spośród arystokracji i wysokich rangą militarną ludzi. Jako całość, byli uważani za najlepszych żołnierzy w królestwie Gondor. Znani ze swojej odwagi, umiejętności bojowych i niewzruszalnej lojalności, przysięgali na własne życie służyć swemu panu.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_CITADEL_GUARD_STRATEGY">
+			<Text>Strażnicy Cytadeli są głównie defensywną jednostką która staje się tym silniejsza im bliższa jest stolicy.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_CITADEL_GUARD">
+			<Text>Pikinierzy broniący stolicy. Zastępują Pikinierów.</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_UNIT_MEC_ITHILEAN_RANGER">
+			<Text>Strażnicy Ithilien</Text>
+		</Row>
+
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_MEC_ITHILEAN_RANGER">
+			<Text>
+				Strażnicy Ithilien lub Strażnicy Południa, podobnie jak ich dalecy kuzyni Strażnicy Północy, byli militarną grupą której celem była ochrona Ithilien, bramy do Minas Tirith i zapobieganie wejściu Haradrimów i Orków do Gondoru. Byli wybierani spośród potomków ludzi którzy zamieszkiwali Ithilien zanim wymknęło się spod kontroli Gondoru w 2901 roku Trzeciej Ery. Byli zakamuflowani w zielonych i brązowych płaszczach i walczyli w stylu przypominającym współczesny Guerilla Warfare, czyli: podstępy, ataki z ukrycia, etc. Często przekraczali w sekrecie Anduinę, by nękać siły Wroga w starej domenie Gondoru. Strażnicy często prowadzili zaasadzki na Haradrimów (kopanie pułapek dla ich Mumakili), atakowali orkowych zwiadowców i chronili starą drogę z Minas Morgul do Osgiliath. Wszyscy wrogowie Gondoru bali się i lękali ataków Strażników, którzy byli w stanie znienacka wyrzynać całe bataliony. Jedynie swtka lub setki tych wyszkolonych łuczników mogła niszczyć wielokrotnie od nich większe kompanie. W książce Dwie Wieże,  kompania strażników Faramira napada batalion Haradrimów, zabijając nawet ich mumakile. Posiadali zabójcze umiejętności w posługiwaniu się łukiem (który był ich podstawową bronią) i byli prawie tak uzdolnieni w podstępie jak elfy, nawet jeśli słyszeli o nich jedynie z opowieści przy ognisku. Ich wodzem podczas Wojny o Pierścień był Faramir, Kapitan Gondoru, a także Namiestnik Osgiliath i Książe Ithilien.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_ITHILEAN_RANGER_STRATEGY">
+			<Text>Łucznicy z łukiem kompozyt. z +1 siły w walce, +3 siły dystansowej, awansem Zwiad 1 oraz awansem Ignoruje koszt terenu. Są świetnymi łucznikami i zwiadowcami.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_ITHILEAN_RANGER">
+			<Text>Silniejsi łucznicy z łukiem kompozyt. będący świetnymi zwiadowcami.</Text>
+		</Row>
+		<!--
+		<Row Tag ="TXT_KEY_BUILDING_CITADEL">
+			<Text>Cytadela</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_BUILDINGS_CITADEL">
+			<Text>Cytadela Gondoru mieści się na siódmym i najwyższym poziomie Minas Tirith, stolicy Gondoru. Cytadela mieści w sobie zarówno Tron Gondoru jak i Krzesło Namiestnika. Cytadela ma dostęp do dziedzińca z fontanną. Cytadela ma także dostęp do Wieży Ecthelion.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_BUILDING_CITADEL_STRATEGY">
+			<Text>Cytadela jest przeznaczona do bycia ostatnią deską ratunku podczas ataku na miasto. Najlepiej budować ją w miastach granicznych które można łatwo podbić.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_BUILDING_CITADEL_HELP">
+			<Text>Defensywny budynek. Zastępuje Zamek.</Text>
+		</Row>
+		-->
+		<Row Tag ="TXT_KEY_TRAIT_MEC_NUMENOREAN_BUILDERS">
+			<Text>Robotnicy budują ulepszenia 25% szybciej. Darmowy robotnik na początku gry.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_TRAIT_MEC_NUMENOREAN_BUILDERS_SHORT">
+			<Text>Numenoreańscy Budowniczowie</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_ARAGORN_NAME">
+			<Text>Aragorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_ARAGORN_SUBTITLE">
+			<Text>Król Elessar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_ARAGORN_LIVED">
+			<Text>2931 TE-120 CE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_ARAGORN_DEFEATED_%">
+			<Text>Długo mnie tropiłeś, długo ci umykałem. Nigdy więcej. Jestem pokonany.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_ARAGORN_FIRSTGREETING_%">
+			<Text>Jestem Aragorn, syn Arathorna, nazywają mnie Elessar, Elfi Kamień, Dúnadan, dziedzic syna Isildura Elendila, syn Gondoru. Wspomożesz mnie czy będziesz mi przeszkodą? Wybieraj szybko! </Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_BOROMIR">
+			<Text>Boromir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_DENETHOR">
+			<Text>Denethor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ISILDUR">
+			<Text>Isildur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ANARION">
+			<Text>Anárion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_TURIN">
+			<Text>Turin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_FARAMIR">
+			<Text>Faramir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_GALDOR">
+			<Text>Galdor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_BEREN">
+			<Text>Beren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_TUOR">
+			<Text>Tuor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_BERUTHIEL">
+			<Text>Berúthiel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ARATHORN">
+			<Text>Arathorn</Text>
+		</Row>
+	</Language_PL_PL>
+</GameData>	

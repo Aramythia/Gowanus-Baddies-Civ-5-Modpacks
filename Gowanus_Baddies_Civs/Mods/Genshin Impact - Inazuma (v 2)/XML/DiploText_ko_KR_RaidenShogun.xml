@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/8/2022 8:25:25 PM -->
+<GameData>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_FIRSTGREETING_1">
+			<Text>예의 차릴 것 없다, 이방인이여. 나는 존귀한 몸이긴 하나 도처의 번영을 위해 마음을 바로잡은 뇌전 장군이라고 한다. 도처에 위협이 된다면 가차없이 벨 것이니 악의없기를 바란다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DEFEATED_1">
+			<Text>속세는 한바탕 덧없는 꿈...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DEFEATED_2">
+			<Text>무념, 무상...</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_NEUTRAL_1">
+			<Text>무슨 일이지?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_NEUTRAL_2">
+			<Text>무슨 일이냐, 말해 봐라.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_NEUTRAL_3">
+			<Text>무엇을 도와줄수 있을까, 이방인이여?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_LUXURY_TRADE_1">
+			<Text>도처의 국민을 위해 그대로부터 국민들이 요구하는 이 사치 자원을 구하고 싶으니 응해주었으면 하구나.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_STRATEGIC_TRADE_1">
+			<Text>반드시 해야 할 일과 절대 해서는 안 될 일이 있거늘, 해야할 일을 위한 자원을 확보해야 해서 그대에게 찾아왔도다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_OPEN_BORDERS_EXCHANGE_1">
+			<Text>속세의 풍경은 항상 그대로지만 인간이 만드는 것은 찰나일 뿐, 하여튼 그 찰나의 개발과 영원을 함께 봤으면 하군. 그대도 그러지 않겠는가?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_LETSHEARIT_1">
+			<Text>시작하여라.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_POLITE_HELLO_1">
+			<Text>문안 인사를 하러 왔는가.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_POLITE_HELLO_2">
+			<Text>제일 좋아하는 건 화과자! 이가 썩으면 갈면 될 거 아냐. 화과자가 영원함을 좇는 일에 방해가 될 리 없어.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_POLITE_HELLO_3">
+			<Text>이 몸은 그대가 막부에 도움이 될 인물로 판단했다. 그 기대에 부합하였으면 좋겠고, 그만큼 이 몸도 그대에게 호의를 베풀어주겠다.</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_HOSTILE_HELLO_1">
+			<Text>영원의 적이로구나.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_HOSTILE_HELLO_2">
+			<Text>번뇌를 불러오는 마군이로구나.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_HOSTILE_HELLO_3">
+			<Text>그대와 보낼 시간이 비록 찰나일 뿐이겠다만 헛되게 하지 말아라.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>정복의 영광은 찰나에 지나갈 뿐, 그걸 깨닫지 못하고 도발을 하다니 아주 어리석구나.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>도처에 위협을 가할 의도가 있는지는 확정하지 않겠다만, 양국의 안녕을 위해 우리 국경 근처의 군사를 뒤로 물리기를 바란다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_EXPANSION_WARNING_1">
+			<Text>아무리 국경의 움직임은 찰나의 것이긴 해도, 내 영원 추구에 위협이 되는 일이니 그만두기를 권고하겠다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_EXPANSION_SERIOUS_WARNING_1">
+			<Text>아무리 국경의 움직임은 찰나의 것이긴 해도, 내 영원 추구에 위협이 되는 행위는 용납치 않겠다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DOW_LEADER_MATHALX_RAIDEN_SHOGUN_1">
+			<Text>너는 영원의 적으로 판단되었으며, 이 몸이 친히 너를 베도록 하겠다. 자, 내 검을 받아라!</Text>
+		</Row>
+
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_HOSTILE_1">
+			<Text>그래, 인간의 일생은 이슬처럼 덧없어서 한심하게 폭력을 휘두르는구나.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_HOSTILE_2">
+			<Text>방해는 전부 숙청할 것이다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_WEAK_HOSTILE_1">
+			<Text>내가 이렇게 무력하다고 생각하는가. 어리석구나.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_WEAK_HOSTILE_2">
+			<Text>터무니없군.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_STRONG_HOSTILE_1">
+			<Text>지금이, 적멸의 시간!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_STRONG_HOSTILE_2">
+			<Text>어엿브고 딱한 노미로다! 속세에서의 영광은 한바탕 덧없는 꿈이거늘!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_EXCITED_1">
+			<Text>그래, 인간의 일생은 이슬처럼 덧없어서 싸움으로 뇌명이라도 일으키려고 하는군. 좋다, 네 도전을 받아들이겠다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_EXCITED_2">
+			<Text>무례하다만, 이 몸도 전투에 흥미는 있다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_WEAK_EXCITED_1">
+			<Text>속세는 한바탕 덧없는 꿈이나, 그대의 투쟁욕구를 해소시키는 데 응하겠다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_WEAK_EXCITED_2">
+			<Text>준비도 안된 상대에게 대전을 신청하다니 터무니 없군. 허나, 내 실력이 어디까지 가는지는 궁금하구나.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_STRONG_EXCITED_1">
+			<Text>지금이, 적멸의 시간!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_STRONG_EXCITED_2">
+			<Text>어엿브고 딱한 노미로다! 영원한 번개의 징벌을 받게 될 것이거늘!</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>마모는 두려운 일이다만, 마모된 대로 수리를 하는 것이지.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_FRIENDLY_STRONG_ECONOMY_2">
+			<Text>화과자가 영원을 좇는데 방해가 안된다고 했지. 경제와 문명의 흥망성쇠 역시 찰나의 것이라곤 해도, 결국에는 영원으로 가면서 발전은 거듭되는게 아니던가?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>영원을 추구하려면 아무래도 찰나에 사라지면 안되는 것이다. 그대의 모범을 봐야겠군.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_FRIENDLY_STRONG_MILITARY_2">
+			<Text>무예를 갈고닦는 수련은 정말 멋지지, 그렇지 않나?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_CANT_MATCH_OFFER_1">
+			<Text>감정 봉행과 상의해봤는데, 이건 너무 커서 우리에게 무리다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_CAUGHT_YOUR_SPY_HOSTILE">
+			<Text>헛된 방법으로 기술을 충당하는 것이 도움이 될 것이라고 생각하는가?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_CAUGHT_YOUR_SPY_FRIENDLY">
+			<Text>그댄 여전히 막부에게 도움이 될 수 있는 자니 반성하고 그만두기를 바란다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_CAUGHT_YOUR_SPY_1">
+			<Text>영원을 그런 수작으로 이룰 수 있다고 생각한다면 잘못된 생각이다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_KILLED_YOUR_SPY">
+			<Text>영원의 적은 가차없이 숙청하며, 네 첩자도 그 정책대로 숙청당했다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_OPEN_BORDERS_OFFER">
+			<Text>그대 문명이 찰나에 이룬 개발과 영원을 함께 보고싶다. 이 몸에게 허락하지 않겠는가?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_RESEARCH_AGREEMENT_OFFER">
+			<Text>무예를 갈고닦는 수련이 멋지듯 창조는 영원과 대치되지 않지. 나와 같이 일하지 않겠는가?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_SAME_POLICIES_AUTOCRACY">
+			<Text>비록 속세는 찰나의 것이라고 할지언정, 그 찰나에 악에 물들게 되다니.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_SAME_POLICIES_FREEDOM">
+			<Text>영원을 추구하는 것도 궁극적으로는 백성들의 안녕을 위한 약속인 것이다. 절대로 변하지 않는 규칙은 성장을 억제하니 그만큼 유연한 사고를 받아들일 필요가 있지.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_SAME_POLICIES_ORDER">
+			<Text>영원에 벗어난 것은 예외이거늘, 그 예외는 바로 잡아야 하는 것이다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DECLARE_FRIENDSHIP_1">
+			<Text>이 몸은 그대를 막부의 친구로 부르고 싶다. 받아들이겠는가?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DOF_FRIENDS_1">
+			<Text>영원을 추구하는 이 몸은 그대와의 관계도 영원을 위해 유지하고 싶다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DOF_OLD_FRIENDS_1">
+			<Text>인간의 일생은 이슬처럼 덧없다곤 해도, 계속 네 곁에 있고 싶구나.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DOF_BATTLE_BROTHERS_1">
+			<Text>그대는 모두 구할 수 있었을 것입니다. 그대가 나를 기억해준다면 난 영원히 살아있을 수 있습니다. 그럼, 다시 돌파하겠습니까?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_CULTURE_BOMBED_1">
+			<Text>그 조그만 땅덩어리를 위한 탐욕은 끝도 없구나.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_RENEW_DEAL_1">
+			<Text>계약이 영원했다면 좋겠다만, 그래도 영원의 정신은 갱신으로 유지할 수 있지, 그렇지 않은가?</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>제안을 받아들이겠다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>그러도록 하지.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>좋아.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_GENEROUS_1">
+			<Text>도처에게 호의를 베푸는구나. 기쁘게 받겠다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_GENEROUS_2">
+			<Text>영원 추구에 대한 도움은 거절치 않겠다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_GENEROUS_3">
+			<Text>도처의 국민을 위해 감사히 받아들이겠다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>거절하겠다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>만족스럽지 않다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_UNACCEPTABLE_3">
+			<Text>도처의 국민들로부터 부당한 이득을 얻으려고 하지 마라.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_INSULTING_1">
+			<Text>가당치도 않구나.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_INSULTING_2">
+			<Text>어림없는 소리!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_INSULTING_3">
+			<Text>그런 헛소리를 들을 정도로 한가하지 않다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_RETURNED_CIVILIAN_1">
+			<Text>도처의 국민을 구해주다니 고맙다.</Text>
+		</Row>
+	</Language_ko_KR>
+</GameData>

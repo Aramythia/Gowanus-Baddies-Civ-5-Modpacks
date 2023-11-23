@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 2/7/2015 1:37:50 PM -->
+<GameData>
+
+	<Resources>
+		<Row>
+			<Type>RESOURCE_SOMAPLESYRUP</Type>
+			<Happiness>4</Happiness>
+			<Description>TXT_KEY_RESOURCE_SOMAPLESYRUP</Description>
+			<Civilopedia>TXT_KEY_CIV5_RESOURCE_SOMAPLESYRUP_TEXT</Civilopedia>
+			<Help>TXT_KEY_RESOURCE_SOMAPLESYRUP_HELP</Help>
+			<ResourceClassType>RESOURCECLASS_LUXURY</ResourceClassType>
+			<ArtDefineTag>ART_DEF_RESOURCE_SOMAPLESYRUP</ArtDefineTag>
+			<IconString>[ICON_RES_SOMAPLESYRUP]</IconString>
+			<PortraitIndex>5</PortraitIndex>
+			<IconAtlas>VT_COLOR_ATLAS_SO</IconAtlas>
+		</Row>
+	</Resources>
+
+	<Resource_Flavors>
+		<Row>
+			<ResourceType>RESOURCE_SOMAPLESYRUP</ResourceType>
+			<FlavorType>FLAVOR_GROWTH</FlavorType>
+			<Flavor>10</Flavor>
+		</Row>
+	</Resource_Flavors>
+
+	<Resource_YieldChanges>
+		<Row>
+			<ResourceType>RESOURCE_SOMAPLESYRUP</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Resource_YieldChanges>
+
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MARKET</BuildingType>
+			<ResourceType>RESOURCE_SOMAPLESYRUP</ResourceType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+
+		<Language_en_US>
+		<Row Tag="TXT_KEY_RESOURCE_SOMAPLESYRUP">
+			<Text>Maple Syrup</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_RESOURCE_SOMAPLESYRUP_TEXT">
+			<Text>Maple syrup is a syrup usually made from the xylem sap of sugar maple, red maple, or black maple trees, although it can also be made from other maple species. In cold climates, these trees store starch in their trunks and roots before winter; the starch is then converted to sugar that rises in the sap in late winter and early spring. Maple trees are tapped by drilling holes into their trunks and collecting the sap, which is processed by heating to evaporate much of the water, leaving the concentrated syrup. Most trees can produce 20 to 60 litres (5 to 15 US gallons) of sap per season.[NEWLINE][NEWLINE]Maple syrup was first made and used by the Indigenous peoples of North America. The practice was adopted by European settlers, who gradually refined production methods. Technological improvements in the 1970s further refined syrup processing. Virtually all of the world's maple syrup is produced in Canada and the United States. The Canadian province of Quebec is the largest producer, responsible for 70 percent of the world's output; Canadian exports of maple syrup in 2016 were 487 million CAD (about 360 million USD), with Quebec accounting for some 90 percent of this total.[NEWLINE][NEWLINE]Maple syrup is graded according to the Canada, United States, or Vermont scales based on its density and translucency. Sucrose is the most prevalent sugar in maple syrup. In Canada, syrups must be made exclusively from maple sap to qualify as maple syrup and must also be at least 66 percent sugar. In the United States, a syrup must be made almost entirely from maple sap to be labelled as "maple", though states such as Vermont and New York have more restrictive definitions.[NEWLINE][NEWLINE]Maple syrup is often used as a condiment for pancakes, waffles, French toast, oatmeal, or porridge. It is also used as an ingredient in baking and as a sweetener or flavouring agent. Culinary experts have praised its unique flavour, although the chemistry responsible is not fully understood.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_RESOURCE_SOMAPLESYRUP_HELP">
+			<Text>Maple Syrup provides +1 [ICON_FOOD] Food and only appears once Vermont builds a Maple Farm. After Fertilizer and Refrigeration, Maple Syrup provide additional [ICON_FOOD] Food. After Chemistry, Maple Syrup provides +1 [ICON_CULTURE] Culture.</Text>
+		</Row>
+	</Language_en_US>
+  
+</GameData>

@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/9/2022 3:23:25 AM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_FIRSTGREETING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DEFEATED%</Response>
+			<Bias>1</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_POLITE%</Response>
+			<Bias>8</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_NEUTRAL%</Response>
+			<Bias>8</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_HOSTILE%</Response>
+			<Bias>8</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_GREETING_FRIENDLY_STRONG_ECONOMY</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_FRIENDLY_STRONG_ECONOMY%</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_GREETING_FRIENDLY_STRONG_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_GREETING_FRIENDLY_STRONG_MILITARY%</Response>
+			<Bias>4</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_EXPANSION_SERIOUS_WARNING%</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_EXPANSION_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_EXPANSION_WARNING%</Response>
+			<Bias>2</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_KILLED_YOUR_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_KILLED_YOUR_SPY%</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_TRADE_CANT_MATCH_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_CANT_MATCH_OFFER%</Response>
+			<Bias>3</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_LUXURY_TRADE%</Response>
+			<Bias>8</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_OPEN_BORDERS_EXCHANGE%</Response>
+			<Bias>6</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_OPEN_BORDERS_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_OPEN_BORDERS_OFFER%</Response>
+			<Bias>6</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_RESEARCH_AGREEMENT_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_RESEARCH_AGREEMENT_OFFER%</Response>
+			<Bias>12</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_DOW_LEADER_MATHALX_RAIDEN_SHOGUN</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DOW_LEADER_MATHALX_RAIDEN_SHOGUN%</Response>
+			<Bias>25</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_HOSTILE%</Response>
+			<Bias>25</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_EXCITED%</Response>
+			<Bias>25</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_WEAK_HOSTILE%</Response>
+			<Bias>25</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_WEAK_EXCITED%</Response>
+			<Bias>25</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_STRONG_HOSTILE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_ATTACKED_STRONG_EXCITED%</Response>
+			<Bias>25</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_LETS_HEAR_IT</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_LETSHEARIT%</Response>
+			<Bias>5</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_LETS_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_LUXURY_TRADE%</Response>
+			<Bias>5</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_ACCEPTABLE</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_ACCEPTABLE%</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_GENEROUS</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_ACCEPT_GENEROUS%</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_TRADE_REJECT_UNACCEPTABLE</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_UNACCEPTABLE%</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_TRADE_REJECT_INSULTING</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_TRADE_REJECT_INSULTING%</Response>
+			<Bias>4</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_SAME_POLICIES_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_SAME_POLICIES_AUTOCRACY%</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_SAME_POLICIES_FREEDOM</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_SAME_POLICIES_FREEDOM%</Response>
+			<Bias>4</Bias>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_SAME_POLICIES_ORDER</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_SAME_POLICIES_ORDER%</Response>
+			<Bias>4</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_RETURNED_CIVILIAN</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_RETURNED_CIVILIAN%</Response>
+			<Bias>4</Bias>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_WORK_WITH_US</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DECLARE_FRIENDSHIP%</Response>
+			<Bias>10</Bias>
+		</Row>
+
+		<!-- CP Dialog -->
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_DOF_FRIENDS</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DOF_FRIENDS%</Response>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_DOF_ALLIES</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DOF_OLD_FRIENDS%</Response>
+		</Row>
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_DOF_BATTLE_BROTHERS</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_DOF_BATTLE_BROTHERS%</Response>
+		</Row>
+
+		<Row LeaderType="LEADER_MATHALX_RAIDEN_SHOGUN">
+			<ResponseType>RESPONSE_STRATEGIC_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_STRATEGIC_TRADE%</Response>
+		</Row>
+	</Diplomacy_Responses>
+</GameData>

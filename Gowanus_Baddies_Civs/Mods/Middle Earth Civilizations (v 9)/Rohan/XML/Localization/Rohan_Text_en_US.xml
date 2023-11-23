@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8"?>
+	  
+<GameData>  
+	<Language_en_US>
+		<Row Tag ="TXT_KEY_CIV_MEC_ROHAN_DESC">
+			<Text>Rohan Kingdom</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_ROHAN_SHORT_DESC">
+			<Text>Rohan</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_ROHAN_ADJECTIVE">
+			<Text>Rohan</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_ROHAN_TEXT_1">
+			<Text>By the time of the War of the Ring Théoden had been king for nearly 40 years, and was becoming old and tired. He was increasingly misled by his chief adviser Gríma (or Wormtongue as most others in the Mark called him), who was secretly in the employ of Saruman the White. Théoden initially rebuked Gandalf's advice to resist Saruman, but after being released from the effects of Gríma, he commanded Hama to release his nephew and bring him his sword. He then led the Riders of Rohan into battle against Saruman but found that Saruman's forces had already broken through Rohan's outer defenses. Théoden, under advice from Gandalf, retreated and fought against Saruman's hordes at the Battle of Helm's Deep where he managed to defeat Saruman's Army. He then led the Rohirrim to the aid of Gondor at the Battle of the Pelennor Fields bravely charging the legions of Sauron, where he won great glory by defeating "The Black Serpent," a chieftan of the Southrons, in single combat. In that battle he challenged the Witch-king of the Nine Ringwraiths, and was unconscious when his horse Snowmane fell upon him after being spooked by the Ringwraith's fell beast. Theoden won a warrior's death by daring to stand against the Witch-King of Angmar. [NEWLINE][NEWLINE] Once again the riders of rohan call upon you, Theoden, King of Rohan. Will you strike your enemies down and shout in victory? Or be crushed by the weight of your own horse? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_ROHAN_PEDIA">
+			<Text>Rohan is a grassland which lies north of its ally Gondor and north-west of Mordor, the realm of Sauron, their enemy (see maps of Middle-earth). It is inhabited by the Rohirrim, a people of herdsmen and farmers who are well known for their horses and cavalry.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_ROHAN">
+			<Text>Rohan Kingdom</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_EDORAS">
+			<Text>Edoras</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_HELMS_DEEP">
+			<Text>Helm's Deep</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_ALDBURG">
+			<Text>Aldburg</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_SNOWBOURNE">
+			<Text>Snowbourne</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_DUNHARROW">
+			<Text>Dunharrow</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_GAP_OF_ROHAN">
+			<Text>Gap of Rohan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ENEDWAITH">
+			<Text>Enedwaith</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MINHIRIATH">
+			<Text>Minhiriath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_WESTEMNET">
+			<Text>West  Emnet</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_HORNBURG">
+			<Text>Hornburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MEDUSELD">
+			<Text>Meduseld</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ANORIEN">
+			<Text>Anorien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ERED_NIMRAIS">
+			<Text>Ered Nimrais</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_HARROWDALE">
+			<Text>Harrowdale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_FIRIENDELD">
+			<Text>Firiendeld</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_DIMHOLT">
+			<Text>Dimholt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_CALENARDHON">
+			<Text>Calendardhon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_FRAMSBURG">
+			<Text>Framsburg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_WESTFOLD">
+			<Text>Westfold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_EASTFOLD">
+			<Text>Eastfold</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_EASTEMNET">
+			<Text>Eastemnet</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_IRENSAGA">
+			<Text>Irensaga</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_STARKHORN">
+			<Text>Starkhorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_DWIMORBERG">
+			<Text>Dwimorgerg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_HALIFIRIEN">
+			<Text>Halfirien</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_CALENHAD">
+			<Text>Calenhad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MINRIMMON">
+			<Text>Minrimmon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ERELAS">
+			<Text>Erelas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_THRIHYRNE">
+			<Text>Thrinhyrne</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_UPBOURN">
+			<Text>Upbourn</Text>
+		</Row>
+		
+		
+		
+		
+		<Row Tag="TXT_KEY_LEADER_MEC_THEODEN">
+			<Text>Theoden</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_LEADER_MEC_THEODEN_PEDIA">
+			<Text>Theoden</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_THEODEN">
+			<Text>Theoden Pedia</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_ROHIRRIM">
+			<Text>Rohirrim</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MEC_ROHIRRIM">
+			<Text>Physically, the Rohirrim were a tall, blonde, and mostly blue eyed people. They were fiercely independent and conservative, remaining within their own language and culture. Their horses were very important assets in their everyday lives with their entire culture being based around the breeding and trading of them. Their people lived mostly in villages on the plains of Rohan where their horses grazed. There were very few cities in Rohan.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_ROHIRRIM_STRATEGY">
+			<Text>The Rohirrim are Rohans first really powerful cavalry unit, combining unmatched speed with a unmatched attack at the time. The Rohirrim can still move after attacking. As a mounted unit, the Rohirrim reaminas vulnerable to attacks from Spearment, Pikement and the like.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_ROHIRRIM">
+			<Text>Fast and powerful early game Mounted Unit. Weak to Spearmen. Replaces the Knight.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_BUILDING_MEC_MEARAS_STABLE">
+			<Text>Mearas Stable</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BUILDINGS_MEC_MEARAS_STABLE">
+			<Text>The Mearas were a breed of wild horses in the north of Middle-earth. The Mearas were one of the fastest breed of horses of Middle-earth. Their mortality is equal to Men and their intelligence and strength are extraordinary. They were descended from Felaróf, who was tamed by the first King of Rohan, Eorl.[1] Ever since, they have been the mounts of the Kings and Princes of Rohan alone, the sole exception being Gandalf, who rode Shadowfax, Lord of the Mearas.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_BUILDING_MEC_MEARAS_STABLE_STRATEGY">
+			<Text>The Mearas Stable embodies the culture of Rohan and can only be onstructed near improved horse, sheep, or cattle resources. The Mearas Stable increases the speed and training of mounted units.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_BUILDING_MEC_MEARAS_STABLE_HELP">
+			<Text>+15% [ICON_PRODUCTION] Production when Building Mounted Units.[NEWLINE][NEWLINE] Each source of Horses, Sheep, and Cattle worked by this City produce +1 [ICON_PRODUCTION] Production. Each Source of Horses worked by this City produce +1 [ICON_CULTURE]Culture. [NEWLINE][NEWLINE]+15 XP for Mounted Units.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_TRAIT_MEC_RIDERS_OF_ROHAN">
+			<Text>+1 [ICON_PRODUCTION] Production from Horses. Horse Quanities Doubled. +1 [ICON_MOVES] Movement for all Mounted Units. Starts with Animal Husbandry.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_TRAIT_MEC_RIDERS_OF_ROHAN_SHORT">
+			<Text>Riders of Rohan</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_EOWYN">
+			<Text>Eowyn</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_EOMER">
+			<Text>Eomer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_THEODRED">
+			<Text>Theodred</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_EORL">
+			<Text>EORL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_THENGEL">
+			<Text>Thengel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_THEODWYN">
+			<Text>Theodwyn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ELFHILD">
+			<Text>ELFHILD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ALDOR">
+			<Text>Aldor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_THEODEN_NAME">
+			<Text>Theoden, King of Rohan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_THEODEN_SUBTITLE">
+			<Text>Lord of the Mark</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_THEODEN_LIVED">
+			<Text>TA 2948 - TA 3019</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_THEODEN_DEFEATED_%">
+			<Text>Farewell, May we meet again in my house! There you shall sit beside me and tell me all that your hearts desire: the deeds of your grandsires, as far back as you can reckon them; and we will speak also of Tobold the Old and his herb-lore, Farewell!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_THEODEN_FIRSTGREETING_%">
+			<Text>Why should I welcome you?</Text>
+		</Row>
+	</Language_en_US>
+</GameData>	

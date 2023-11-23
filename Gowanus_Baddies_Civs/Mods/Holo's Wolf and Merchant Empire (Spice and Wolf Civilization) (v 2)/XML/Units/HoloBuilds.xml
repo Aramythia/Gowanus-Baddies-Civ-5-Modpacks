@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/8/2014 12:15:36 PM -->
+<GameData>
+	<Builds>
+		<Row>
+			<Type>BUILD_HOLO_APPLE_ORCHARD</Type>
+			<PrereqTech>TECH_CONSTRUCTION</PrereqTech>
+			<Time>1200</Time>
+			<ImprovementType>IMPROVEMENT_HOLO_APPLE_ORCHARD</ImprovementType>
+			<Description>TXT_KEY_BUILD_HOLO_APPLE_ORCHARD</Description>
+			<Help>TXT_KEY_BUILD_HOLO_APPLE_ORCHARD_HELP</Help>
+			<Recommendation>TXT_KEY_BUILD_HOLO_APPLE_ORCHARD_REC</Recommendation>
+			<EntityEvent>ENTITY_EVENT_IRRIGATE</EntityEvent>
+			<HotKey>KB_V</HotKey>
+			<OrderPriority>98</OrderPriority>
+			<IconIndex>0</IconIndex>
+			<IconAtlas>HOLO_BUILD_ATLAS</IconAtlas>
+		</Row>
+	</Builds>
+	<BuildFeatures>
+		<Row>
+			<BuildType>BUILD_HOLO_APPLE_ORCHARD</BuildType>
+			<FeatureType>FEATURE_JUNGLE</FeatureType>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			<Time>700</Time>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_HOLO_APPLE_ORCHARD</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Time>400</Time>
+			<Production>20</Production>
+			<Remove>true</Remove>
+		</Row>
+		<Row>
+			<BuildType>BUILD_HOLO_APPLE_ORCHARD</BuildType>
+			<FeatureType>FEATURE_MARSH</FeatureType>
+			<PrereqTech>TECH_MASONRY</PrereqTech>
+			<Time>600</Time>
+			<Remove>true</Remove>
+		</Row>
+	</BuildFeatures>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_HOLO_APPLE_ORCHARD</BuildType>
+		</Row>
+	</Unit_Builds>
+</GameData>

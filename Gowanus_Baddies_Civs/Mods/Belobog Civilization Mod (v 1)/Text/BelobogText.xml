@@ -1,0 +1,185 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/14/2023 8:00:09 PM -->
+<GameData>
+	<Language_en_US>
+		<!-- General Civ -->
+		<Row Tag="TXT_KEY_CIV_BELOBOG">
+			<Text>Belobog</Text>
+		</Row>
+		<!-- <Row Tag="TXT_KEY_CIV5_BELOBOG">
+			<Text>c</Text>
+		</Row> -->
+		<Row Tag="TXT_KEY_CIV_BELOBOG_ADJECTIVE">
+			<Text>Belobog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BELOBOG_SHORT_DESC">
+			<Text>Belobog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BELOBOG_DAWN_TEXT">
+			<Text>Blessings be upon you, Supreme Guardian Bronya Rand. The people of Belobog, both on the surface and underground, admire your brilliance and tenacity.[NEWLINE][NEWLINE]Ever since the sacrifice of your predecessor, former Supreme Guardian Cocolia Rand, and the removal of the Stellaron from Jarilo-VI, the planet has slowly begun to recover thanks to your men's continued fight against the remaining Fragmentum. Now that the snow has cleared, and the almost millennia-long corrosion has started to recede, we can begin exploring the renewed ecosystem of our planet. Perhaps other parts of our civilization managed to survive the Eternal Freeze in another, distant corner of our world?[NEWLINE][NEWLINE]Oh, glorious Supreme Guardian, the people look for your guidance as you lead them into a new era. Will you be able to build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_BRONYA">
+			<Text>Bronya Rand</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<!-- <Row Tag="TXT_KEY_CIV5_LEADER_BRONYA">
+			<Text>a</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BRONYA">
+			<Text>b</Text>
+		</Row> -->
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BRONYA_NAME">
+			<Text>Bronya Rand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BRONYA_SUBTITLE">
+			<Text>The Supreme Guardian of Belobog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_BRONYA_LIVED">
+			<Text>???? - ????</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_THE_BELOBOG_MARCH">
+			<Text>Any unit you own, that visits or is created in the capital city of Belobog, gains a special promotion, granting +1 [ICON_MOVES] Moves.</Text>
+		</Row>
+		<Row tag="TXT_KEY_TRAIT_THE_BELOBOG_MARCH_SHORT">
+			<Text>The Belobog March</Text>
+		</Row>
+
+
+
+
+
+
+		<Row Tag="TXT_KEY_CITY_NAME_BELOBOG_1">
+			<Text>Belobog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELOBOG_2">
+			<Text>Boulder Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELOBOG_3">
+			<Text>Rivet Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELOBOG_4">
+			<Text>Robot Settlement</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELOBOG_5">
+			<Text>Chernobog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELOBOG_6">
+			<Text>Perun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELOBOG_7">
+			<Text>Veles</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELOBOG_8">
+			<Text>Plamyas</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELOBOG_9">
+			<Text>New Qlipoth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELOBOG_10">
+			<Text>New Belobog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BELOBOG_11">
+			<Text>New Chernobog</Text>
+		</Row>
+
+
+
+
+
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_BELOBOG_1">
+			<Text>Julian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_BELOBOG_2">
+			<Text>Timmy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_BELOBOG_3">
+			<Text>Luka</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_BELOBOG_4">
+			<Text>Isabella</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_BELOBOG_5">
+			<Text>Alina</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_BELOBOG_6">
+			<Text>Clara</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_BELOBOG_7">
+			<Text>Natasha</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_BELOBOG_8">
+			<Text>Seele</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_BELOBOG_9">
+			<Text>March</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_CIVILIZATION_BELOBOG_10">
+			<Text>Gepard</Text>
+		</Row>
+		
+
+
+
+
+
+		<!-- The Building -->
+		<Row Tag="TXT_KEY_BUILDING_EVERWINTER">
+			<Text>Everwinter Monument</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_BUILDING_EVERWINTER">
+			<Text>The Union constructed this enormous sculpture as a monument to Plamya warding off the frigid cold and saving their people, sealing the struggle between civilization and the Eternal Freeze outside the city's mighty walls. The massive ice crystal cast between the steel gears signifies humanity's victory over the Eternal Freeze and that civilization shall never fall.[NEWLINE][NEWLINE]It's because of Plamya's providence that humans were able to live in the Towering Citadel of Belobog, free from fear of the ice and snow on the other side of the wall.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EVERWINTER_STRATEGY">
+			<Text>Replacement for the Monument building, providing better [ICON_CULTURE] cultural and [ICON_PEACE] faith output than the building it replaces. It costs no [ICON_GOLD] Gold to maintain. It may only be built by Bronya.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_EVERWINTER_HELP">
+			<Text>Replacement for the Monument building. It costs no [ICON_GOLD] Gold to maintain, provides [ICON_CULTURE] 2 culture and [ICON_PEACE] 1 faith per turn. It may only be built by Bronya.</Text>
+		</Row>
+		
+		
+		
+		
+		
+		
+		<!-- The Unit -->
+		<Row Tag="TXT_KEY_UNIT_SILVERMANE_GUARD">
+			<Text>Silvermane Guard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_UNIT_SILVERMANE_GUARD">
+			<Text>The Silvermane Guards are the organization that maintains peace and security in the city of Belobog on Jarilo-VI. They serve the Supreme Guardian of Belobog.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SILVERMANE_GUARD_STRATEGY">
+			<Text>Replacement for the Spearman unit, providing equal fighting strength as a Swordsman while costing no [ICON_RES_IRON] Iron to train. Gains a special "Silvermane Tenacity" promotion.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_SILVERMANE_GUARD_HELP">
+			<Text>Replacement for the Spearman unit. As strong as the Swordsman, these units cost no [ICON_RES_IRON] Iron to produce and gain a special "Silvermane Tenacity" promotion.</Text>
+		</Row>
+
+
+
+
+
+
+		<!-- Unit Promotions -->
+		<Row Tag="TXT_KEY_PROMOTION_BELOBOG_MARCH">
+			<Text>The Belobog March</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BELOBOG_MARCH_HELP">
+			<Text>This unit has received special training at the capital. Grants +1 [ICON_MOVES] Moves.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_SILVERMANE_BUFF">
+			<Text>Silvermane Tenacity</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_SILVERMANE_BUFF_HELP">
+			<Text>Silvermane Guards are a persistent bunch. You can move after attacking enemies.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

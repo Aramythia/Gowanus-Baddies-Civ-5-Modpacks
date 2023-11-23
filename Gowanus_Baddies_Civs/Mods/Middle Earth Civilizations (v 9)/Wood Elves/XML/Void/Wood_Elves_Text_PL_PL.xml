@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="utf-8"?>
+	  
+<GameData>  
+	<Language_PL_PL>
+		<Row Tag ="TXT_KEY_CIV_MEC_WOOD_ELVES_DESC">
+			<Text>Elves of the Woodland Realm</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_WOOD_ELVES_SHORT_DESC">
+			<Text>Silvan Elves</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_WOOD_ELVES_ADJECTIVE">
+			<Text>Silvan</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_WOOD_ELVES_TEXT_1">
+			<Text>The Woodland Realm was a kingdom of Silvan Elves in the Forest of the Wilderland beginning in the Second Age. The Elves of the Woodland Realm, unlike many Elves, were known to be less wise and more dangerous, but were nevertheless one of the most powerful and legendary of the Elves of Middle-earth.[NEWLINE][NEWLINE]Thranduil, son of Oropher, was an Elven king who ruled over the Woodland Realm in the Second and Third Ages. Though inherently cautious, he eventually committed his kingdom to fighting Sauron in the War of the Ring. He was also the father of the elven prince of Mirkwood, Legolas, who was a member of the Fellowship of the Ring. [NEWLINE][NEWLINE] At the beginning of Thranduil's reign his kingdom encompassed all of Greenwood the Great and was known as the Woodland Realm, but as the Third Age progressed, the shadow of the Necromancer advanced, the Greenwood grew dark and became known as Mirkwood, and became infested with orcs and giant spiders. The Wood-elves of Mirkwood were reduced in number and retreated to lands in the north of Mirkwood.  By the time of the events of The Lord of the Rings Thranduil's title was King of the Elves of Northern Mirkwood. [NEWLINE][NEWLINE] The Silvan Elves are behind you Thranduil, King of the Woodland Realm. Will you sit idly in the woods and let the wars of others come to their conclusions without you? Or will you march to them and return victorious? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_WOOD_ELVES_PEDIA">
+			<Text>The Woodland Realm was a kingdom of Silvan Elves in the Forest of the Wilderland beginning in the Second Age. The Elves of the Woodland Realm, unlike many Elves, were known to be less wise and more dangerous, but were nevertheless one of the most powerful and legendary of the Elves of Middle-earth.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_WOOD_ELVES">
+			<Text>Elves of the Woodland Realm</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_NORTHERN_MIRKWOOD">
+			<Text>Northern Mirkwood</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_AMON_LANC">
+			<Text>Amon Lanc</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_EMYN_DUIR">
+			<Text>Emyn Duir</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_ERYN_LASGALEN">
+			<Text>Eryn Lasgalen</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_CARROCK">
+			<Text>Carrock</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ANDUIN_VALLEY">
+			<Text>Anduin Valley</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_EASTERN_MIRKWOOD">
+			<Text>Eastern Mirkwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_TAUR_EN_DAEDELOS">
+			<Text>Taur-En-Daedelos</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_EMYN_FUIN">
+			<Text>Emyn-Nu-Fuin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_GLADDEN_FIELDS">
+			<Text>Gladden Fields</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_TAUR_NU_FUIN">
+			<Text>Taun-Nu-Fuin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_SOUTH_MIRKWOOD">
+			<Text>South Mirkwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MEN_I_NAUGRIM">
+			<Text>Men-i-Naugrim</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_LANGFLOOD">
+			<Text>Langflood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_GREYLIN">
+			<Text>Greylin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_LANDWELL">
+			<Text>Langwell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_EAST_BLIGHT">
+			<Text>East Blight</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_GREENWOOD">
+			<Text>Greenwood</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_NARROWS">
+			<Text>Narrows</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ENCHANTED_RIVER">
+			<Text>Enchanted River</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_FOREST_RIVER">
+			<Text>Forest River</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_LEADER_MEC_THRANDUIL">
+			<Text>Thranduil</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_LEADER_MEC_THRANDUIL_PEDIA">
+			<Text>Thranduil</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_THRANDUIL">
+			<Text>Thranduil</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_MIRKWOOD_ARCHER">
+			<Text>Mirkwood Archer</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MEC_MIRKWOOD_ARCHER">
+			<Text>Lead by Thranduil, these Mirkwood Archers are often times referred to as Wood Elves even though Elves from Lorien also are. With their large bows they are able to unleash powerful arrows into their enemies, and it is often rumored that these fine men can blend into the forest allowing them to use stealth against their enemies. Legolas was the most renowned archer throughout the Third Age. Earlier in his journey with the Fellowship of the Ring, he used a bow from Mirkwood and it was later replaced by the bow of the Galadhrim Lady Galadriel gave him.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_MIRKWOOD_ARCHER_STRATEGY">
+			<Text>The Mirkwood archers belong in the woods. The have the Silvan Elf promotion granting double movement and +25 attack while in Forests.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_MIRKWOOD_ARCHER">
+			<Text>Strong ranged unit best in forests. Replaces the Crossbowman.</Text>
+		</Row>
+		<!-- <Row Tag ="TXT_KEY_IMPROVEMENT_ENTMOOT">
+			<Text>Entmoot</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_IMPROVEMENT_ENTMOOT">
+			<Text>Entmoot was a gathering or meeting of Ents. An Entmoot didn't happen very often. In Fangorn Forest they were always held in Derndingle, a bowl-like valley far south of Treebeard's home. Since the Ents' language was so descriptive and "unhasty", an Entmoot could take a very long time. The Entmoot in The Lord of the Rings was held from February 30 to March 2, 3019 to decide whether the Ents should go to war against Saruman; it lasted from noon on the first day till afternoon on the third day, which was considered quick for an Entmoot. Meriadoc Brandybuck (Merry) and Peregrin Took (Pippin) were present at that Entmoot, staying with the "hasty" Ent Quickbeam.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_IMPROVEMENT_ENTMOOT_STRATEGY">
+			<Text>The unique Wood Elven Improvement is the best way to use of Forests in the game. An unimproved forest produces +1[ICON_PRODUCTION] production and +1[ICON_FOOD] food. A lumbermill increases that by +1[ICON_PRODUCTION] production and later +2[ICON_PRODUCTION] production. The Entmoot has the same production benefits and provides +1[ICON_CULTURE] culture and +1[ICON_FAITH] faith.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_BUILDING_ENTMOOT_HELP">
+			<Text>+1[ICON_PRODUCTION] production, +1[ICON_CULTURE] culture, and +1[ICON_FAITH] faith. +1[ICON_PRODUCTION] production with Scientific Theory</Text>
+		</Row>-->
+		<Row Tag ="TXT_KEY_TRAIT_MEC_KING_OF_THE_WOODLAND_REALM_DESC">
+			<Text>+1[ICON_FOOD] from unimproved Forests.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_TRAIT_MEC_KING_OF_THE_WOODLAND_REALM">
+			<Text>King of the Woodland Realm</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_LEGOLAS">
+			<Text>Legolas</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_OROPHER">
+			<Text>Oropher</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_TAURIEL">
+			<Text>Tauriel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_TREEBEARD">
+			<Text>Treebeard</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_NANDORIN">
+			<Text>Nandorin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_AVARIN">
+			<Text>Avarin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_THINGOL">
+			<Text>Thingol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_BEORN">
+			<Text>Beorn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_RADAGASH">
+			<Text>Radagash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_THRANDUIL_NAME">
+			<Text>Thranduil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_THRANDUIL_SUBTITLE">
+			<Text>King of the Woodland Realm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_THRANDUIL_LIVED">
+			<Text>A Long Time</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_THRANDUIL_DEFEATED_%">
+			<Text>Such is the nature of evil, in time all foul things come forth.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_THRANDUIL_FIRSTGREETING_%">
+			<Text>What were you doing in the Forest?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEC_WOOD_ELF">
+			<Text>Sindar Elf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEC_WOOD_ELF_HELP">
+			<Text>+25% Attack and Double Move in Forests</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PEDIA_PROMOTION_ELVEN_CLOAK">
+			<Text>The Elven Gifts from Lothlorien were special Elvish items given to the remaining members of the Fellowship of the Ring by the Lady Galadriel and the Lord Celeborn. Each member of the Fellowship was given a personal gift. All of the Fellowship of the Ring were given Elven Cloaks. It is worth note that The Fellowship received Elven cloaks from Galadriel which helped hide them from unfriendly eyes. The cloaks were personally woven by Galadriel and her maidens. The brooches were in the form of a green leaf veined with silver. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEC_ELVISH_ACADEMY">
+			<Text>Elvish Academy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BUILDINGS_MEC_ELVISH_ACADEMY">
+			<Text>The Academy is a building in The Hobbit: Kingdoms of Middle-earth. In both games this structure allows you to research new technologies to make your city more efficient and your armies more powerful than ever. This building is probably not from the Lore of Tolkein's Lord of the Rings, but is an adaptation to fit a video game model.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEC_ELVISH_ACADEMY_STRATEGY">
+			<Text>The Elvish Academy provides the same bonuses that the standard Univeristy does except that instead of providing +2[ICON_SCIENCE] science from Jungle tiles, it provides +2[ICON_SCIENCE] science and +1[ICON_CULTURE] culture from Forest tiles.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEC_ELVISH_ACADEMY_HELP">
+			<Text>+2[ICON_SCIENCE] science and +1[ICON_CULTURE] culture from Forest tiles. [NEWLINE]Allows Archaelogists to be built in this city[NEWLINE][NEWLINE]City must have a library.</Text>
+		</Row>
+	</Language_PL_PL>
+</GameData>	

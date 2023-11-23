@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<GameData>
+
+	<Improvements>
+		<Row>
+			<Type>IMPROVEMENT_SOVTMSF</Type>
+			<Description>TXT_KEY_IMPROVEMENT_SOVTMSF</Description>
+			<Civilopedia>TXT_KEY_CIV5_IMPROVEMENT_SOVTMSF_TEXT</Civilopedia>
+			<Help>TXT_KEY_CIV5_IMPROVEMENT_SOVTMSF_HELP</Help>
+			<ArtDefineTag>ART_DEF_IMPROVEMENT_SOVTMSF</ArtDefineTag>
+			<SpecificCivRequired>1</SpecificCivRequired>
+			<CivilizationType>CIVILIZATION_SOVERMONT</CivilizationType>
+			<PillageGold>10</PillageGold>
+			<RequiresFeature>true</RequiresFeature>
+			<RequiresXAdjacentLand>-1</RequiresXAdjacentLand>
+			<PortraitIndex>6</PortraitIndex>
+			<NoTwoAdjacent>true</NoTwoAdjacent>
+			<IconAtlas>VT_COLOR_ATLAS_SO</IconAtlas>
+			<DestroyedWhenPillaged>1</DestroyedWhenPillaged>
+		</Row>
+	</Improvements>
+
+	<Improvement_ValidFeatures>
+			<Row>
+				<ImprovementType>IMPROVEMENT_SOVTMSF</ImprovementType>
+				<FeatureType>FEATURE_FOREST</FeatureType>
+			</Row>
+	</Improvement_ValidFeatures>
+
+	<Improvement_ValidTerrains>
+		<Row>
+			<ImprovementType>IMPROVEMENT_SOVTMSF</ImprovementType>
+			<TerrainType>TERRAIN_GRASS</TerrainType>
+		</Row>
+	</Improvement_ValidTerrains>
+	
+	<Improvement_ResourceTypes>
+		<Row>
+			<ImprovementType>IMPROVEMENT_SOVTMSF</ImprovementType>
+			<ResourceType>RESOURCE_SOMAPLESYRUP</ResourceType>
+		</Row>
+	</Improvement_ResourceTypes>
+
+	<Improvement_ResourceType_Yields>
+		<Row>
+			<ImprovementType>IMPROVEMENT_SOVTMSF</ImprovementType>
+			<ResourceType>RESOURCE_SOMAPLESYRUP</ResourceType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_ResourceType_Yields>
+	
+	<Improvement_TechYieldChanges>
+		<Row>
+			<ImprovementType>IMPROVEMENT_SOVTMSF</ImprovementType>
+			<TechType>TECH_REFRIGERATION</TechType>
+			<YieldType>YIELD_FOOD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_SOVTMSF</ImprovementType>
+			<TechType>TECH_FERTILIZER</TechType>
+			<YieldType>YIELD_GOLD</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<ImprovementType>IMPROVEMENT_SOVTMSF</ImprovementType>
+			<TechType>TECH_CHEMISTRY</TechType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Improvement_TechYieldChanges>
+	
+	<Builds>
+			<Row>
+				<Type>BUILD_SOVTMSF</Type>
+				<PrereqTech>TECH_AGRICULTURE</PrereqTech>
+				<Time>500</Time>
+				<ImprovementType>IMPROVEMENT_SOVTMSF</ImprovementType>
+				<Description>TXT_KEY_BUILD_SOVTMSF</Description>
+				<Help>TXT_KEY_BUILD_SOVTMSF_HELP</Help>
+				<Recommendation>TXT_KEY_BUILD_SOVTMSF_REC</Recommendation>
+				<EntityEvent>ENTITY_EVENT_BUILD</EntityEvent>
+				<OrderPriority>1</OrderPriority>
+				<CtrlDown>1</CtrlDown>
+				<IconIndex>7</IconIndex>
+				<IconAtlas>VT_COLOR_ATLAS_SO</IconAtlas>
+			</Row>
+	</Builds>
+
+	<BuildFeatures>
+		<Row>
+			<BuildType>IMPROVEMENT_SOVTMSF</BuildType>
+			<FeatureType>FEATURE_FOREST</FeatureType>
+			<PrereqTech>TECH_MINING</PrereqTech>
+			<Time>600</Time>
+			<Remove>false</Remove>
+		</Row>
+	</BuildFeatures>
+	
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_WORKER</UnitType>
+			<BuildType>BUILD_SOVTMSF</BuildType>
+		</Row>
+	</Unit_Builds>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_IMPROVEMENT_SOVTMSF">
+		  <Text>Maple Farm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENT_SOVTMSF_TEXT">
+		  <Text>Maple syrup production is centred in northeastern North America; however, given the correct weather conditions, it can be made wherever suitable species of maple trees grow, such as New Zealand, where there are efforts to establish commercial production.[NEWLINE][NEWLINE]A maple syrup production farm is called a "sugarbush" or "sugarwood". Sap is often boiled in a "sugar house" (also known as a "sugar shack", "sugar shanty", or cabane à sucre), a building louvered at the top to vent the steam from the boiling sap.[NEWLINE][NEWLINE]Maples are usually tapped beginning at 30 to 40 years of age. Each tree can support between one and three taps, depending on its trunk diameter. The average maple tree will produce 35 to 50 litres (9.2 to 13.2 US gal) of sap per season, up to 12 litres (3.2 US gal) per day. This is roughly equal to seven percent of its total sap. Seasons last for four to eight weeks, depending on the weather. The timing of the season and the region of maximum sap flow are both expected to be significantly altered by climate change by 2100.[NEWLINE][NEWLINE]During the day, starch stored in the roots for the winter rises through the trunk as sugary sap, allowing it to be tapped. Sap is not tapped at night because the temperature drop inhibits sap flow, although taps are typically left in place overnight. Some producers also tap in autumn, though this practice is less common than spring tapping. Maples can continue to be tapped for sap until they are over 100 years old.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_IMPROVEMENT_SOVTMSF_HELP">
+		  <Text>Must be built on a Forest. Creates a source of [ICON_RES_SOMAPLESYRUP] Maple Syrup luxury. Yields +1 [ICON_FOOD] Food upon discovery of Refrigeration. Yields +1 [ICON_GOLD] upon discovery of Fertilizer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SOVTMSF">
+			<Text>Construct a Maple Farm</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SOVTMSF_HELP">
+			<Text>The Vermonter Maple Farm produces a source of Maple Syrup.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_SOVTMSF_REC">
+			<Text>+1 [ICON_FOOD], +4[ICON_HAPPINESS_1].</Text>
+		</Row>
+	</Language_en_US>
+
+
+</GameData>

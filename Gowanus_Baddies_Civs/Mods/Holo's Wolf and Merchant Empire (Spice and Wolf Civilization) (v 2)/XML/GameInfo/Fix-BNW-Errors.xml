@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/17/2014 12:04:03 AM -->
+<GameData>
+	<!-- Fixes annoying vanilla errors being logged repeatedly -->
+	<UnitGameplay2DScripts>	
+		<Row>
+			<UnitType>UNIT_BARBARIAN_HORSEMAN</UnitType>
+			<SelectionSound>AS2D_SELECT_HORSEMAN</SelectionSound>
+			<FirstSelectionSound>AS2D_BIRTH_HORSEMAN</FirstSelectionSound>
+		</Row>
+	</UnitGameplay2DScripts>
+	<ArtDefine_LandmarkTypes>	
+		<Row>
+			<Type>SPECIAL</Type>
+			<LandmarkType>LayoutHandler</LandmarkType>
+			<FriendlyName>Special</FriendlyName>
+		</Row>
+	</ArtDefine_LandmarkTypes>
+</GameData>

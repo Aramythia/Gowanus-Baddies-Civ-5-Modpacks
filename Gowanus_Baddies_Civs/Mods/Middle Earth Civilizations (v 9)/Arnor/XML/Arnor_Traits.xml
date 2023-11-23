@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/2/2014 10:28:30 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_MEC_KING_OF_ALL_THE_DUNEDAIN</Type>
+			<Description>TXT_KEY_TRAIT_MEC_KING_OF_ALL_THE_DUNEDAIN</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MEC_KING_OF_ALL_THE_DUNEDAIN_SHORT</ShortDescription>
+			<PlotCultureCostModifier>-33</PlotCultureCostModifier>
+		</Row>
+	</Traits>
+	<Trait_FreePromotionUnitCombats>
+		<Row>
+			<TraitType>TRAIT_MEC_KING_OF_ALL_THE_DUNEDAIN</TraitType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+			<PromotionType>PROMOTION_SENTRY</PromotionType>
+		</Row>
+		<Row>
+			<TraitType>TRAIT_MEC_KING_OF_ALL_THE_DUNEDAIN</TraitType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+			<PromotionType>PROMOTION_GOODY_HUT_PICKER</PromotionType>
+		</Row>
+	</Trait_FreePromotionUnitCombats>
+	<Trait_MaintenanceModifierUnitCombats>
+		<Row>
+			<TraitType>TRAIT_MEC_KING_OF_ALL_THE_DUNEDAIN</TraitType>
+			<UnitCombatType>UNITCOMBAT_RECON</UnitCombatType>
+			<MaintenanceModifier>-50</MaintenanceModifier>
+		</Row>
+	</Trait_MaintenanceModifierUnitCombats>
+</GameData>

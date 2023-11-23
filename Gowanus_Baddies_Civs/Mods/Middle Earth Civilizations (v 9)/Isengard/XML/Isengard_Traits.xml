@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/2/2014 10:28:30 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_MEC_VOICE_OF_SARUMAN</Type>
+			<Description>TXT_KEY_TRAIT_MEC_VOICE_OF_SARUMAN</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MEC_VOICE_OF_SARUMAN_SHORT</ShortDescription>
+			<LandBarbarianConversionPercent>66</LandBarbarianConversionPercent>
+			<ExtraSpies>1</ExtraSpies>
+		</Row>
+	</Traits>
+
+</GameData>

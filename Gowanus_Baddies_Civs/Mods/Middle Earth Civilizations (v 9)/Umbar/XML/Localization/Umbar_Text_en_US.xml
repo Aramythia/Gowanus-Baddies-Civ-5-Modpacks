@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="utf-8"?>
+	  
+<GameData>  
+	<Language_en_US>
+		<Row Tag ="TXT_KEY_CIV_MEC_UMBAR_DESC">
+			<Text>Kingdom of Umbar</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_UMBAR_SHORT_DESC">
+			<Text>Umbar</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_UMBAR_ADJECTIVE">
+			<Text>Umbar</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_UMBAR_TEXT_1">
+			<Text>
+				After the Downfall of Númenor, Umbar remained in the hands of the Númenóreans, in essence a Realm in Exile alongside Arnor and Gondor. But unlike these others, Umbar had been used by the 'King's Men', who had turned to the worship of Melkor in the last days of Númenor. These 'King's Men' were not friendly to the elves or to their fellow Númenórean survivors who were allied to the elves, and became known as Black Númenóreans.[NEWLINE]
+				Gondors power, however, eclipsed that of Umbar as the Third Age progressed, and in TA 933 Gondor's King Eärnil I captured Umbar in a surprise attack. Many Black Numenoreans fled Umbar after the assault to return 82 years later leading an army of the Men of Harad. They besieged the fortress of Umbar for 35 years, but were eventually defeated by King Earnil's son Ciryandil when he came down from the north by sea.[NEWLINE]
+				Gondorian possession of Umbar came to an abrupt end In TA 1448, but not at the hands of an external foe. Following the disastrous Kin-strife, the sons of Castamir the Usurper arrived there with many men and most of the fleet of Gondor. These men became known as the "Corsairs of Umbar", and within two centuries became a major threat to Gondor.[NEWLINE][NEWLINE]
+				Angamaitë, great-grandson of Castamir the Usurper, Lord of Ships, set your sails and head for new shores. The time has come to raid and pillage the ports of your foes. Will the Black Numenoreans rise again? Or will you be defeated by an army of the dead? Can you build a civilization that will stand the test of time?
+			</Text>
+		</Row>
+
+		<Row Tag ="TXT_KEY_CIV5_MEC_UMBAR">
+			<Text>Umbar</Text>
+		</Row>
+
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_UMBAR">
+			<Text>Umbar</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_LEADER_MEC_ANGAMAITE_PEDIA">
+			<Text>Angamaitë</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_LEADER_MEC_ANGAMAITE">
+			<Text>Angamaitë</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_ANGAMAITE">
+			<Text>Angamaitë</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_BLACK_NUMENOREAN">
+			<Text>Black Numenorean</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_MEC_BLACK_NUMENOREAN">
+			<Text>
+				The Black Numenóreans were a fallen race of Númenóreans who were descended from those that were loyal to the Númenórean crown (the Rulers) that were opposed to the Valar and relations with the Elves, and listened to Sauron and his ill counsel. They soon became corrupted by the Dark Lords and worshiped the Darkness and Morgoth.[NEWLINE][NEWLINE]
+				The group thrived in Middle-earth, particularly in Umbar after the destruction of Númenor. They continued to oppose The Faithful, from which came the Kings of Arnor and Gondor, the Black Númenóreans remained loyal towards Sauron. These sacrilegous 'black arts' and 'follies', which arose as a consequence of their worship of 'The Dark' and Melkor, marked the final, irrevocable division between the 'King's Men' and the minority known as the 'Faithful' Númenóreans, or the 'Elendili', who kept to their old faith in Ilúvatar. They were also presumably the earliest culture traits of those who became known afterwards as Black Númenóreans.[NEWLINE][NEWLINE]
+				The Black Númenórean style of governing was no doubt tyrannical, but may also have involved a tradition of duumviracy, at least in Umbar, whose lords are usually paired when mentioned; Herumor/Fuinur for example, were probably rulers of Umbar, as much later Angamaitë/Sangahyando were. Whatever political system was in place, however, the Black Númenóreans did not govern effectively. The triumph of the Last Alliance marked the decline of the Black Númenórean race and the end of their racial superiority. Nevertheless, the Black Númenórean elite survived at least in Umbar for over a thousand years after Númenor's fall, maintaining much influence in Haradwaith. As late as Angamaitë for example, even after being exiled from their homeland for nearly a century.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_BLACK_NUMENOREAN_STRATEGY">
+			<Text>
+				The Black Numenorean is Umbar's replacement for the Longswordman. They are stronger than the Longswordsman and have Spawn Generals I promotion that grants +50% generation of Great Generals from using this unit.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_BLACK_NUMENOREAN">
+			<Text>Stronger Longswordsman that can move after attacking and may attack twice in one turn.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_MEC_CORSAIRS">
+			<Text>After the downfall of Númenor, the Umbar settlers further descended into evil, and were called the Black Númenóreans. They took to pillaging and piracy along the coasts of Gondor. During the Kin-strife, the defeated rebels of Gondor fled to Umbar. At this time Umbar became the hated enemy of Gondor. Over time these sailors drew to their number various outlaws and brigands from outlying settlements surrounding the Anduin, and they took to raiding along the southern Gondorian coast, intercepting merchant vessels and abducting women to bolster their dissident community. They were also slavers and would often seize a ship's crew along with her cargo; if any resisted, they would be thrown overboard.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_CORSAIRS">
+			<Text>Corsairs of Umbar</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_CORSAIRS_STRATEGY">
+			<Text>The Corsairs of Umbar are excellent at pillaging and piracy. Use them to capture enemy naval units and conquer coastal cities.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_CORSAIRS">
+			<Text>Pillaging Pirates. Replaces the Privateers.</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_TRAIT_MEC_LORD_OF_SHIPS">
+			<Text>Pay 33% less for naval unit maintenance. All naval units get the Coastal Raiders 1 promotion. Plundering cities and barbarian encampments produces double the normal gold. Borrows city names from other Civilizations in game.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_TRAIT_MEC_LORD_OF_SHIPS_SHORT">
+			<Text>Lord of Ships</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_SPY_MEC_HERUMOR">
+			<Text>Herumor</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_FUINUR">
+			<Text>Fuinur</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_CIRYANDIL">
+			<Text>Ciryandil</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_SANGAHYANDO">
+			<Text>Sangahyando</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_CASTAMIR">
+			<Text>Castamir</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_TARANNON">
+			<Text>Tarannon</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_FALASTUR">
+			<Text>Falastur</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_UMBARDACIL">
+			<Text>Umbardacil</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_THORONGIL">
+			<Text>Thorongil</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_ANGAMAITE_NAME">
+			<Text>Angamaitë</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_ANGAMAITE_SUBTITLE">
+			<Text>The Iron Fist</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_ANGAMAITE_LIVED">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_ANGAMAITE_DEFEATED_%">
+			<Text>I am defeated. Castamir, I have failed you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_ANGAMAITE_FIRSTGREETING_%">
+			<Text>I am Angamaitë, great-grandson of Castamir the Usurper, Lord of Ships and King of Umbar. It would be wise for you to watch the horizon and fear the day that I return with my armada.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>	

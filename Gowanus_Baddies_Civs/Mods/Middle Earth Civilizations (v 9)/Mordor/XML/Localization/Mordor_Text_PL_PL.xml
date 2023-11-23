@@ -1,0 +1,264 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	  
+<GameData>  
+	<Language_PL_PL>
+		<Row Tag ="TXT_KEY_CIV_MEC_MORDOR_DESC">
+			<Text>Królestwo Mordoru</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_MORDOR_SHORT_DESC">
+			<Text>Mordor</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_MORDOR_ADJECTIVE">
+			<Text>Mordorska</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_MORDOR_TEXT_1">
+			<Text>
+				Sauron, Władca Pierścieni, był upadłym Majarem, twórcą Jedynego Pierścienia oraz najbardziej zaufanym podwładnym swojego mistrza Morgotha (Melkora, pierwszego Mrocznego Władcy). Po porażce Morgotha w Pierwszej Erze, Sauron stał się Drugim Mrocznym Władcą i dążył do podbicia Ardy, do tego celu tworząc pierścienie władzy.[NEWLINE][NEWLINE] W Drugiej Erze, Sauron stał się znany jako Mroczny Władca Mordoru, a jego forteca Barad-dûr została ukończona. Podbił prawie całe Śródziemie podczas Wojny Elfów i Saurona. Jednakże, armie Númenóreańskiego Króla Tar-Minastira pokonały go podczas ostatniej bitwy. Pokonany lecz nie unicestwiony, Sauron wycofał się do Mordoru i zaczął odzyskiwać swoją siłę przez wiele wieków. Z końcem Drugiej Ery, Sauron znów był na tyle potężny by powstać przeciwko wielkim armiom w próbie przejęcie władzy nad Śródziemiem. Wzrost siły Saurona i widoczna intencja koronowania siebie Królem Wszystkich Ludzi obraziła Numenorejczyków. Został pokonany podczas Wojny Ostatniego Przymierza Ludzi i Elfów. Podczas bitwy, Isildur odciął palec Saurona z Pierścieniem, niszcząc jego cielesną formę i rozpraszając jego armie. Po spędzeniu setek lat leżąc w uśpieniu i powolnie odzyskując swoją siłę, Sauron powrócił silny w Trzeciej Erze, ale został ostatecznie pokonany podczas Wojny o Pierścień przez zniszczenie Jedynego Pierścienia.[NEWLINE][NEWLINE] Przyszedł czas byś znów powstał Mroczny Władco Sauronie. Czy twoje armie przyniosą zniszczenie twoim przeciwnikom? Czy pozwolisz im prześlizgnąć się i zniszczyć cię od środka? Czy potrafisz zbudować cywilizację, która przetrwa próbę czasu?
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_MORDOR_PEDIA">
+			<Text>Mordor, "czarny ląd", był bazą sił Saurona w jego walce o dominacje nad całym Śródziemiem. Mordor był chroniony z trzech stron dwoma nieprzekraczalnymi łańcuchami górskimi tworzącymi naturalną fortecę do ochrony przed wrogami. Północnozachodni róg Mordoru, głęboka Dolina Udun była jedynym wejściem dla wielkich armii. Na południowym zachodzie leży jałowy płaskowyż Gorgoroth i Góra Przeznaczenia. Południowa część Mordoru zwana Nurn była bardziej żyzna, na tyle by umożliwić stworzenie farm z niewolnikami. </Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_MORDOR">
+			<Text>Królestwo Mordoru</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_BARAD_DUR">
+			<Text>Barad Dur</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_MOUNT_DOOM">
+			<Text>Góra Przeznaczenia</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_GORGOROTH">
+			<Text>Gorgoroth</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_MINAS_MORGUL">
+			<Text>Minas Morgul</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_UDUN_VALE">
+			<Text>Dolina Udun</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_NURN">
+			<Text>Nurn</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ORODRUIN">
+			<Text>Orodruin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_DAGORLAD">
+			<Text>Dagorlad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_CIRITH_UNGOL">
+			<Text>Cirith Ungol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_CIRITH_GORGOR">
+			<Text>Cirith Gorgor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ERED_LITHUI">
+			<Text>Ered Lithui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_EPHEL_DUATH">
+			<Text>Ephel Duath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MORANNON">
+			<Text>Morannon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_SEA_OF_NURNEN">
+			<Text>Morze Nurnen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_NARGROTH">
+			<Text>Nargroth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_CARACH_ANGREN">
+			<Text>Carach Angren</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MITHRAM_SPUR">
+			<Text>Mithram Spur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_SEREGOST">
+			<Text>Seregost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_DURTHANG">
+			<Text>Durthang</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MORGAI">
+			<Text>Morgai</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_LITHLAD">
+			<Text>Lithlad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_NINDALF">
+			<Text>Nindalf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_CARCHOST">
+			<Text>Carchost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_NARCHOST">
+			<Text>Narchost</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_SLAG_HILLS">
+			<Text>Wzgórza Slag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MORGULDUIN">
+			<Text>Morgulduin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_SAMMATH_NAUR">
+			<Text>Sammath Naur</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_NOMAN_LANDS">
+			<Text>Ziemie Noman</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_WETWANG">
+			<Text>Wetwang</Text>
+		</Row>
+		
+		
+		<Row Tag="TXT_KEY_LEADER_MEC_SAURON">
+			<Text>Sauron</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_LEADER_MEC_SAURON_PEDIA">
+			<Text>Sauron</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_SAURON">
+			<Text>Sauronpedia</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_MORRANON_ORC">
+			<Text>Orkowie z Morannonu</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_ANTIQUITY_MEC_MORANNON_ORC">
+			<Text>W dziełach Tolkiena, orkowie byli brutalni, niegodziwi, a także o złym sercu, nienawidzili każdego i wszystkiego, szczególnie zdyscyplinowanych i dostatnich, niscy i o ludzkim wyglądzie. Byli przysadziści, szerocy, płaskonosi, o ziemistwej cerze, krzywonodzy, z szerokimi twarzami i skośnymi oczami, mieli długie ręce, czarną skórę i kły.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_MORRANON_ORC_STRATEGY">
+			<Text>Orkowie z Morannonu to potężna standardowa jednostka walcząca wręcz z epoki klasycznej. Po pokonaniu przeciwnika Orkowie z Morannonu zjadają swoje ofiary by zregenerować życie.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_MORRANON_ORC">
+			<Text>Samolecząca się jednostka walcząca wręcz. Zastępują Zbrojnych.</Text>
+		</Row>
+		<!-- <Row Tag ="TXT_KEY_BUILDING_ORC_PIT">
+			<Text>Wylęgarnia Orków</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BUILDINGS_ORC_PIT">
+			<Text>Wylęgarnia Orków jest miejscem treningu dla piechoty Mordoru, włączając w to Orków.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_BUILDING_ORC_PIT_STRATEGY">
+			<Text>Wylęgarnia Orków zapewnia tyle samo doświadczenia dla jednostek militarnych co Koszary. Wylęgarnia Orków zwiększa również produkcję jednostek lądowych.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_BUILDING_ORC_PIT_HELP">
+			<Text>+15 PD dla wszystkich jednostek. [NEWLINE][NEWLINE]+15% [ICON_PRODUCTION] do Produkcji jednostek lądowych.</Text>
+		</Row>-->
+		<Row Tag ="TXT_KEY_TRAIT_MEC_GATHER_ALL_EVIL">
+			<Text>Wielcy Generałowie są pozyskiwani 25% szybciej. Płacisz 25% mniej za utrzymanie jednostek lądowych.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_TRAIT_MEC_GATHER_ALL_EVIL_SHORT">
+			<Text>Zgromadź Całe Zło</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_MEC_NAZGUL_THE_WITCH_KING">
+			<Text>Czarnoksiężnik</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_MEC_NAZGUL_KHAMUL">
+			<Text>Khamul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEC_NAZGUL_THE_DARK_MARSHAL">
+			<Text>Mroczny Marszałek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEC_NAZGUL_THE_BETRAYER">
+			<Text>Zdrajca</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEC_NAZGUL_THE_SHADOW_LORD">
+			<Text>Władca Cieni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEC_NAZGUL_THE_UNDYING">
+			<Text>Nieumarły</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEC_NAZGUL_THE_DWIMMERLAIK">
+			<Text>Dwimmerlaik</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEC_NAZGUL_THE_TAINTED">
+			<Text>Skażony</Text>
+		</Row>
+		<Row Tag="TXT_KEY_MEC_NAZGUL_THE_KNIGHT_OF_UMBAR">
+			<Text>Rycerz Umbaru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_THE_MOUTH_OF_SAURON">
+			<Text>Rzecznik Saurona</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_SAURON_NAME">
+			<Text>Sauron</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_SAURON_SUBTITLE">
+			<Text>Władca Mordoru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_SAURON_LIVED">
+			<Text>Bardzo długo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_SAURON_DEFEATED_%">
+			<Text>Nie ma życia w pustce. . . Jedynie śmierć. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_SAURON_FIRSTGREETING_%">
+			<Text>Nie możesz się ukryć. Widzę cię!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEC_AURA_OF_TERROR">
+			<Text>Aura Terroru</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEC_AURA_OF_TERROR_HELP">
+			<Text>-15% Siły w walce dla pobliskich wrogich jednostek</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEC_MAN_FLESH">
+			<Text>Ludzkie Ciało</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEC_MAN_FLESH_HELP">
+			<Text>Leczy 25PŻ po zniszczeniu jednostki przeciwnika</Text>
+		</Row>
+		<!-- <Row Tag="TXT_KEY_PROMOTION_BLACK_RIDERS">
+			<Text>Czarni Jeźdźcy</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_BLACK_RIDERS_HELP">
+			<Text>+2 Ruchu</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WRAITHS_ON_WINGS">
+			<Text>Skrzydlate Upiory</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_WRAITHS_ON_WINGS_HELP">
+			<Text>+2 Ruchu</Text>
+		</Row>-->
+		<Row Tag="TXT_KEY_SPY_MEC_SHAGRAT">
+			<Text>Shagrat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_GORBAG">
+			<Text>Gorbag</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_MUZGASH">
+			<Text>Muzgash</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_RADBUG">
+			<Text>Radbug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_UFTHAK">
+			<Text>Ufthak</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_GOTHMOG">
+			<Text>Gothmog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_OTHROD">
+			<Text>Othrod</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_GOLFIMGUL">
+			<Text>Golfimbul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_GORGOL">
+			<Text>Gorgol</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MEC_NAZGUL">
+			<Text>Nazgul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MEC_NAZGUL_TEXT">
+			<Text>Nazgûle, Upiory Pierścienia, zwani również Czarnymi Jeźdźcami lub Dziewięcioma, byli przeraźliwymi, związanymi z pierścieniem sługami Mrocznego Lorda Saurona w Śródziemiu poprzez Drugą i Trzecią Erę, podczas Trzeciej Ery żyjąc w Minas Morgul. Niegdyś dziewięciu wielkich Ludzkich Króli, wszyscy dostali Pierścienie Władzy. Dziewięciu wzięło je bez pytania, by następnie, po wykuciu Jedynego Pierścienia, stać się niewolnikami Saurona, a później jego głównymi podwładnymi. Po wiekach pierścienie sprawiły, że królowie stali się widmowi, niewidzialni dla nikogo poza Sauronem i każdym, kto włożył Jedyny Pierścień. Ich pierścienie zostały wykute około 1500 roku Drugiej Ery.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MEC_NAZGUL_STRATEGY">
+			<Text>Nazgule zwiększają siłę w walce twoich pobliskich jednostek o 15%, a także zmniejszają siłę w walce pobliskich przeciwników o 15%.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MEC_NAZGUL_HELP">
+			<Text>Wielcy Generałowie wzbudzający Strach w przeciwnikach</Text>
+		</Row>
+	</Language_PL_PL>
+</GameData>	

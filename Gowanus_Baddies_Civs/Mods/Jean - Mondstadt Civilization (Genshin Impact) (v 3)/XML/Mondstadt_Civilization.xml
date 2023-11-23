@@ -1,0 +1,387 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 16/02/2021 09:44:31 -->
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_MONDSTADT</Type>
+			<Description>TXT_KEY_CIV_MONDSTADT_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_MONDSTADT_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_MONDSTADT_ADJECTIVE</Adjective>
+			<Civilopedia>TXT_KEY_CIV_MONDSTADT_PEDIA</Civilopedia>
+			<CivilopediaTag>TXT_KEY_CIV5_MONDSTADT</CivilopediaTag>
+			<DefaultPlayerColor>PLAYERCOLOR_MONDSTADT</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_ENGLAND</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN </ArtStylePrefix>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>MONDSTADT_ICON</IconAtlas>
+			<AlphaIconAtlas>MONDSTADT_ALPHA</AlphaIconAtlas>
+			<MapImage>Jean_SelectMap.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_MONDSTADT_TEXT</DawnOfManQuote>
+			<DawnOfManImage>Jean_DOM.dds</DawnOfManImage>
+			<DawnOfManAudio></DawnOfManAudio>
+			<SoundtrackTag>Germany</SoundtrackTag>
+		</Row>
+	</Civilizations>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<UnitClassType>UNITCLASS_PIKEMAN</UnitClassType>
+			<UnitType>UNIT_KNIGHT_FAVONIUS</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<Civilization_BuildingClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_WINDMILL</BuildingClassType>
+			<BuildingType>BUILDING_MONDSTADT_WINDMILL</BuildingType>
+		</Row>
+	</Civilization_BuildingClassOverrides>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<ReligionType>RELIGION_TENGRIISM</ReligionType>
+		</Row>
+	</Civilization_Religions>
+
+	
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_MONDSTADT</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_SPRINGVALE</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_WINDRISE</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_WINSPERING_WOODS</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STARFELL_LAKE</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CIDER_LAKE</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_WOLVENDOM</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DAWN_WINERY</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_FALCON_COAST</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DADAUPA_GORGE</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_CAP_OATH</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_THOUSAND_WINDS_TEMPLE</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STARSNATCH_CLIFF</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMBEARER_MOUNTAIN</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMBEARER_POINT</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_BRIGHTCROWN_CANYON</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_STORMTERROR_LAIR</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_DRAGONSPINE</CityName>
+		</Row>
+	</Civilization_CityNames>
+	
+	
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+			<Count>1</Count>
+		</Row>
+	</Civilization_FreeUnits>
+
+	
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<LeaderheadType>LEADER_JEAN</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+
+	
+	<Civilization_Start_Region_Priority>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<RegionType>REGION_GRASS</RegionType>
+		</Row>
+	</Civilization_Start_Region_Priority>
+
+
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_AMBER</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_LISA</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KAEYA</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_DILUC</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_NOELLE</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_BARBARA</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_VENTI</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_KLEE</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_MONA</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_FISCHL</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_ALBEDO</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_RAZOR</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_SUCROSE</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_TRAVELER_M</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_MONDSTADT</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_TRAVELER_F</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_MONDSTADT_DESC">
+			<Text>Mondstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MONDSTADT_SHORT_DESC">
+			<Text>Mondstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MONDSTADT_ADJECTIVE">
+			<Text>Mondstadt's</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_MONDSTADT_TEXT">
+			<Text>Greetings to you, Venerable Jean, Acting Grand Master of the Knights of Favonius! Your sense of responsibility is flawless. The duties and commissions associated with your role are always taken seriously and your loyalty to the Knights of Favonius is unmatched. You have protected Mondstadt on several occasions against the forces of evil with your courage and determination to guarantee security and peace for your citizens. Your dedication is greatly appreciated by your community and you are an example to many Knights of the Order.[NEWLINE][NEWLINE]O Great Jean, your people once again need your protection and your courage. Will you be able to maintain freedom and guide your people to a bright future? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_CIV5_MONDSTADT_HEADING_1">
+			<Text>Description</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONDSTADT_HEADING_2">
+			<Text>History</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONDSTADT_HEADING_3">
+			<Text>Stormterror Incident</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONDSTADT_HEADING_4">
+			<Text>In Real World</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONDSTADT_TEXT_1">
+			<Text>Mondstadt is the city of freedom that lies in the northeast of Teyvat. From amongst mountains and wide-open plains, carefree breezes carry the scent of dandelions (a gift from the Anemo God, Barbatos) across Cider Lake to Mondstadt, which sits on an island in the middle of the lake. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONDSTADT_TEXT_2">
+			<Text>Two thousand and six hundred years ago, the nation of Mondstadt was divided between two warring powers: the Anemo Archon and Lord of Storms, Decarabian, and the King of the North, Andrius. Andrius was unable to lay a scratch on Decarabian's tower, which was protected by fierce gales. While Decarabian protected his people, he gave them no freedom; they would never be able to leave the storm walls that surrounded the city. Hoping to one day see the rest of the world, a Nameless Bard led a rebellion against Decarabian with the help of an "elf" (the elemental spirit who would become Barbatos), Decarabian's former lover Amos, and an unnamed knight. Decarabian was defeated, but at a great cost — the Nameless Bard was among those who fell in battle. After Andrius chose to forego the position of Anemo Archon and instead passed on to become one with the land, Barbatos became the new Anemo Archon and reshaped Mondstadt into its current landscape. After the Archon War ended, he also become one of the founding members of The Seven. After a while, the Anemo Archon departed from Mondstadt to avoid becoming a tyrant himself, and the city was eventually ruled by aristocrats. Unfortunately, over the next thousand years, they grew more and more corrupt until they became the very tyrants Barbatos wished to avoid becoming, Reawoken to the cries of a slave girl, Vennessa, Barbatos aided her rebellion and the aristocracy was overthrown. She established the Knights of Favonius to prevent any aristocrats from taking over again. The current Grand Master, Varka, led the majority of Knight of Favonius on an expedition to parts unknown, leaving Jean as the Acting Grand Master. Ever since the beginning, Mondstadt has celebrated a festival called the Ludi Harpastum every year, with 15 days of games for the children to enjoy.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONDSTADT_TEXT_3">
+			<Text>Coming Soon...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONDSTADT_TEXT_4">
+			<Text>Mondstadt apears in the free-to-play action RPG Genshin Impact, developed and published by miHoYo. The game features a fantasy open-world environment and action based combat system using elemental magic, character switching, and gacha monetization system for players to obtain new characters, weapons, and other resources. The game can only be played with an internet connection and features a limited multiplayer mode allowing up to four players in a world.[NEWLINE][NEWLINE] Mondstadt is inspired by Germany. Mondstadt is German for "Moon City", and the architecture of Mondstadt is inspired by half-timbered houses, medieval buildings that are typical for Germany. The de-facto ruling body of Mondstadt are the Knights of Favonius which mirrors the State of the Teutonic Order, in which the Grand Master of the Order is the head of state.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONDSTADT_FACTOID_HEADING">
+			<Text>Trivia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONDSTADT_FACTOID_TEXT">
+			<Text>Currently there are a total of 17 playable characters from Mondstadt.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MONDSTADT_TITLE">
+			<Text>Mondstadt</Text>
+		</Row>
+
+		
+		<Row Tag="TXT_KEY_CITY_NAME_MONDSTADT">
+			<Text>Mondstadt</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_SPRINGVALE">
+			<Text>Springvale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WINDRISE">
+			<Text>Windrise</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_WINSPERING_WOODS">
+			<Text>Winspering Woods</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STARFELL_LAKE">
+			<Text>Starfell Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CIDER_LAKE">
+			<Text>Cider Lake</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_WOLVENDOM">
+			<Text>Wolvendom</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DAWN_WINERY">
+			<Text>Dawn Winery</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_FALCON_COAST">
+			<Text>Falcon Coast</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DADAUPA_GORGE">
+			<Text>Dadaupa Gorge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_CAP_OATH">
+			<Text>Cap Oath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_THOUSAND_WINDS_TEMPLE">
+			<Text>Thousand Winds Temple</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STARSNATCH_CLIFF">
+			<Text>Starsnatch Cliff</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMBEARER_MOUNTAIN">
+			<Text>Stormbearer Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMBEARER_POINT">
+			<Text>Stormbearer Point</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_BRIGHTCROWN_CANYON">
+			<Text>Brightcrown Canyon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_STORMTERROR_LAIR">
+			<Text>Stormterror Lair</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_DRAGONSPINE">
+			<Text>Dragonspine</Text>
+		</Row>
+
+		<!-- Spy Name -->
+		<Row Tag="TXT_KEY_SPY_NAME_AMBER">
+			<Text>Amber</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_LISA">
+			<Text>Lisa</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KAEYA">
+			<Text>Kaeya</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_DILUC">
+			<Text>Diluc</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_NOELLE">
+			<Text>Noelle</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_BARBARA">
+			<Text>Barbara</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_VENTI">
+			<Text>Venti</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_KLEE">
+			<Text>Klee</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MONA">
+			<Text>Mona</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_FISCHL">
+			<Text>Fischl</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_ALBEDO">
+			<Text>Albedo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_RAZOR">
+			<Text>Razor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_SUCROSE">
+			<Text>Sucrose</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TRAVELER_M">
+			<Text>Traveler</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_TRAVELER_F">
+			<Text>Traveler</Text>
+			<Gender>feminine</Gender>
+		</Row>
+	</Language_en_US>
+</GameData>

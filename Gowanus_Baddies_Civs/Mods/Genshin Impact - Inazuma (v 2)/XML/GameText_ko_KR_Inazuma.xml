@@ -1,0 +1,257 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 7/5/2022 11:29:33 PM -->
+<GameData>
+	<Language_ko_KR>
+		<Row Tag="TXT_KEY_CIV_MATHALX_INAZUMA_DESC">
+			<Text>도처</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MATHALX_INAZUMA_SHORT_DESC">
+			<Text>도처</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_INAZUMA_HEADING_1">
+			<Text>역사</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_INAZUMA_TEXT_1">
+			<Text>
+				도처는 원신에 등장하는 국가 중 하나다. 강호 막부 시대의 일본을 모티프로 한 도처는 티바트 대륙에서 떨어진 열도에 자리잡은 나라로, 번개의 신인 바알의 통치를 받는 나라다. 허나, 강호 막부의 쇄국 정책, 그리고 일본의 미혹 문화의 폐해도 반영되어 있어 외국인에 대한 편견과 차별이 심한 편이며 또한 쇄국 때문에 국력이 쇠락하고 있는 실정이며 부패 역시 문제가 되면서 반란군까지 일어나고 있다.[NEWLINE][NEWLINE]뇌전 장군이 통치력은 상당히 모자라서 도처가 큰 위협에 처한 것으로 묘사된다. 가령 도수령을 모티프로 한 안수령은 뇌전 장군이 아니라 우인단과 내통하고 있는 봉행이 주도한 것이다만, 그만큼 뇌전 장군이 다른 곳에 집중함, 그리고 영원을 추구한다는 점 때문에 문제를 감지하지 못하고 도리어 동조하면서 문제를 키웠다. 뇌전 장군 치세의 도처는 이런 배경 아래 부패와 식량난 등으로 홍역을 치루고 있다.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_INAZUMA_HEADING_2">
+			<Text>전략</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_INAZUMA_TEXT_2">
+			<Text>
+				도처는 전략적인 불가사의 선점을 핵심으로 하되, 이를 대가로 사회 발전이 느린 문명이라 불가사의 선점을 신중히 해야 하는 문명입니다. 도처는 시대 당 첫 불가사의 생산력이 50% 증가하기에 첫 불가사의에 한정해 근면적 문명들과 대등한 경쟁을 할 수 있으며 심지어 효과가 두배나 되기 때문에 적절한 불가사의 선점은 게임의 판도를 뒤집어 놓을 정도로 강력할 수 있다만, 사회 정책 비용이 그 대신 올라가는 특성상 도처는 후반 정책 채택이 힘듭니다.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MATHALX_INAZUMA">
+			<Text>도처</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_INAZUMA_TITLE">
+			<Text>도처</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_MATHALX_INAZUMA_ADJECTIVE">
+			<Text>도처</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MATHALX_PURE_LAND_ONE_MIND">
+			<Text>각 시대 당 첫 세계 불가사의에 대한 생산력이 50% 증가하며 해당 불가사의의 효과가 2배가 됩니다. 대신, 이 효과로 얻은 불가사의 당 사회정책의 비용이 10% 증가합니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_TRAIT_MATHALX_PURE_LAND_ONE_MIND_SHORT">
+			<Text>일심정토</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_MATHALX_INAZUMA_DOM">
+			<Text>
+				도처의 국민들이 그대를 우러러봅니다, 뇌전 장군이여! 그대는 도처의 군신이자 번개의 신으로 도처를 외부 위협으로부터 보호하는 강대한 존재이십니다. 그대는 아무도 실연을 잃지 않을 이상을 위해 영원을 추구하게 되었으며 도처를 영원의 국가로 만들려고 했으나, 애석하게도 우인단의 계략에 넘어가면서 식량난, 경제 침체 등의 문제 뿐만 아니라 악정책인 안수령까지 실행시키시면서 도처에 암흑기를 안겼습니다. 비록 여행자와 사 봉행의 신리 가문 등의 노력을 통해 실상을 알게 되면서 되돌아보고 신념을 고치며 도처를 정상화시키기로 마음먹었다만, 도처의 회복에는 시간이 필요했습니다.[NEWLINE][NEWLINE]뇌전 장군이여, 우인단이 없는 신세계에서 새로운 도처, 새로운 정토를 만들 기회가 생겼습니다. 그대는 원래 구상안 대로 영원을 이루시겠습니까, 아니면 여행자로부터 얻은 깨달음을 십분활용하여 더 좋은 도처를 건설하시겠습니까? 도처의 국민들이 아픔을 겪을 일이 없는 낙원을 만드시겠습니까? 세월의 시련을 이겨낼 문명을 건설하시겠습니까?
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_RAIDEN_SHOGUN_PEDIA">
+			<Text>
+				추가 예정
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_RAIDEN_SHOGUN_LIVED">
+			<Text>?/6/26-</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_RAIDEN_SHOGUN_NAME">
+			<Text>뇌전 장군</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN">
+			<Text>뇌전 장군</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_CIV_IV">
+			<Text>뇌전 장군 [ICON_PEACE][ICON_HAPPINESS_1]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MATHALX_RAIDEN_SHOGUN_CIV_IV_PON">
+			<Text>뇌전 장군 [ICON_PEACE][ICON_CAPITAL]</Text>
+			<Gender>feminine</Gender>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_RAIDEN_SHOGUN_HEADING_1">
+			<Text>개요</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_RAIDEN_SHOGUN_TEXT_1">
+			<Text>
+				뇌전 장군은 원신에 등장하는 캐릭터로, 티바트의 국가 중 하나인 도처의 통치자다.[NEWLINE][NEWLINE]뇌전 장군은 뇌전 영이 자신의 모습을 본따 만든 인형으로, 영은 뇌전 장군을 만들 때 장군이 자신의 행동 방식을 바꾸기 힘들도록 설정하였다.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_RAIDEN_SHOGUN_HEADING_2">
+			<Text>평가</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_RAIDEN_SHOGUN_TEXT_2">
+			<Text>
+				비록 우인단의 개입, 개인적인 사정과 신념 때문의 문제가 있었다만, 뇌전 장군은 이걸 감안해도 도처를 위기로 몰아넣은 암군으로 평가받는다. 그 영원 추구라는 명목 아래 변화를 거부하면서 사회를 경직시킴과 동시에 무역마저 불구화시켜서 경제를 막장으로 몰아넣었으며, 안수령을 비록 주도하진 않았어도 안수령을 묵인하는 등 정치적으로도 폭압적이였고 뇌신과 악연이 있는 해지섬과의 갈등도 방치하는 등 국정 운영에서는 거의 최악의 모습을 보였다.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_RAIDEN_SHOGUN_SUBTITLE">
+			<Text>도처 막부의 정이대장군</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_RAIDEN_SHOGUN_TITLES_1">
+			<Text>뇌전 영</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MATHALX_RAIDEN_SHOGUN_TITLES_2">
+			<Text>뇌정의 화신</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_INAZUMA_CITY">
+			<Text>도처성</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_GRAND_NARUKAMI_SHRINE">
+			<Text>명신 대사</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_RITOU">
+			<Text>이도</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_KONDA">
+			<Text>감전</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_CHINJU">
+			<Text>진수</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_YOUGOU">
+			<Text>영향</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_KUJOU_ENCAMPMENT">
+			<Text>구조 진지</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_NAZUCHI">
+			<Text>명추</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_JINREN">
+			<Text>인연도</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_MIKAGE_FURNACE">
+			<Text>어영 노심</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_HIGI">
+			<Text>비목</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_MUMEI">
+			<Text>무명</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_ARAUMI">
+			<Text>황해</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_MUSOUJIN">
+			<Text>무상인</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MATHALX_JAKOTSU">
+			<Text>사골</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_SPY_NAME_MATHALX_SARA">
+			<Text>사라</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MATHALX_AYAKA">
+			<Text>능화</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MATHALX_MIKO">
+			<Text>신자</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MATHALX_YOIMIYA">
+			<Text>소궁</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MATHALX_MASAHITO">
+			<Text>정인</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MATHALX_MOMOKA">
+			<Text>백일</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MATHALX_THOMA">
+			<Text>토마</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MATHALX_KOBAYASHI">
+			<Text>소림</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_MATHALX_SASAKI">
+			<Text>좌좌목</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_COMMISSION">
+			<Text>봉행 청사</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_COMMISSION_TEXT">
+			<Text>도처의 통치자로 바알 뇌전 영이 있는 가운데, 영의 뜻을 수행하기 위해 존재하는 행정기관으로 삼봉행이 존재하였다. 이 중 감정 봉행은 종 가문이 관리했으며 이들은 재무를 담당했으며, 구조 가문이 관리하는 천령 봉행은 치안을 담당하며 도처의 주요 정책 중 하나인 안수령을 집행하였다. 마지막으로 신리 가문이 관리하는 사 봉행은 제사와 예술에 관여한다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_COMMISSION_HELP">
+			<Text>시장을 대체합니다. [ICON_PRODUCTION] 생산력을 제공하며, 또한 추가로 삼봉행 중 하나를 선택하여 도시를 강화할 수 있습니다.[NEWLINE][NEWLINE]도처만 이 건물을 건설할 수 있습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_COMMISSION_STRATEGY">
+			<Text>봉행 청사는 시장을 대체하는 도처의 고유 건물입니다. 생산력을 증가시키며 이미 짓기에 이로운 시장을 대체하기에 초반에 무리 없이 올릴 수 있으며, 또한 추가로 감정, 천령이나 사 봉행에게 해당 도시의 행정을 맡기는 선택을 하여 도시를 추가로 강화시킬 수 있습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_COMMISSION_HELP_PON">
+			<Text>법원을 대체합니다. [ICON_PRODUCTION] 생산력을 제공하며, 또한 추가로 삼봉행 중 하나를 선택하여 도시를 강화할 수 있습니다.[NEWLINE][NEWLINE]도처만 이 건물을 건설할 수 있습니다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_COMMISSION_STRATEGY_PON">
+			<Text>봉행 청사는 법원을 대체하는 도처의 고유 건물입니다. 생산력을 추가시키며 법원과는 달리 임명직을 추가하기에 초반 정부로 인한 방향 전환이 더 쉬워지며, 또한 추가로 감정, 천령이나 사 봉행에게 해당 도시의 행정을 맡기는 선택을 하여 도시를 추가로 강화시킬 수 있습니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_KANJOU_COMMISSION">
+			<Text>감정 봉행</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_KANJOU_COMMISSION_TEXT">
+			<Text>감정 봉행은 재무와 무역을 담당하는 봉행으로, 쇄국령 이후에는 도처에 출입하는 사람을 심사하고 이도에서 외지인들을 관리한다. 감정 봉행을 관리하는 종 가문은 이도에서만 외국인이 들어올 수 있는 점 덕에 쇄국령을 구실로 삼아 외국인 상인들을 착취하며 부당한 이득을 착복했으며 심지어 당주인 종 신개를 비롯한 일부는 우인단과 결탁하여 도처를 전복하려고 하였다. 허나 스토리상으로 신개는 파면당하고 우인단과 관계가 없는 그의 딸인 천리가 당주가 되면서 정상화되어가고 있다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_KANJOU_COMMISSION_HELP">
+			<Text>도시 [ICON_CITIZEN] 인구 4명 당 [ICON_GOLD] 금이 1만큼 증가하며, 나가는 [ICON_GOLD] 금 [ICON_INTERNATIONAL_TRADE] 교역로로부터 금을 2만큼, 들어오는 외국 교역로부터는 양국이 턴당 2의 금을 얻습니다.[NEWLINE][NEWLINE]도시에 봉행 청사가 필요합니다.[NEWLINE][NEWLINE]도처만 이 건물을 건설할 수 있습니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_TENRYOU_COMMISSION">
+			<Text>천령 봉행</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_TENRYOU_COMMISSION_TEXT">
+			<Text>천령 봉행은 국방과 치안을 담당하는 봉행으로, 또한 안수령을 집행하는 기관이기도 하다. 허나 안수령의 후유증과 전쟁 피로 같은 사유 때문에 천령 봉행은 탈영에 시달리고 있으며 천령 봉행을 관리하는 구조 가문은 당시에는 강경파인 효행이 당주로 있었다. 효행은 강경파라서 직접적으로 국가를 팔아먹을 생각은 없었고 우인단이 대정이장군에게는 위협이 되지 않으리라 생각하였다만 우인단의 안수령을 제안한다는 제안에 동의하여 안수령을 실시하였고 또한 뇌전 장군에게 거짓 보고를 올리면서 사실상 매국노가 되었다. 허나 결국에 이런 행위가 발각된 후에는 효행은 고령인데다가 오랫동안 쇼군에게 충성하며 공을 세운 점이 참작되어 자택에 유폐되었고 대신 그의 아들인 정인이 맏이로서 구조 가문의 당주가 되었을 것이였으나 정인은 자신의 직책 때문에 그의 동생인 겸치에게 당주 자리를 물려주었고 업무 일부는 양녀 구조 사라, 그리고 봉행의 다른 업무는 뇌전 장군 자신이 맡음으로서 정상화되어가고 있다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_TENRYOU_COMMISSION_HELP">
+			<Text>도시의 [ICON_HAPPINESS_1] 지역 행복을 2만큼 증가시키며 도시에서 생산된 유닛의 경험치를 15만큼 증가시킵니다.[NEWLINE][NEWLINE]도시에 봉행 청사가 필요합니다.[NEWLINE][NEWLINE]도처만 이 건물을 건설할 수 있습니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_YASHIRO_COMMISSION">
+			<Text>사 봉행</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_YASHIRO_COMMISSION_TEXT">
+			<Text>사 봉행은 도예와 제사을 담당하는 봉행으로, 무녀의 제사를 돕고 가무와 금기, 그리고 도공 등을 관리한다. 감정 봉행과 천령 봉행의 당주들이 우인단과 협력한 것과는 달리 신리 가문의 당주인 능인은 우인단의 제안을 거부하였으며 또한 민간인과의 마찰도 적고 도리어 안수령에 대해 소극적인 저항도 하는 등 삼봉행 중 가장 긍정적으로 묘사되었다.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MATHALX_YASHIRO_COMMISSION_HELP">
+			<Text>예술가 슬롯을 제공하며 또한 [ICON_GREAT_PEOPLE] 위인 탄생 속도를 25% 증가시킵니다.[NEWLINE][NEWLINE]도시에 봉행 청사가 필요합니다.[NEWLINE][NEWLINE]도처만 이 건물을 건설할 수 있습니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_UNIT_MATHALX_DOUSHIN">
+			<Text>동심</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATHALX_DOUSHIN_HELP">
+			<Text>
+				장창병을 대체합니다. 우호 영토에서 전투력이 증가하고 턴을 도처 영토 내에서 시작시 선공할 수 있습니다.[NEWLINE][NEWLINE]오로지 도처만 이 유닛을 생산할 수 있습니다.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATHALX_DOUSHIN_TEXT">
+			<Text>
+				동심이라는 단어는 역사적으로는 강호 막부의 하급 관리이며, 원신의 도처에서는 족경보다는 계급이 더 높지만 여력보다는 낮은 하급 무사로 대부분의 동심은 도처도를 순찰한다.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_UNIT_MATHALX_DOUSHIN_STRATEGY">
+			<Text>
+				동심은 장창병을 대체하는 도처의 고유 유닛입니다. 이들은 우호 영토에서 전투력이 증가하며 또한 우호 영토에서 턴을 시작할 경우 원거리 공격으로 선공할 수 있는 강력한 수비용 유닛입니다.
+			</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_DOUSHIN_STRIKE">
+			<Text>정이대장군의 가호</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MATHALX_DOUSHIN_STRIKE_HELP">
+			<Text>주요 근접 공격 전에 원거리 공격으로 선공합니다.</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_GENERIC_MATHALX_INAZUMA_INFLUENTIAL_ON_AI_1">
+			<Text>우리 국민들이 이제 영원을 추구하기 위해 인형을 만들고... 저는 한편 국민으로부터 무언가를 몰수하고 있습니다. 당신의 문화가 전 세계를 잠식하게 될까 우려합니다.</Text>
+		</Row>
+	</Language_ko_KR>
+</GameData>

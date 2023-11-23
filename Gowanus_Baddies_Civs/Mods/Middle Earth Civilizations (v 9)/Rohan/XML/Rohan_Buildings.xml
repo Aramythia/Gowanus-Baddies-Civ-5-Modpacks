@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/2/2014 11:25:08 AM -->
+<GameData>
+	<Buildings>
+		<Row>
+			<Type>BUILDING_MEC_MEARAS_STABLE</Type>
+			<BuildingClass>BUILDINGCLASS_STABLE</BuildingClass>
+			<Cost>100</Cost>
+			<GoldMaintenance>1</GoldMaintenance>
+			<PrereqTech>TECH_HORSEBACK_RIDING</PrereqTech>
+			<Description>TXT_KEY_BUILDING_MEC_MEARAS_STABLE</Description>
+			<Civilopedia>TXT_KEY_CIV_BUILDINGS_MEC_MEARAS_STABLE</Civilopedia>
+			<Strategy>TXT_KEY_BUILDING_MEC_MEARAS_STABLE_STRATEGY</Strategy>
+			<Help>TXT_KEY_BUILDING_MEC_MEARAS_STABLE_HELP</Help>
+			<ArtDefineTag>ART_DEF_BUILDING_STABLE</ArtDefineTag>
+			<MinAreaSize>-1</MinAreaSize>
+			<HurryCostModifier>25</HurryCostModifier>
+			<PortraitIndex>3</PortraitIndex>
+			<NeverCapture>true</NeverCapture>
+			<IconAtlas>MEC_ICON_ATLAS</IconAtlas>
+		</Row>
+		
+	</Buildings>
+	<Building_Flavors>
+		<Row>
+			
+			
+			<BuildingType>BUILDING_MEC_MEARAS_STABLE</BuildingType>
+			<FlavorType>FLAVOR_PRODUCTION</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEC_MEARAS_STABLE</BuildingType>
+			<FlavorType>FLAVOR_MOBILE</FlavorType>
+			<Flavor>25</Flavor>
+		</Row>
+	</Building_Flavors>
+	<Building_LocalResourceOrs>
+		<Row>
+			<BuildingType>BUILDING_MEC_MEARAS_STABLE</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEC_MEARAS_STABLE</BuildingType>
+			<ResourceType>RESOURCE_COW</ResourceType>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEC_MEARAS_STABLE</BuildingType>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+		</Row>
+	</Building_LocalResourceOrs>
+	<Building_ResourceYieldChanges>
+		<Row>
+			<BuildingType>BUILDING_MEC_MEARAS_STABLE</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		
+		<Row>
+			<BuildingType>BUILDING_MEC_MEARAS_STABLE</BuildingType>
+			<ResourceType>RESOURCE_HORSE</ResourceType>
+			<YieldType>YIELD_CULTURE</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEC_MEARAS_STABLE</BuildingType>
+			<ResourceType>RESOURCE_COW</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+		<Row>
+			<BuildingType>BUILDING_MEC_MEARAS_STABLE</BuildingType>
+			<ResourceType>RESOURCE_SHEEP</ResourceType>
+			<YieldType>YIELD_PRODUCTION</YieldType>
+			<Yield>1</Yield>
+		</Row>
+	</Building_ResourceYieldChanges>
+	<Building_UnitCombatProductionModifiers>
+		<Row>
+			<BuildingType>BUILDING_MEC_MEARAS_STABLE</BuildingType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<Modifier>15</Modifier>
+		</Row>
+	</Building_UnitCombatProductionModifiers>
+	<Building_UnitCombatFreeExperiences>
+		<Row>
+			<BuildingType>BUILDING_MEC_MEARAS_STABLE</BuildingType>
+			<UnitCombatType>UNITCOMBAT_MOUNTED</UnitCombatType>
+			<Experience>15</Experience>
+		</Row>
+	</Building_UnitCombatFreeExperiences>
+</GameData>

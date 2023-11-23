@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="utf-8"?>
+	  
+<GameData>  
+	<Language_it_IT>
+		<Row Tag ="TXT_KEY_CIV_MEC_GOBLINS_DESC">
+			<Text>Goblin Kingdom</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_GOBLINS_SHORT_DESC">
+			<Text>Goblins</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_GOBLINS_ADJECTIVE">
+			<Text>Goblin</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_GOBLINS_TEXT_1">
+			<Text>Azog era un potente orco che dominava sulle miniere abbandonate dei nani di Moria, durante la tarda Terza Era. Divenne il leader dei Goblin di Moria e ha avviato la Guerra dei Nani e Orchi nel TA 2790, decapitando re Thrór, che era venuto a rivisitare le rovine dell'antico Regno dei nani di Moria. Ad un certo punto ha avuto un figlio di nome Bolg. Negli anni successivi, Azog era il nemico comune di tutti i nani, e la guerra che ha iniziato ha avuto il suo culmine nella Battaglia di Azanulbizar, dove ha ucciso Nain, solo per essere poi ucciso dal figlio di Náin, Dáin, che più tardi sarebbe diventato re del Popolo di Durin. Suo figlio, Bolg, ereditò il regno di Moria e continuò per decenni, fino alla sua morte nella Battaglia dei Cinque Eserciti. [NEWLINE] [NEWLINE] Azog il Profanatore, la razza Goblin ti invita a recuperare le loro terre. Vuoi decapitare i tuoi nemici e dichiarare la vittoria su di loro? O fallirai e lascierai che il declino conduca i Goblin nel nulla? Riuscirai a costruire una civiltà che supererà la prova del tempo?</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_GOBLINS_PEDIA">
+			<Text>Goblin sono ciò che Tolkien chiamava gli Orchi che Thorin e la sua Compagnia incontrarono nel libro Lo Hobbit. Vivevano in profondità sotto le Montagne Nebbiose in molte roccaforti, dai tempi della Guerra dell'Ira nella Prima Era. In Lo Hobbit, Tolkien li ha descritti come grandi, brutte creature, "crudeli, malvagi e di cattivo cuore." Tolkien ha spiegato in una nota all'inizio di Lo Hobbit che stava usando l'inglese per rappresentare le lingue utilizzate dai personaggi, e che goblin (o hobgoblin per il tipo più grande) era la traduzione in inglese che stava usando per la parola Orc, che (egli ha scritto) è la forma hobbit del loro nome. Tolkien usò il termine goblin ampiamente in Lo Hobbit, e anche occasionalmente in Il Signore degli Anelli, come quando gli Uruk-hai di Isengard sono prima descritti: "quattro goblin-soldati di maggiore statura". Una chiara illustrazione che Tolkien considerava essere goblin e orchi la stessa cosa, il primo termine solo la traduzione inglese di quest'ultimo, è che in Lo Hobbit (l'unica delle opere di Tolkien in cui di solito si riferisce a orchi come goblin) Gandalf chiede a Thorin se si ricorda Azog il goblin che ha ucciso suo nonno Thrór, [1] mentre in tutti gli altri suoi scritti Tolkien descrive Azog come un "grande Orco."</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_GOBLINS">
+			<Text>Regno dei Goblin</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_ETTENMOORS">
+			<Text>Ettenmoors</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_MOUNT_GUNDABAD">
+			<Text>Mount Gundabad</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_MORIA">
+			<Text>Moria</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_MISTY_MOUNTAINS">
+			<Text>Misty Mountains</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_WITHERED_HEATH">
+			<Text>Withered Heath</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_GREY_MOUNTAINS">
+			<Text>Grey Mountains</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_URULOKI">
+			<Text>Uruloki</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_HIGH_PASS">
+			<Text>High Pass</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_DWARROWDELF">
+			<Text>Dwarrodelf</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_GOBLIN_TOWN">
+			<Text>Goblin-Town</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_GLAURUNG">
+			<Text>Glaurung</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ANCALAGON">
+			<Text>Ancalagon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_SCATHA">
+			<Text>Scatha</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MOUNT_GRAM">
+			<Text>Mount Gram</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_TROLLSHAWLS">
+			<Text>Trollshawls</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_HOARDALE">
+			<Text>Hoardale</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_COLDFELLS">
+			<Text>Coldfells</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_RHIMDATH">
+			<Text>Rhimdath</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_GREAT_CAVERN">
+			<Text>Great Cavern</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_MEC_AZOG">
+			<Text>Azog</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_LEADER_MEC_AZOG_PEDIA">
+			<Text>Azog</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_AZOG">
+			<Text>Azog era un potente orco che dominava sulle miniere abbandonate dei nani di Moria, durante la tarda Terza Era. Divenne il leader dei Goblin di Moria e ha avviato la Guerra dei Nani e Orchi nel TA 2790, decapitando re Thrór, che era venuto a rivisitare le rovine dell'antico Regno dei nani di Moria. Ad un certo punto ha avuto un figlio di nome Bolg. Negli anni successivi, Azog era il nemico comune di tutti i nani, e la guerra che ha iniziato ha avuto il suo culmine nella Battaglia di Azanulbizar, dove ha ucciso Nain, solo per essere poi ucciso dal figlio di Náin, Dáin, che più tardi sarebbe diventato re del Popolo di Durin. Suo figlio, Bolg, ereditò il regno di Moria e continuò per decenni, fino alla sua morte nella Battaglia dei Cinque Eserciti.</Text>
+		</Row>
+		<!-- 
+		<Row Tag ="TXT_KEY_UNIT_GOBLIN_WARRIOR">
+			<Text>Guerriero Goblin</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_ANTIQUITY_GOBLIN_WARRIOR">
+			<Text>I Guerrieri Goblin sono una razza di Goblin che combatte con le spade. Essi sono apparsi nei videogame "Lo Hobbit" e "Il Signore degli Anelli: Battaglia per la Terra di Mezzo II".</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_GOBLIN_WARRIOR_STRATEGY">
+			<Text>Il guerriero goblin è come il guerriero di base, tranne che è più economico da produrre.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_GOBLIN_WARRIOR">
+			<Text>Unità da mischia di base ed economica. Sostituisce il guerriero.</Text>
+		</Row>
+		-->
+		<Row Tag ="TXT_KEY_UNIT_MEC_CAVE_TROLL">
+			<Text>Troll di Caverna</Text>
+		</Row>
+
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MEC_CAVE_TROLL">
+			<Text>
+				I Troll di Caverna sono una razza di Troll trovati all'interno delle grotte delle Montagne Nebbiose. Uno di loro si mostra nella Compagnia dell'Anello, mentre la Compagnia ha attraversato Moria - nella battaglia presso la Camera di Mazarbul. L'altezza del Troll di Caverna può variare tra gli 11 e i 19 metri. Essi hanno la pelle giallo scuro con riflessi blu e occhi viola. Il loro sangue è di colore nero, e molto caldo. La loro pelle non può essere trafitta da spade normali, e rimane difficile da perforare, anche quando si confronta con le lame elfiche. I Troll di Caverna sono creature non intelligenti. Usano il loro senso dell'olfatto più spesso della vista, in genere viene portato in combattimento da una catena intorno al collo, guidato lungo da un domatore goblin. In combattimento, i Troll di Caverna di solito uccidono le figure che scioccamente si avvicinano troppo a loro, amico o nemico, nonostante la strategia. I Troll di Caverna, di tutti i tipi di troll, sono abbastanza alti di statura, essendo più alto rispetto ai troll collinari di Mordor, ma non così intelligente. I Troll di Caverna sono onnivori, mangiano carne e piante. Di solito questi troll vivono con gruppi di folletti e combattono al loro fianco o in gruppi di due o tre in piccole grotte. Essi sono utilizzati dagli eserciti di Sauron (sebbene Sauron tipicamente rinuncia a questi troll in favore di Olog-hai, un troll più forte e più intelligente che poteva muoversi alla luce del sole, senza trasformarsi in pietra). E' noto che i Troll di Caverna si trasformano in pietra se esposti alla luce diretta del sole. I Troll di Caverna hanno una forma molto primitiva del linguaggio come rappresentato in Lo Hobbit.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_CAVE_TROLL_STRATEGY">
+			<Text>Il Troll di Caverna è l'unità mobile primaria del Regno dei Goblin. Sostituisce il Cavaliere. Sono più forti del cavaliere, ma richiedono una maggiore produzione. Il Troll di Caverna si aggiorna nella Nave di Terra invece che nella Cavalleria. Il Troll di Caverna non richiede cavalli. Il Troll di Caverna ha solo 3 mosse.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_CAVE_TROLL">
+			<Text>Sostituisce il Cavaliere. Si aggiorna nella Nave di Terra invece che nella Cavalleria. Forte ma più lento.</Text>
+		</Row>
+		<!-- <Row Tag="TXT_KEY_PROMOTION_CAVE_TROLL">
+			<Text>Troll Skin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_CAVE_TROLL_HELP">
+			<Text>+25% Difesa</Text>
+		</Row>
+		-->
+		<Row Tag ="TXT_KEY_BUILDING_MEC_TUNNEL">
+			<Text>Tunnel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BUILDINGS_MEC_TUNNEL">
+			<Text>The Goblins often built a network of branching caves and tunnels within their domain. The tunnels in Goblin-Town stretched out from the Misty Mountains south of the Mountains of Angmar to the High Pass in the Northern part of the mountain range. Most of the tunnels were carved by the Goblins, though they also incorporated pre-existing caverns and passages.
+			
+			I Goblin spesso costruiscono una rete ramificata di grotte e cunicoli all'interno del loro dominio. Questi tunnel si allungano dalle Montagne Nebbiose a sud dei Monti di Angmar fino all'Alto Passo nella parte settentrionale della catena montuosa. La maggior parte delle gallerie sono state scavate dai Goblin, anche se sono state usate anche caverne e passaggi preesistenti.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_BUILDING_MEC_TUNNEL_STRATEGY">
+			<Text>La rete di tunnel offre trasporto rapido (capacità Airlift di solito acquisita dalla costruzione di un aeroporto) tra le città goblin. È necessario costruire uno in ogni città per viaggiare tra di loro con i tunnel.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_BUILDING_MEC_TUNNEL_HELP">
+			<Text>Monumento con l'abilità di trasporto veloce (trasporto aereo)</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_TRAIT_MEC_SCAVENGING">
+			<Text>+20% [ICON_STRENGTH] forza di combattimento contro unità di tecnologia superiore in territorio amichevole. Distruggere un'unità nemica la cui tecnologia non è stata ancora scoperta geneara il 15% della scienza [ICON_RESEARCH] necessaria per la ricerca di quella tecnologia.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_TRAIT_MEC_SCAVENGING_SHORT">
+			<Text>Scavenging</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_AZOG_NAME">
+			<Text>Azog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_AZOG_SUBTITLE">
+			<Text>Il Profanatore, Re di Moria</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_AZOG_LIVED">
+			<Text>?-TA2799</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_AZOG_DEFEATED_%">
+			<Text>Cedo. Taglia pure la mia testa. </Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_AZOG_FIRSTGREETING_%">
+			<Text>Lo senti vero? L'odore della paura? Ne sei impregnato!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_GORKIL">
+			<Text>Gorkil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_SHELOB">
+			<Text>Shelob</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_GREAT_GOBLIN">
+			<Text>Great Goblin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_BOLG">
+			<Text>Bolg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ORCOBAL">
+			<Text>Orcobal</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_DROGOTH">
+			<Text>Drogoth</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_LUG">
+			<Text>Lug</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_BOLDOG">
+			<Text>Boldog</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_BALCMEG">
+			<Text>Balcmeg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_SMAUG">
+			<Text>Smaug</Text>
+		</Row>
+	</Language_it_IT>
+</GameData>	

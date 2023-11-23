@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+	  
+<GameData>  
+	<Language_it_IT>
+		<Update>
+			<Set Text="[COLOR_POSITIVE_TEXT] Esercito Mercenario[ENDCOLOR] Consente l'acquisto di Variag del Khand"/>
+			<Where Tag="TXT_KEY_POLICY_TRADE_UNIONS_HELP"/>  
+		</Update>
+		<Row Tag ="TXT_KEY_UNIT_MEC_VARIAG">
+			<Text>Variag</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_MEDIEVAL_MEC_VARIAG">
+			<Text>
+				I Variag erano uomini dalla terra di Khand, di cui si sa poco a parte il fatto che hanno combattuto per Sauron nella Guerra dell'Anello. La loro comparsa ci fu nel 1944 della Terza Era, nel nord-est della Terra di Mezzo, combattendo al fianco della tribù Esterling noto come i Carrieri. Il 14 e 15 marzo (Terza Età: 3019) i Variag hanno combattuto nell'esercito di Sauron nella battaglia dei Campi del Pelennor. [NEWLINE] [NEWLINE] Tolkien non ha mai descritto i Variag, e la maggior parte delle informazioni su di loro è speculativo. Alcuni ipotizzano che erano cavalieri simili agli Unni basandosi sul presunto clima di Khand e il sarebbero conosciuti come fornitori di cavalli per Mordor. È stato anche ipotizzato che fossero berserker armati di ascia, basato sul mondo reale di Varangians.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_VARIAG_STRATEGY">
+			<Text>
+				Il Variag è un'unità disponibile solo attraverso la politica sociale Esercito Mercenario dell'albero del Commercio, ed è a disposizione di tutte le civiltà (una volta scoperto l'acciaio). Questa unità costa i tre quarti rispetto al guerriero con spada lunga, e non richiede ferro. Possiede anche promozioni uniche che permettono di saccheggiare i miglioramenti senza alcun costo di movimento e di saccheggiare il doppio d'oro dalle città. Queste caratteristiche rendono l'unità una rappresentazione interessante dei veri mercenari della vita reale, interessati solo alla guerra, per quanto li arricchisce. [NEWLINE] [NEWLINE] Ancora più importante, tuttavia, è che il Variag è una delle poche unità in gioco (se non l'unica unità) che può muoversi e attaccare nello stesso turno in cui viene acquistato! [NEWLINE] [NEWLINE] Questa unità è ottima se avete bisogno immediatamente di una unità, soprattutto per la difesa.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_VARIAG">
+			<Text>Un equivalente mercenario del guerriero con spada lunga. Può saccheggiare caselle senza alcun costo di movimento e riceve un doppio bottino dalle città.</Text>
+		</Row>
+	</Language_it_IT>
+</GameData>	

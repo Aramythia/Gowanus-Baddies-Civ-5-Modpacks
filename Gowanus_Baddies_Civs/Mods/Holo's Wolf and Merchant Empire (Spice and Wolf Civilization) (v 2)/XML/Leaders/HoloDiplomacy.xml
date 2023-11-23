@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/4/2014 3:49:23 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<!-- Initial greeting -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_FIRST_GREETING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- Player removed from game -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DEFEATED_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- Normal greetings -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_POLITE_HELLO_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_NEUTRAL_HELLO_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_HELLO_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- Ideologies and stuff -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_SAME_POLICIES_FREEDOM</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_SAME_POLICIES_FREEDOM_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_SAME_POLICIES_ORDER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_SAME_POLICIES_ORDER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_SAME_POLICIES_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_SAME_POLICIES_AUTOCRACY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_BULLIED_PROTECTED_CITY_STATE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_BULLIED_PROTECTED_CITY_STATE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_EXPANSION_SERIOUS_WARNING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HOSTILE_WE_BULLIED_YOUR_MINOR</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HOSTILE_WE_BULLIED_YOUR_MINOR_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WE_BULLIED_YOUR_MINOR</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WE_BULLIED_YOUR_MINOR_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_REQUEST_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_LUXURY_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_LUXURY_TRADE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_EMBASSY_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_EMBASSY_EXCHANGE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_EMBASSY_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_EMBASSY_OFFER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_OPEN_BORDERS_EXCHANGE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_OPEN_BORDERS_EXCHANGE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_RENEW_DEAL</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_RENEW_DEAL_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WANT_MORE_RENEW_DEAL</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WANT_MORE_RENEW_DEAL_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HOSTILE_WE_BULLIED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HOSTILE_WE_BULLIED_MINOR_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HOSTILE_WE_BULLIED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HOSTILE_WE_BULLIED_MINOR_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WE_BULLIED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WE_BULLIED_MINOR_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WE_BULLIED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WE_BULLIED_MINOR_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_BULLIED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_BULLIED_MINOR_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_BULLIED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_BULLIED_MINOR_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_WILL_ACCEPT_SURRENDER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WILL_ACCEPT_SURRENDER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- Espionage related responses -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_CAUGHT_YOUR_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_CAUGHT_YOUR_SPY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_KILLED_YOUR_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_KILLED_YOUR_SPY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_KILLED_MY_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_KILLED_MY_SPY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_CONFRONT_YOU_KILLED_MY_SPY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_CONFRONT_YOU_KILLED_MY_SPY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_SUSPECT_YOU_OF_SPYING</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_SUSPECT_YOU_OF_SPYING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_CAUGHT_YOUR_SPY_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_CAUGHT_YOUR_SPY_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_CAUGHT_YOUR_SPY_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_CAUGHT_YOUR_SPY_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_STOP_SPYING_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_STOP_SPYING_YES_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_STOP_SPYING_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_STOP_SPYING_NO_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WARNED_ABOUT_INTRIGUE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WARNED_ABOUT_INTRIGUE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_DECEPTION</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_SHARE_INTRIGUE_DECEPTION_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MY_SPY_UNFORGIVEN</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_KILLED_MY_SPY_UNFORGIVEN_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MY_SPY_FORGIVEN</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_KILLED_MY_SPY_FORGIVEN_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_STOP_CONVERSIONS</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_STOP_CONVERSIONS_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_STOP_CONVERSIONS_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_STOP_CONVERSIONS_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_TRADE_CANT_MATCH_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_TRADE_CANT_MATCH_OFFER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_AGREE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_STOP_CONVERSIONS_AGREE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_STOP_CONVERSIONS_DISAGREE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_STOP_CONVERSIONS_DISAGREE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- BNW Stuff -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_STOP_DIGGING</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_STOP_DIGGING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_STOP_DIGGING_AGREE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_STOP_DIGGING_AGREE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_STOP_DIGGING_DISAGREE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_STOP_DIGGING_DISAGREE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_STOP_DIGGING_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_STOP_DIGGING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_STOP_DIGGING_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- Ideologies -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_CIVIL_RESISTANCE_ON_AI_BY_ORDER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_SWITCHED_TO_FREEDOM</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_SWITCHED_TO_FREEDOM_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_SWITCHED_TO_ORDER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_SWITCHED_TO_ORDER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_SWITCHED_TO_AUTOCRACY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_SWITCHED_TO_AUTOCRACY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_INFLUENTIAL_ON_AI_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_INFLUENTIAL_ON_HUMAN</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_INFLUENTIAL_ON_HUMAN_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- Leagues -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WE_LIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WE_LIKE_HUMAN_PROPOSAL_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WE_DISLIKE_HUMAN_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WE_DISLIKE_HUMAN_PROPOSAL_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_SUPPORTED_OUR_PROPOSAL_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_FOILED_OUR_PROPOSAL</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_FOILED_OUR_PROPOSAL_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_SUPPORTED_OUR_HOSTING</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_SUPPORTED_OUR_HOSTING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- Obsolete Vanilla Text? -->
+		<!-- Action repeated too often -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_REPEAT_TRADE_TOO_MUCH</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_REPEAT_TRADE_TOO_MUCH_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_REPEAT_TRADE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_REPEAT_TRADE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_REPEAT_TOO_MUCH</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_REPEAT_TOO_MUCH_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_REPEAT</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_REPEAT_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_REPEAT</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_REPEAT_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- Others -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_DESTRUCTION_LOOMS</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DESTRUCTION_LOOMS_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_AT_WAR_WANTS_PEACE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_AT_WAR_WANTS_PEACE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_AT_WAR_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_AT_WAR_HOSTILE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_RESEARCH_AGREEMENT</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_RESEARCH_AGREEMENT_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_BROKEN_MILITARY_PROMISE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_BROKEN_MILITARY_PROMISE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_WORKING_WITH</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_WORKING_WITH_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_WORKING_AGAINST</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_WORKING_AGAINST_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_COOP_WAR</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_COOP_WAR_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_AT_WAR</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_HUMAN_AT_WAR_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_HUMAN_AT_WAR</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_HUMAN_AT_WAR_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_AGGRESSIVE_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_AGGRESSIVE_MILITARY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_AGGRESSIVE_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_AGGRESSIVE_MILITARY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_AGGRESSIVE_EXPANSION</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_AGGRESSIVE_EXPANSION</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_AGGRESSIVE_EXPANSION_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_FRIENDLY_STRONG_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_FRIENDLY_STRONG_MILITARY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_FRIENDLY_STRONG_ECONOMY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_FRIENDLY_STRONG_ECONOMY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_FEW_CITIES</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_HUMAN_FEW_CITIES_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_SMALL_ARMY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_HUMAN_SMALL_ARMY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HUMAN_IS_WARMONGER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_HUMAN_IS_WARMONGER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_BY_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_DENOUNCED_BY_AI_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_DENOUNCED_AI_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_OUR_DOF_WITH_ENEMY_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_OUR_DOF_WITH_FRIEND_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_FRIEND_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_DENOUNCED_FRIEND_OF_AI_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_GREETING_DENOUNCED_ENEMY_OF_AI</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_GREETING_DENOUNCED_ENEMY_OF_AI_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_TOO_SOON_FOR_DOF</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_TOO_SOON_FOR_DOF_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DOF_AI_DENOUNCE_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DOF_AI_DENOUNCE_REQUEST_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DOF_AI_WAR_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DOF_AI_WAR_REQUEST_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DOF_NOT_HONORED</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DOF_NOT_HONORED_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_AI_DOF_BACKSTAB</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_AI_DOF_BACKSTAB_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_RESPONSE_TO_BEING_DENOUNCED</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_RESPONSE_TO_BEING_DENOUNCED_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_DOFED_FRIEND</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_DOFED_FRIEND_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_DOFED_ENEMY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_DOFED_ENEMY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCED_FRIEND</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_DENOUNCED_FRIEND_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCED_ENEMY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_DENOUNCED_ENEMY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_DOF_SO_AI_DOF</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_DOF_SO_AI_DOF_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCE_SO_AI_DENOUNCE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_DENOUNCE_SO_AI_DENOUNCE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_DOF_SO_AI_DENOUNCE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_DOF_SO_AI_DENOUNCE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_DENOUNCE_SO_AI_DOF</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_DENOUNCE_SO_AI_DOF_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- General -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_AGGRESSIVE_MILITARY_WARNING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_KILLED_PROTECTED_CITY_STATE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_KILLED_PROTECTED_CITY_STATE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_ATTACKED_PROTECTED_CITY_STATE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_ATTACKED_PROTECTED_CITY_STATE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_EXPANSION_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_EXPANSION_WARNING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_EXPANSION_BROKEN_PROMISE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_EXPANSION_BROKEN_PROMISE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_PLOT_BUYING_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_PLOT_BUYING_SERIOUS_WARNING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_PLOT_BUYING_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_PLOT_BUYING_WARNING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_PLOT_BUYING_BROKEN_PROMISE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_PLOT_BUYING_BROKEN_PROMISE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HOSTILE_WE_ATTACKED_YOUR_MINOR</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HOSTILE_WE_ATTACKED_YOUR_MINOR_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WE_ATTACKED_YOUR_MINOR</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WE_ATTACKED_YOUR_MINOR_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WORK_WITH_US</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WORK_WITH_US_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_WARMONGER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_END_WORK_WITH_US_WARMONGER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_MINORS</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_END_WORK_WITH_US_MINORS_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_LAND</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_END_WORK_WITH_US_LAND_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_WONDERS</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_END_WORK_WITH_US_WONDERS_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_VICTORY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_END_WORK_WITH_US_VICTORY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_END_WORK_WITH_US_DEFAULT</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_END_WORK_WITH_US_DEFAULT_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WORK_AGAINST_SOMEONE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WORK_AGAINST_SOMEONE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_END_WORK_AGAINST_SOMEONE_DEFAULT</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_END_WORK_AGAINST_SOMEONE_DEFAULT_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_COOP_WAR_REQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_COOP_WAR_REQUEST_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_COOP_WAR_TIME</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_COOP_WAR_TIME_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_NOW_UNFORGIVABLE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_NOW_UNFORGIVABLE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_NOW_ENEMY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_NOW_ENEMY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_COMPLIMENT</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_COMPLIMENT_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_BOOT_KISSING</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_BOOT_KISSING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WARMONGER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WARMONGER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_MINOR_CIV_COMPETITION</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_MINOR_CIV_COMPETITION_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_PLEASED</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_PLEASED_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_THANKFUL</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_THANKFUL_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DISAPPOINTED</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DISAPPOINTED_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_SO_BE_IT</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_SO_BE_IT_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_RETURNED_CIVILIAN</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_RETURNED_CIVILIAN_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_CULTURE_BOMBED</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_CULTURE_BOMBED_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- Insults -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_INSULT_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_INSULT_GENERIC_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_INSULT_MILITARY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_INSULT_MILITARY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_INSULT_NUKE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_INSULT_NUKE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_INSULT_BULLY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_INSULT_BULLY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_INSULT_UNHAPPINESS</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_INSULT_UNHAPPINESS_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_INSULT_CITIES</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_INSULT_CITIES_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_INSULT_POPULATION</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_INSULT_POPULATION_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_INSULT_CULTURE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_INSULT_CULTURE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DECLARATION_PROTECT_CITY_STATE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DECLARATION_PROTECT_CITY_STATE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DECLARATION_ABANDON_CITY_STATE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DECLARATION_ABANDON_CITY_STATE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- Human asking AI for something -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_REPEAT_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_REPEAT_NO_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DONT_SETTLE_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DONT_SETTLE_YES_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DONT_SETTLE_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DONT_SETTLE_NO_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WORK_WITH_US_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WORK_WITH_US_YES_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WORK_WITH_US_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WORK_WITH_US_NO_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WORK_AGAINST_SOMEONE_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WORK_AGAINST_SOMEONE_YES_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WORK_AGAINST_SOMEONE_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WORK_AGAINST_SOMEONE_NO_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_COOP_WAR_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_COOP_WAR_YES_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_COOP_WAR_NO</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_COOP_WAR_NO_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_COOP_WAR_SOON</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_COOP_WAR_SOON_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_YES</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_DEMAND_YES_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_REFUSE_WEAK</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_DEMAND_REFUSE_WEAK_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_REFUSE_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_DEMAND_REFUSE_HOSTILE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_REFUSE_TOO_MUCH</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_DEMAND_REFUSE_TOO_MUCH_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_DEMAND_REFUSE_TOO_SOON</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_DEMAND_REFUSE_TOO_SOON_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- Deal offers and related -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DOT_DOT_DOT</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DOT_DOT_DOT_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_LETS_HEAR_IT</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_LETS_HEAR_IT_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_PEACE_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_PEACE_OFFER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DEMAND</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DEMAND_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_OPEN_BORDERS_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_OPEN_BORDERS_OFFER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_PLAN_RESEARCH_AGREEMENT</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_PLAN_RESEARCH_AGREEMENT_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_RESEARCH_AGREEMENT_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_RESEARCH_AGREEMENT_OFFER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- Trade dialogue -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_GENEROUS</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_GENEROUS_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_ACCEPTABLE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_ACCEPTABLE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_AI_DEMAND</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_AI_DEMAND_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_TRADE_ACCEPT_HUMAN_CONCESSIONS</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_HUMAN_CONCESSIONS_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_TRADE_REJECT_UNACCEPTABLE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_TRADE_REJECT_UNACCEPTABLE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_TRADE_REJECT_INSULTING</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_TRADE_REJECT_INSULTING_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_TRADE_DEAL_UNCHANGED</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_TRADE_DEAL_UNCHANGED_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_TRADE_AI_MAKES_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_TRADE_AI_MAKES_OFFER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_TRADE_NO_DEAL_POSSIBLE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_TRADE_NO_DEAL_POSSIBLE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- AI attacked by human, strong and weak include default response sets -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_ATTACKED_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_ATTACKED_HOSTILE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_ATTACKED_WEAK_HOSTILE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_HOSTILE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_ATTACKED_STRONG_HOSTILE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_ATTACKED_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_ATTACKED_EXCITED_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_ATTACKED_WEAK_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_ATTACKED_WEAK_EXCITED_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_ATTACKED_STRONG_EXCITED</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_ATTACKED_STRONG_EXCITED_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_ATTACKED_SAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_ATTACKED_SAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_ATTACKED_BETRAYED</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_ATTACKED_BETRAYED_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- AI declaring war on human, strong and weak include default response sets -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DOW_GENERIC</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DOW_GENERIC_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_ATTACKED_MILITARY_PROMISE_BROKEN</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_ATTACKED_MILITARY_PROMISE_BROKEN_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DOW_LAND</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DOW_LAND_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DOW_WORLD_CONQUEST</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DOW_WORLD_CONQUEST_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DOW_OPPORTUNITY</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DOW_OPPORTUNITY_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DOW_DESPERATE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DOW_DESPERATE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DOW_BETRAYAL</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DOW_BETRAYAL_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DOW_WEAK_BETRAYAL</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DOW_WEAK_BETRAYAL_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_DOW_REGRET</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_DOW_REGRET_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WAR_DEMAND_REFUSED</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WAR_DEMAND_REFUSED_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- AI responses to human peace offer -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_PEACE_WHAT_WILL_HUMAN_OFFER</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_PEACE_WHAT_WILL_HUMAN_OFFER_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_PEACE_MADE_BY_HUMAN_GRACIOUS</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_PEACE_MADE_BY_HUMAN_GRACIOUS_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_NO_PEACE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_NO_PEACE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_TOO_SOON_NO_PEACE</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_TOO_SOON_NO_PEACE_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!-- AI responses to discussion mode topics -->
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_AGGRESSIVE_MILITARY_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_AGGRESSIVE_MILITARY_WARNING_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_AGGRESSIVE_MILITARY_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_AGGRESSIVE_MILITARY_WARNING_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HOSTILE_WE_ATTACKED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HOSTILE_WE_ATTACKED_MINOR_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HOSTILE_WE_ATTACKED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HOSTILE_WE_ATTACKED_MINOR_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WE_ATTACKED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WE_ATTACKED_MINOR_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_WE_ATTACKED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_WE_ATTACKED_MINOR_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_ATTACKED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_ATTACKED_MINOR_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_ATTACKED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_ATTACKED_MINOR_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MINOR_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_KILLED_MINOR_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_KILLED_MINOR_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_KILLED_MINOR_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_EXPANSION_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_SERIOUS_EXPANSION_WARNING_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_EXPANSION_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_EXPANSION_WARNING_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_EXPANSION_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_EXPANSION_WARNING_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_PLOT_BUYING_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_SERIOUS_PLOT_BUYING_WARNING_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_PLOT_BUYING_WARNING_BAD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_PLOT_BUYING_WARNING_BAD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_HUMAN_PLOT_BUYING_WARNING_GOOD</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO_HUMAN_PLOT_BUYING_WARNING_GOOD_%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<!--
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		<Row LeaderType="LEADER_HOLO">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_HOLO__%</Response>
+			<Bias>1</Bias>
+		</Row>
+		-->
+	</Diplomacy_Responses>
+	<!-- Indexing by leader and response type greatly speed up access time. -->
+	<Index name="Diplomacy_ResponsesIndex" table="Diplomacy_Responses">
+		<Column name="LeaderType" sort="ASC" />
+		<Column name="ResponseType" sort="ASC" />
+	</Index>
+</GameData>

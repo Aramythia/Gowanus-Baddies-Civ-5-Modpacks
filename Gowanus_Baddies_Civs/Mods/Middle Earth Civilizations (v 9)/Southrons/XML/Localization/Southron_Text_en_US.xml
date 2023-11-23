@@ -1,0 +1,180 @@
+<?xml version="1.0" encoding="utf-8"?>
+	  
+<GameData>  
+	<Language_en_US>
+		<Row Tag ="TXT_KEY_CIV_MEC_SOUTHRONS_DESC">
+			<Text>Kingdoms of Harad</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_SOUTHRONS_SHORT_DESC">
+			<Text>Harad</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_SOUTHRONS_ADJECTIVE">
+			<Text>Haradrim</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_SOUTHRONS_TEXT_1">
+			<Text>
+				Haradrim, also called the Southrons, were a race of Men from Harad in the region of Middle-earth directly south of Gondor. At the time of the War of the Ring, the Southrons were in league with Sauron and fought alongside his orc army, riding atop gigantic, elephant-like Mûmakil. Once Sauron was destroyed, the Southrons joined forces with the Easterlings and Variags and their Kings started war on King Elessar, as well as off-continent enemies from since before the First Age. For many years, the Haradrim were the greatest enemy of Gondor. Several times, they invaded the north. Finally, the Men of Gondor were able to capture Harad, though it was later freed. During the War of the Ring the Haradrim were allied with Sauron. A Haradrim warrior wounded Faramir. At the Battle of the Pelennor Fields the 18,000 Haradrim, mostly mounted on the mumakil, were a great threat to the Rohirrim that had come to aid the people of Minas Tirith. At the Battle of the Pelennor Fields a chieftain, bearing the standard of a black serpent on a scarlet field, led the Haradrim cavalry. King Théoden of Rohan slew this Haradrim leader in single combat.  [NEWLINE][NEWLINE] Suladan, the Serpent Lord, your men are ready. Will the Haradrim you able to muster up enough forces to vanquish your foes? Or will you be defeated by an army of the dead? Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_SOUTHRONS">
+			<Text>Southrons</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_HARAD">
+			<Text>Harad</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_FAR_HARAD">
+			<Text>Far Harad</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_HARADWAITH">
+			<Text>Haradwaith</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_SUNLAND">
+			<Text>Sunland</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_HARONDOR">
+			<Text>Harondor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_INCANUS">
+			<Text>Incanus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_KHAND">
+			<Text>Khand</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_NEAR_HARAD">
+			<Text>Near Harad</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_SUTHERLAND">
+			<Text>Sutherland</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_BARANGILS">
+			<Text>Barangils</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_HARNEN">
+			<Text>Harnen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_HASHARIN">
+			<Text>Hasharin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_DALAMYR">
+			<Text>Dalamyr</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_BADHARKAN">
+			<Text>Badharkan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_HIDAR">
+			<Text>Hidar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_NAFARAT">
+			<Text>Nafarat</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ABRAKAN">
+			<Text>Abrakan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_DHARAN">
+			<Text>Dharan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_KARNA">
+			<Text>Karna</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_SUNLENDING">
+			<Text>Sunlending</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_HAUDH_IN_GWANUR">
+			<Text>Haudh-in-Gwanur</Text>
+		</Row>
+		
+		
+		<Row Tag ="TXT_KEY_LEADER_MEC_SULADAN_PEDIA">
+			<Text>Suladan</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_LEADER_MEC_SULADAN">
+			<Text>Suladan</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_SULADAN">
+			<Text>Suladan</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_MUMAKIL">
+			<Text>Mumakil</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_MEC_MUMAKIL">
+			<Text>Mûmakil were often used in battle by the Haradrim. To most cultures, the Mûmakil were creatures of legend, as fearsome as dragons, and to them were ascribed all kinds of strange powers.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_MUMAKIL_STRATEGY">
+			<Text>The Mumakil is the Haradrim unique cavalry. It's slower than standard mounted untis but its Feared Elephant ability dimished the combat strength of all enemy units around the Mumakil. The Mumakil is espcially effective at destroying enemy Calvalry for Horses fear the Mumakil.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_MUMAKIL">
+			<Text>Very strong anti-cavalry unit. Replaces the Lancer.</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_TRAIT_MEC_THE_SERPENT_LORD">
+			<Text>+25% Combat Strength while within 2 tiles of an Cantonment. Plundering cities and barbarian encampments produces double the normal gold. +1[ICON_PRODUCTION] Production and +1[ICON_FOOD] Food from Ivory. +2[ICON_CULTURE] Culture from each Oasis.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_TRAIT_MEC_THE_SERPENT_LORD_SHORT">
+			<Text>The Serpent Lord</Text>
+		</Row>
+
+		<Row Tag ="TXT_KEY_SPY_MEC_ABAAN">
+			<Text>Abaan</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_DIRAR">
+			<Text>Dirar</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_KHUZAYMAH">
+			<Text>Khuzaymah</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_UBAADAH">
+			<Text>Ubaadah</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_UTBAH">
+			<Text>Utbah</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_JIBRAN">
+			<Text>Jibran</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_UMAR">
+			<Text>Umar</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_NAWFAL">
+			<Text>Nawfal</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_AMRO">
+			<Text>Amro</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_MARWAN">
+			<Text>Marwan</Text>
+		</Row>
+
+		<Row Tag ="TXT_KEY_IMPROVEMENTS_MEC_CANTONMENT">
+			<Text>Cantonment</Text>
+		</Row>
+		<Row Tag="TXT_KEY_IMPROVEMENTS_MEC_CANTONMENT_CIV_PEDIA">
+			<Text>
+				Some tribes of the Haradrim lived a primarily nomadic live where they would move from oasis to oasis and live in temporary encampments or more permanent Cantonments. During a campaign, cantonments are places of encampment formed by troops for a more permanent stay, or while in winter quarters. [NEWLINE][NEWLINE] Provides +25% CS for Haradrim units within 2 tiles. Can be constructed on plains, grassland, tundra, dessert, hills, forests, or jungles both inside the Haradrim borders and outside them. Provides +1[ICON_FOOD] Food and +1[ICON_PRODUCTION] Production. Cannot be built adjacent to each other.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_IMPROVEMENTS_MEC_CANTONMENT_HELP">
+			<Text>
+				Provides +25% CS for Haradrim units within 2 tiles. Can be constructed on plains, grassland, tundra, dessert, hills, forests, or jungles both inside the Haradrim borders and outside them. Provides +1[ICON_FOOD] Food and +1[ICON_PRODUCTION] Production. Cannot be built adjacent to each other.
+			</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILD_MEC_CANTONMENT">
+			<Text>Construct a Cantonment</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_SULADAN_NAME">
+			<Text>Suladan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_SULADAN_SUBTITLE">
+			<Text>The Serpent Lord</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_SULADAN_LIVED">
+			<Text>???</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_SULADAN_DEFEATED_%">
+			<Text>Haradrim retreat! For the Black Serpent has fallen.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_SULADAN_FIRSTGREETING_%">
+			<Text>Men of the South draw your scimitars like the glitter of stars. Fill yourself with red wrath and follow my banner towards this new threat.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>	

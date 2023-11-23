@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 3/2/2014 10:28:30 AM -->
+<GameData>
+	<Traits>
+		<Row>
+			<Type>TRAIT_MEC_SCAVENGING</Type>
+			<Description>TXT_KEY_TRAIT_MEC_SCAVENGING</Description>
+			<ShortDescription>TXT_KEY_TRAIT_MEC_SCAVENGING_SHORT</ShortDescription>
+			<UnresearchedTechBonusFromKills>15</UnresearchedTechBonusFromKills>
+			<CombatBonusVsHigherTech>20</CombatBonusVsHigherTech>
+			<!--<FreeBuilding>BUILDING_MEC_GOBLIN_MOUNTAIN_PRODUCTION</FreeBuilding>-->
+		</Row>
+	</Traits>
+</GameData>

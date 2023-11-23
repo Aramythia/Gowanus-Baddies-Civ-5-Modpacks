@@ -1,0 +1,250 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="6437df2f-0fc2-4e10-b458-2be8a4dd84ff" version="2">
+  <Properties>
+    <Name>Holo's Wolf and Merchant Empire (Spice and Wolf Civilization)</Name>
+    <Teaser>The Wisewolf of Yoitsu begins a new adventure![NEWLINE][COLOR_NEGATIVE_TEXT]NOTE: v2 is incompatible with older saves![ENDCOLOR]</Teaser>
+    <Description>[COLOR_HIGHLIGHT_TEXT]Adds a new Civilization based on the story of Spice and Wolf:[ENDCOLOR][NEWLINE]
+[COLOR_YIELD_GOLD]The Wolf and Merchant Empire, led by Holo, the Wisewolf![ENDCOLOR][NEWLINE]
+[NEWLINE]
+Plenty of gameplay changes to try and make the game more fun and dynamic, while increasing the amount of decision-making required. This Civ is complicated to start off with, but very quickly makes sense - [COLOR_POSITIVE_TEXT]Check the Civilopedia often for specifics![ENDCOLOR][NEWLINE]
+[NEWLINE]
+[COLOR_RESEARCH_STORED]Unique Ability:[ENDCOLOR] [COLOR_YIELD_GOLD]The Wisewolf of Yoitsu[ENDCOLOR][NEWLINE]
++1 Food from Snow and Tundra. Bonuses from Wheat and improved Wine, Sheep and Apples. Trade routes vastly more effective. Specialists consume more food. Penalty to production and faith.[NEWLINE]
+[NEWLINE]
+[COLOR_RESEARCH_STORED]Unique Units:[ENDCOLOR][NEWLINE]
+[ICON_BULLET][COLOR_POSITIVE_TEXT]Guild Merchant[ENDCOLOR] (Unique [COLOR_HIGHLIGHT_TEXT]Great Merchant[ENDCOLOR])[NEWLINE]
+[ICON_BULLET][COLOR_POSITIVE_TEXT]Wolf Pups[ENDCOLOR] (Replaces [COLOR_HIGHLIGHT_TEXT]Warrior[ENDCOLOR]) [ICON_ARROW_RIGHT] [COLOR_POSITIVE_TEXT]Wolf Pack[ENDCOLOR] (Replaces [COLOR_HIGHLIGHT_TEXT]Spearmen[ENDCOLOR]) [ICON_ARROW_RIGHT] [COLOR_POSITIVE_TEXT]Great Wolf[ENDCOLOR] (Replaces [COLOR_HIGHLIGHT_TEXT]Pikemen[ENDCOLOR])[NEWLINE]
+[NEWLINE]
+[COLOR_RESEARCH_STORED]Unique Buildings:[ENDCOLOR][NEWLINE]
+[ICON_BULLET][COLOR_POSITIVE_TEXT]Spice and Wolf Inn[ENDCOLOR] (Unique [COLOR_HIGHLIGHT_TEXT]Palace[ENDCOLOR])[NEWLINE]
+[ICON_BULLET][COLOR_POSITIVE_TEXT]Rowen Trade Guild HQ[ENDCOLOR] (Replaces [COLOR_HIGHLIGHT_TEXT]East India Company[ENDCOLOR])[NEWLINE]
+[ICON_BULLET][COLOR_POSITIVE_TEXT]Wheat Wolf[ENDCOLOR] (Replaces [COLOR_HIGHLIGHT_TEXT]Shrine[ENDCOLOR]) [ICON_ARROW_RIGHT] [COLOR_POSITIVE_TEXT]Wolf of the Harvest[ENDCOLOR] (Unbuildable)[NEWLINE]
+[ICON_BULLET][COLOR_POSITIVE_TEXT]Guild Trade Branch [ICON_ARROW_RIGHT] Guild Trade Hub [ICON_ARROW_RIGHT] Guild Trade Inn[ENDCOLOR] (Unique upgrade line)[NEWLINE]
+[NEWLINE]
+[COLOR_RESEARCH_STORED]Unique Improvement &amp; Resource:[ENDCOLOR][NEWLINE]
+[ICON_BULLET][COLOR_POSITIVE_TEXT]Apple Orchard[ENDCOLOR] (Flat Grassland/Plains with Fresh Water only)[NEWLINE]
+[ICON_BULLET][COLOR_YIELD_GOLD]Succulent Apples[ENDCOLOR] (One copy per City with [COLOR_HIGHLIGHT_TEXT]2+[ENDCOLOR] [COLOR_POSITIVE_TEXT]Apple Orchards[ENDCOLOR] being worked)[NEWLINE]
+[NEWLINE]
+[COLOR_RESEARCH_STORED]Unique Promotions:[ENDCOLOR][NEWLINE]
+[ICON_BULLET][COLOR_POSITIVE_TEXT]Pride of the Wisewolf[NEWLINE]
+[ICON_BULLET]Wisdom of the Wisewolf[NEWLINE]
+[ICON_BULLET]Wolf of Yoitsu[NEWLINE]
+[ICON_BULLET]Dreadful Hunter[ENDCOLOR][NEWLINE]
+[NEWLINE]
+Soundtrack included with a generous selection of [COLOR_POSITIVE_TEXT]21[ENDCOLOR] tracks![NEWLINE][NEWLINE]
+[COLOR_HIGHLIGHT_TEXT]Spice and Wolf Civilization[ENDCOLOR] [COLOR_POSITIVE_TEXT]Extended[ENDCOLOR] [COLOR_HIGHLIGHT_TEXT]Soundtrack now available![NEWLINE]
+Please check my Steam Workshop pages, or my CivFanatics thread for more information![ENDCOLOR]</Description>
+    <Authors>DarkScythe</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <Homepage>http://forums.civfanatics.com/showthread.php?t=540049</Homepage>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>1</ReloadAudioSystem>
+    <ReloadLandmarkSystem>1</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>1</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>1</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks>
+    <Mod id="ad86563b-4022-43fa-a6b5-19d60521a33d" minversion="0" maxversion="999" title="Holo's Spice and Wolf Civilization [BETA TEST]" />
+  </Blocks>
+  <Files>
+    <File md5="61B2842E4C90EA78A6486C1A56E8BC8A" import="1">Art/Apples/apple.fxsxml</File>
+    <File md5="C431D756C1A5707B9A46320E3E690D27" import="1">Art/Apples/apple.gr2</File>
+    <File md5="07B4B4FC3571CF538DA3D258852867D4" import="1">Art/Apples/apple_trees_diff.dds</File>
+    <File md5="BB9484A1A50C60712A046C7B32C1194C" import="1">Art/Apples/apple_trees_pil_diff.dds</File>
+    <File md5="0986EE8D48C33A306A7546682DDCF086" import="1">Art/Apples/apple_trees_sref.dds</File>
+    <File md5="0E7A6B7B2A29AE2B078203C36DEE3AE9" import="1">Art/Apples/plantation_apple_grnd_h_hb.dds</File>
+    <File md5="5091CED3749F0FF9497801236FE5B81D" import="1">Art/Apples/plantation_apple_grnd_pil.dds</File>
+    <File md5="36BB5D1D1E8919A94A4E8548204422FE" import="1">Art/Apples/plantation_ind_apple.fxsxml</File>
+    <File md5="38D4447C644B031D34C34AA483554871" import="1">Art/Apples/plantation_ind_apple.gr2</File>
+    <File md5="CD2A0FE52606F8012104D8D0A9CB49C6" import="1">Art/Apples/plantation_ind_apple_hb.fxsxml</File>
+    <File md5="95491DCAC2BFAB9878F61628D9175606" import="1">Art/Apples/plantation_ind_apple_hb.gr2</File>
+    <File md5="2C18289D6E988E50B4B7B7107C4FC149" import="1">Art/Apples/plantation_ind_apple_pil.fxsxml</File>
+    <File md5="B12C459FB6605A42D58E49D6E7B52A26" import="1">Art/Apples/plantation_ind_apple_pil.gr2</File>
+    <File md5="35D69F1553C6912834274CCA7275314F" import="1">Art/Apples/plantation_mid_apple.fxsxml</File>
+    <File md5="4EF8F48749E5D41B407FB5DDBB1825C1" import="1">Art/Apples/plantation_mid_apple.gr2</File>
+    <File md5="5A6534B78EDE07169AD0BE9C5BFED8BB" import="1">Art/Apples/plantation_mid_apple_hb.fxsxml</File>
+    <File md5="3698F342A17F59ABCE8B4313DA4DE518" import="1">Art/Apples/plantation_mid_apple_hb.gr2</File>
+    <File md5="D4376472DA3260E2A6C9CB2DE4DBA60A" import="1">Art/Apples/plantation_mid_apple_pil.fxsxml</File>
+    <File md5="22FB8137958CB5BB481CEF140FA3ABC9" import="1">Art/Apples/plantation_mid_apple_pil.gr2</File>
+    <File md5="D5A0200FD2765FAC51B26FA72337B2CA" import="1">Art/Holo-AlphaAtlas-128.dds</File>
+    <File md5="FB91C74C03AE65541BDC8E7357CF721C" import="1">Art/Holo-AlphaAtlas-16.dds</File>
+    <File md5="989F1E349AD5A3EECC8A85169CA7E1D0" import="1">Art/Holo-AlphaAtlas-24.dds</File>
+    <File md5="C08E4B37D7600A7EB955FE5596233B9B" import="1">Art/Holo-AlphaAtlas-256.dds</File>
+    <File md5="D771E4D4193CB22B6C7901A8FC25CA66" import="1">Art/Holo-AlphaAtlas-32.dds</File>
+    <File md5="EF5B897FA75D12F407D410DCD670F8EC" import="1">Art/Holo-AlphaAtlas-48.dds</File>
+    <File md5="695260132D0AC7BB4F6E6AB5961AE2E9" import="1">Art/Holo-AlphaAtlas-64.dds</File>
+    <File md5="5089B7CB5B97B2A957F038E83E102DAE" import="1">Art/Holo-AlphaAtlas-80.dds</File>
+    <File md5="9CE866AFC436E2B370D0BE1480682559" import="1">Art/Holo-AppleFontIcon.dds</File>
+    <File md5="9C0BFF2BEBF16BF3DEB7EF33D20D142E" import="1">Art/Holo-AppleFontIcon.ggxml</File>
+    <File md5="DEEC4B80646B1DC41F74722CDC6559F7" import="1">Art/Holo-AppleOrchard-45.dds</File>
+    <File md5="537D077F77B0CA250E9C3C6056A25C19" import="1">Art/Holo-AppleOrchard-64.dds</File>
+    <File md5="AD0B60F4E7303348D2633D3C0B3721E3" import="1">Art/Holo-DOM.dds</File>
+    <File md5="CEB142F8C40E908ABD69928B27986169" import="1">Art/Holo-IconAtlas-128.dds</File>
+    <File md5="F0F231E664FFC1939894C3D1742372C9" import="1">Art/Holo-IconAtlas-214.dds</File>
+    <File md5="BE2EBB2C12D123F70882359128ECB1E7" import="1">Art/Holo-IconAtlas-24.dds</File>
+    <File md5="16DD12049CEB48FF714EA58FC4A31D55" import="1">Art/Holo-IconAtlas-256.dds</File>
+    <File md5="F7FF0799354B1699206F27DFF8F9D27A" import="1">Art/Holo-IconAtlas-32.dds</File>
+    <File md5="D02FABFD8D7BB6C664CFBB6D288C406B" import="1">Art/Holo-IconAtlas-45.dds</File>
+    <File md5="CD14B11EEB8150F2B3AF1E7CBC74F338" import="1">Art/Holo-IconAtlas-48.dds</File>
+    <File md5="18CED8A355B78035B055237F4154A7CF" import="1">Art/Holo-IconAtlas-64.dds</File>
+    <File md5="DB162A0B3C9C2E8B045BFE812FFA921B" import="1">Art/Holo-IconAtlas-80.dds</File>
+    <File md5="5DC55455B88D183A24F38635A11EE370" import="1">Art/Holo-Map.dds</File>
+    <File md5="F3B5FC0E3A4A72CAC288300DBFF00B0F" import="1">Art/Holo-PromotionAtlas-16.dds</File>
+    <File md5="FB8D24BBFC21FE2DF7F43F433B4DB3C7" import="1">Art/Holo-PromotionAtlas-256.dds</File>
+    <File md5="E4A316D9BC56B802045BE7218859B448" import="1">Art/Holo-PromotionAtlas-32.dds</File>
+    <File md5="5BF2E667D8A3B4C836608374F8D38920" import="1">Art/Holo-PromotionAtlas-45.dds</File>
+    <File md5="64AC24243FD20E8E0A45A05FB2478502" import="1">Art/Holo-PromotionAtlas-64.dds</File>
+    <File md5="AB276AAB5C6AA07442A729E9A015551D" import="1">Art/Holo-Scene.dds</File>
+    <File md5="5C1CFD43B0160266758C8932A6C2B73B" import="1">Art/Holo-Wolves-UnitFlag-32.dds</File>
+    <File md5="22F514C2E2EA8F651A341504B6953FC7" import="1">Art/SV_Holo-Apple-Orchard.dds</File>
+    <File md5="7DBBB669F6A31EC7125AE40426C65F6B" import="1">Art/SV_Holo-Wolves.dds</File>
+    <File md5="BB1BEB5CBED12CDC9FC1DA5E471D304F" import="1">Art/Wolves/Black Wolf/black_wolf.fxsxml</File>
+    <File md5="33F8942410C0ECE0F5133B492C474E2C" import="1">Art/Wolves/Black Wolf/black_wolf.gr2</File>
+    <File md5="4852DD2BAC907CACF34C0D4DC1B19B92" import="1">Art/Wolves/Black Wolf/black_wolf_diff.dds</File>
+    <File md5="9DB36058F1B2D70005E8C7A5BE279C70" import="1">Art/Wolves/Brown Wolf/brown_wolf.fxsxml</File>
+    <File md5="B5BA0EB90B5FC10D452C4CD74725A293" import="1">Art/Wolves/Brown Wolf/brown_wolf.gr2</File>
+    <File md5="3CA448EAA0253300D8981D725833ADB3" import="1">Art/Wolves/Brown Wolf/brown_wolf_diff.dds</File>
+    <File md5="9A0F0B4D893F04F860B16B24B564B744" import="1">Art/Wolves/Common/black_4x4.dds</File>
+    <File md5="43B6FE6293F5261B94334414211FDF21" import="1">Art/Wolves/Common/fx_triggers_wolf.ftsxml</File>
+    <File md5="C87E64EB0D86E47203E62B8EAD98D5DD" import="1">Art/Wolves/Common/wolf_md_dieb_anim.gr2</File>
+    <File md5="3372C33C8FAFC0BCDC94ACD9D3C1B88A" import="1">Art/Wolves/Common/wolf_md_dieb_fade_anim.gr2</File>
+    <File md5="9DC4DC9A25987ED7C9F37A6CE4F672DE" import="1">Art/Wolves/Common/wolf_md_fidget_anim.gr2</File>
+    <File md5="030E76CACDFAF82B89343713B28467D1" import="1">Art/Wolves/Common/wolf_md_fortifya_anim.gr2</File>
+    <File md5="215ACBFD19751DAD20A1E73EDF0485F4" import="1">Art/Wolves/Common/wolf_md_fortifya_idle_anim.gr2</File>
+    <File md5="F1195D58896C3DC9CFC457087BCBD77E" import="1">Art/Wolves/Common/wolf_md_hurta_anim.gr2</File>
+    <File md5="258FE9CC8C00801D64212BD16787A1E3" import="1">Art/Wolves/Common/wolf_md_idle_anim.gr2</File>
+    <File md5="AD079DB5FEE9B705C229C6DF273775A5" import="1">Art/Wolves/Common/wolf_md_run_anim.gr2</File>
+    <File md5="BE2A4704B637C88B739DB2D9185CDCFD" import="1">Art/Wolves/Common/wolf_md_strikea_anim.gr2</File>
+    <File md5="48ED6982AB844968D137D6DE2042F3C4" import="1">Art/Wolves/Common/wolf_md_strikeb_anim.gr2</File>
+    <File md5="48C8E69D7353B3552413B302903E887A" import="1">Art/Wolves/Dark Gray Wolf/dkgray_wolf.fxsxml</File>
+    <File md5="85644ADCA6AE3954CFF04CBD0D87014B" import="1">Art/Wolves/Dark Gray Wolf/dkgray_wolf.gr2</File>
+    <File md5="4B61D0BCFAEB0923B5ED4A4321CE0801" import="1">Art/Wolves/Dark Gray Wolf/dkgray_wolf_diff.dds</File>
+    <File md5="19A595B8BA53756CAAFEBB2F7C7F9250" import="1">Art/Wolves/Light Gray Wolf/ltgray_wolf.fxsxml</File>
+    <File md5="0B932C8669ADBB90EFB488DF4F153DB5" import="1">Art/Wolves/Light Gray Wolf/ltgray_wolf.gr2</File>
+    <File md5="DC4DA7950E54F3017D940AF3F70E3EB7" import="1">Art/Wolves/Light Gray Wolf/ltgray_wolf_diff.dds</File>
+    <File md5="CA25EC90EF8CD6E71FED0D88C1DD9597" import="1">Art/Wolves/Medium Dark Gray Wolf/mddkgray_wolf.fxsxml</File>
+    <File md5="63560E9D1FCD4ACA600B3D7C7286DC5B" import="1">Art/Wolves/Medium Dark Gray Wolf/mddkgray_wolf.gr2</File>
+    <File md5="CBA768E0FEDBB2D407FD8C42E79A534A" import="1">Art/Wolves/Medium Dark Gray Wolf/mddkgray_wolf_diff.dds</File>
+    <File md5="C1FD81D0044FF186D5205BC04A89CDBC" import="1">Art/Wolves/Medium Gray Wolf/mdgray_wolf.fxsxml</File>
+    <File md5="4BD5AA48D915E4C2CF9FE1905346DA0B" import="1">Art/Wolves/Medium Gray Wolf/mdgray_wolf.gr2</File>
+    <File md5="5F5B47CD92F185202DB20307200AE2BD" import="1">Art/Wolves/Medium Gray Wolf/mdgray_wolf_diff.dds</File>
+    <File md5="FD97224F37F8FC1FE163523C13A65F13" import="1">Art/Wolves/Medium Light Gray Wolf/mdltgray_wolf.fxsxml</File>
+    <File md5="03850C98A0C50471269329619195FCEB" import="1">Art/Wolves/Medium Light Gray Wolf/mdltgray_wolf.gr2</File>
+    <File md5="B741043C25620BC85332A204578D915E" import="1">Art/Wolves/Medium Light Gray Wolf/mdltgray_wolf_diff.dds</File>
+    <File md5="41F9720B6FFC14269FBA5F380E3DC4B3" import="1">Art/Wolves/Wise Wolf/wisewolf.fxsxml</File>
+    <File md5="319292AB4BA759A089E368D9FE476FCA" import="1">Art/Wolves/Wise Wolf/wisewolf.gr2</File>
+    <File md5="9876A40480502C4BFCB28B0E4497F6F1" import="1">Art/Wolves/Wise Wolf/wisewolf_diff.dds</File>
+    <File md5="6CBB3326C075DB86C6CA100ABB54DC45" import="0">Credits.txt</File>
+    <File md5="4486E05E92C6A1829D1BD4FC8EAB80DE" import="1">Lua/CultureOverview.lua</File>
+    <File md5="A03ADC5B3C15475E88DCDCCD1A5A601E" import="0">Lua/HoloLua.lua</File>
+    <File md5="51769E7B926D69883541EAB43229401A" import="1">Lua/HoloPlotIterationFunctions.lua</File>
+    <File md5="581B6BEDE032BB01A7368F7427E386E4" import="1">Lua/HoloTrait.lua</File>
+    <File md5="017C7189E2AF2B421AB3B501D75CE750" import="1">Lua/HoloTSLCore.lua</File>
+    <File md5="A7E43D4DCD101FAA48C3C829E1C8A206" import="1">Lua/HoloTSLInit.lua</File>
+    <File md5="BB05EDB8B522C22D4F967965B5BB5043" import="1">Music/Either/Holo-ST-Either04.mp3</File>
+    <File md5="DD40C1D39125E5690F039CD86407ED9A" import="1">Music/Either/Holo-ST-Either05.mp3</File>
+    <File md5="AABA8C611639BD3086A0C3663B285B5A" import="1">Music/Either/Holo-ST-Either01.mp3</File>
+    <File md5="534F81A8FA1154A362FE8FEF8D3E13E9" import="1">Music/Either/Holo-ST-Either02.mp3</File>
+    <File md5="F9F91C390FC5871B8CB8AA9AAA36949C" import="1">Music/Either/Holo-ST-Either03.mp3</File>
+    <File md5="8611CDC93B1E99A19B3C8E736F05D3C0" import="1">Music/Holo-Leader-Peace.mp3</File>
+    <File md5="A5F6C678A3FF6868499D5B089C162AE4" import="1">Music/Holo-Leader-War.mp3</File>
+    <File md5="A2BF3AC5B98946938E48106CD24F1AB1" import="0">Music/HoloMusic.xml</File>
+    <File md5="91CDAB146E805A2B219884D47A75592B" import="1">Music/Peace/Holo-ST-Peace05.mp3</File>
+    <File md5="8244892657D9427FC6F9E0A2B8D20DAA" import="1">Music/Peace/Holo-ST-Peace07.mp3</File>
+    <File md5="918FE0C2815806C6DC170E04AA554CCC" import="1">Music/Peace/Holo-ST-Peace08.mp3</File>
+    <File md5="DB55760A6523756DA4629A7FD9A93D57" import="1">Music/Peace/Holo-ST-Peace01.mp3</File>
+    <File md5="250DA69BF7EE12F1A1A27DAD7C4337EE" import="1">Music/Peace/Holo-ST-Peace02.mp3</File>
+    <File md5="49D8FEE168A22E91D4A5D0B733AC5752" import="1">Music/Peace/Holo-ST-Peace03.mp3</File>
+    <File md5="6D9327DB562FF0E51CBD90F41AA83A36" import="1">Music/Peace/Holo-ST-Peace04.mp3</File>
+    <File md5="3F72F4892F93265EDA0C4C9A9CF0DD64" import="1">Music/Peace/Holo-ST-Peace06.mp3</File>
+    <File md5="6891A905E477B0A015127B0A427F13E6" import="1">Music/War/Holo-ST-War01.mp3</File>
+    <File md5="B008B883D2449939BADA31281194ACDF" import="1">Music/War/Holo-ST-War05.mp3</File>
+    <File md5="3188D310E48CE457AFB8B512980A1DC6" import="1">Music/War/Holo-ST-War06.mp3</File>
+    <File md5="BBE3E18E329641317ADA06B4FA33CC74" import="1">Music/War/Holo-ST-War02.mp3</File>
+    <File md5="744EA2A8FECFDCF3DBD43F147A9E3F2D" import="1">Music/War/Holo-ST-War03.mp3</File>
+    <File md5="5AEF11249FB25F10CFE5EBDF73B3E950" import="1">Music/War/Holo-ST-War04.mp3</File>
+    <File md5="F0C78DD3DF9418C282CD0A4FFD980357" import="0">XML/Buildings/HoloBuilding-GuildBranch.xml</File>
+    <File md5="78EA49A21F2B52DC551E2D1E27AF4BDC" import="0">XML/Buildings/HoloBuilding-Hidden.xml</File>
+    <File md5="F07D67A2E0EC2ACA074F7898C6FB85A4" import="0">XML/Buildings/HoloBuilding-Palace.xml</File>
+    <File md5="F50A6A9A23099F449B33F802019BD37D" import="0">XML/Buildings/HoloBuilding-WheatWolf.xml</File>
+    <File md5="ADB5ADE56587D5C3A364B6F28F0165FC" import="0">XML/Buildings/HoloBuildings.xml</File>
+    <File md5="51DD990DE3B89C10471BB7B2534A079B" import="0">XML/Civilizations/HoloColors.xml</File>
+    <File md5="6ED38A8FE499910E1A45CF315D85E3ED" import="0">XML/Civilizations/HoloTraits.xml</File>
+    <File md5="9B2235AC4A053B0F265E51643EEE75D4" import="0">XML/Civilizations/Wisewolves.xml</File>
+    <File md5="BF85D174CA9D4F2EC2AD7E3FBB6C0D6D" import="1">XML/GameInfo/CultureOverview.xml</File>
+    <File md5="5BD3C1BB7EE075A15143E82D92656336" import="0">XML/GameInfo/Fix-BNW-Errors.xml</File>
+    <File md5="A70B3B7E8618FC02A08512C4F75EC2B0" import="0">XML/GameInfo/HoloPolicies.xml</File>
+    <File md5="F0B13007C7A4BA02741BCDE3C0DB8D0A" import="0">XML/GameInfo/HoloTextureAtlas.xml</File>
+    <File md5="4B7838CEC2066B9DC8AE00FC708FA9F0" import="0">XML/Leaders/Holo.xml</File>
+    <File md5="021BF444A682A73244EF81EC82996F48" import="0">XML/Leaders/HoloDiplomacy.xml</File>
+    <File md5="C14A424F05A9414D43A06E42FDC8724C" import="1">XML/Leaders/Holo_Leader_Scene.xml</File>
+    <File md5="72D3FE3ACFA5F84F5053F28E27CFB8D5" import="0">XML/NewText/HoloDiploText.xml</File>
+    <File md5="C2711509960075AA64DF5831E8F7982D" import="0">XML/NewText/HoloGameText.xml</File>
+    <File md5="ED3EC9C0248DC9BD5E238A2956460654" import="0">XML/NewText/HoloNames.xml</File>
+    <File md5="FF558D49B27DE811C8B9538A1559DED9" import="0">XML/Terrain/HoloAppleOrchard.xml</File>
+    <File md5="0D7FFB813D0A79902BD15180FAD4253E" import="0">XML/Terrain/HoloApples.xml</File>
+    <File md5="ECAEDCB485424709ECCA0D2D2F18BC97" import="0">XML/Terrain/HoloApplesResource.xml</File>
+    <File md5="1B258FC535D51513A57C1B228A3B2938" import="0">XML/Units/HoloBuilds.xml</File>
+    <File md5="E17E3DA56E9C3DB4680B5FD39E7705CB" import="0">XML/Units/HoloGreatWolf.xml</File>
+    <File md5="A4BCB003DC13264A5ECDFEC65379F582" import="0">XML/Units/HoloGuildMerchant-Late.xml</File>
+    <File md5="4276B298B5FABAD3562FDAEDC4EBF827" import="0">XML/Units/HoloGuildMerchant.xml</File>
+    <File md5="90A6BC89001A5B052BF5DCFE8EA3E916" import="0">XML/Units/HoloUnitPromotions.xml</File>
+    <File md5="8C11CAA9D12255CF310F925D6D6452C8" import="0">XML/Units/HoloUnits-GreatWolf.xml</File>
+    <File md5="A2D39CD310081E245C1C31553DE051B2" import="0">XML/Units/HoloUnits-WolfPack.xml</File>
+    <File md5="17E818115852427B99C5B3A504CE35D0" import="0">XML/Units/HoloUnits-WolfPups.xml</File>
+    <File md5="A9DE8B2E133210DA25E57222162E1D1D" import="0">XML/Units/HoloUnits.xml</File>
+    <File md5="07C0E2F7FAD365C8814B3319FD023BF9" import="0">XML/Units/HoloWolfPack.xml</File>
+    <File md5="33E39840DBCE95D089E45E28A15643CD" import="0">XML/Units/HoloWolfPups.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/GameInfo/Fix-BNW-Errors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/HoloNames.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/HoloGameText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/NewText/HoloDiploText.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Wisewolves.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/HoloTraits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/HoloColors.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Holo_Leader_Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Holo.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/HoloDiplomacy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/HoloBuilding-Hidden.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/HoloBuilding-Palace.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/HoloBuildings.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/HoloBuilding-WheatWolf.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/HoloBuilding-GuildBranch.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/HoloPolicies.xml</UpdateDatabase>
+      <UpdateDatabase>XML/GameInfo/HoloTextureAtlas.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/HoloApples.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/HoloAppleOrchard.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Terrain/HoloApplesResource.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/HoloGuildMerchant.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/HoloGuildMerchant-Late.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/HoloUnits.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/HoloUnitPromotions.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/HoloBuilds.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/HoloWolfPups.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/HoloUnits-WolfPups.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/HoloWolfPack.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/HoloUnits-WolfPack.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/HoloGreatWolf.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/HoloUnits-GreatWolf.xml</UpdateDatabase>
+      <UpdateDatabase>Music/HoloMusic.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="Lua/HoloLua.lua">
+      <Name>HoloTraitLoader</Name>
+      <Description>Loader file to activate Holo's Trait Lua if she's in the game</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

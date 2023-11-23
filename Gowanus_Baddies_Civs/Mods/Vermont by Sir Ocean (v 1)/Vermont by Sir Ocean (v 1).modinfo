@@ -1,0 +1,103 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="79d2e055-9d7b-40af-981b-db50ab97686e" version="1">
+  <Properties>
+    <Name>Vermont by Sir Ocean</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>Adds the State of [COLOR_CITY_GREEN]Vermont[ENDCOLOR] to your game!</Teaser>
+    <Description>Adds the State of [COLOR_CITY_GREEN]Vermont[ENDCOLOR] to your game![NEWLINE][NEWLINE]Credits:[NEWLINE][ICON_BULLET]Wikipedia for Civilopedia entries.[NEWLINE][ICON_BULLET]MentalFloss.com for factoids.[NEWLINE][ICON_BULLET]DJSHenninger for icon backgrounds.[NEWLINE][ICON_BULLET]Owners of respective photography.[NEWLINE][ICON_BULLET]Biography.com for Civilopedia entries.[NEWLINE][ICON_BULLET]World Population Review.</Description>
+    <Authors>Sir Ocean</Authors>
+    <SpecialThanks>Neomu sege aneumyeon sum makyeoyo</SpecialThanks>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies />
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="65A2EB751064AB4C0D2458B84AA82444" import="1">Art/VT_DOM.dds</File>
+    <File md5="1FC0A81340094DA0C6E00117FD226E71" import="1">Art/VT_IconAtlas128.dds</File>
+    <File md5="2A1C4B257AD73C610FE8D4CE9E5C18BF" import="1">Art/VT_IconAtlas16.dds</File>
+    <File md5="E94570F4A0EB6569E4A644A2EA438674" import="1">Art/VT_IconAtlas24.dds</File>
+    <File md5="AFDD75B4B163CD20BA4EBE9F02D4227B" import="1">Art/VT_IconAtlas256.dds</File>
+    <File md5="001BB74E80A16166CC1F0E010E9147F9" import="1">Art/VT_IconAtlas32.dds</File>
+    <File md5="208207968E32E2F6E09F04654EB02B80" import="1">Art/VT_IconAtlas45.dds</File>
+    <File md5="77A5A7037E196841BD391D0028DB36F4" import="1">Art/VT_IconAtlas48.dds</File>
+    <File md5="A4B0FF6E79D2C9F93DBE0E386AA0084E" import="1">Art/VT_IconAtlas64.dds</File>
+    <File md5="F5763BF743EBB698BB594FCE640E565D" import="1">Art/VT_IconAtlas80.dds</File>
+    <File md5="38958794054B8586A5F3F0EF77EF0AA3" import="1">Art/VT_Map.dds</File>
+    <File md5="53848D8D51E9F3BB81710283434AB923" import="1">Art/VT_Scene.dds</File>
+    <File md5="CA5E2D54DE1E7F480E36AE7AA353D429" import="1">Art/VT_UnitFlag.dds</File>
+    <File md5="76F14DA150AD34FE65218D820B7C67A5" import="1">Art/VT_Font_MapleSyrup.dds</File>
+    <File md5="236FF5C0A53015D8AD7DDE1854EB213E" import="1">Art/VT_SV_MapleSyrup.dds</File>
+    <File md5="1D653BE2582C5DA2D4BD330B4AEECCC6" import="1">Art/VT_SV_MapleFarm.dds</File>
+    <File md5="56C637109E670314E84E61EA148CD71E" import="1">Art/mapletree_diff.dds</File>
+    <File md5="4434F1A4DB013D3ACCBF48B19C2DEF19" import="1">Art/mapletree_pill_diff.dds</File>
+    <File md5="C7CFB6A4CC398F63CDAA80D3148AF82F" import="1">Art/mapletree_sref.dds</File>
+    <File md5="DA6E345827C7FCDBCC7E3E83AE325461" import="1">Assets/mapletree.gr2</File>
+    <File md5="832A12B7009697892BD8FEE46B8844F7" import="1">Assets/plantation_ind_mapletree.gr2</File>
+    <File md5="3755B1E8825EA73F0BDB9560B66139A4" import="1">Assets/plantation_ind_mapletree_hb.gr2</File>
+    <File md5="6A71C7E33C5C19B970912F95F94521AE" import="1">Assets/plantation_ind_mapletree_pil.gr2</File>
+    <File md5="0AEB47A37DC1DAD2E85C091765BF7047" import="1">Assets/plantation_mid_mapletree.gr2</File>
+    <File md5="C6EB6667556D33F4E8C3E05730624723" import="1">Assets/plantation_mid_mapletree_hb.gr2</File>
+    <File md5="3EBFBD8BEA274CD752C67B8E1D14DA3B" import="1">Assets/plantation_mid_mapletree_pil.gr2</File>
+    <File md5="2904124E7699F65D15A959A5E51C5DBC" import="1">FXSXML/mapletree.fxsxml</File>
+    <File md5="CD1AC83F82F3A176323C2C4FA0243E5D" import="1">FXSXML/plantation_ind_mapletree.fxsxml</File>
+    <File md5="0ED318BA133D5131BD1492B7F4C3C9CF" import="1">FXSXML/plantation_ind_mapletree_hb.fxsxml</File>
+    <File md5="0B8D3CA48B507F9C0324506186F5D333" import="1">FXSXML/plantation_ind_mapletree_pil.fxsxml</File>
+    <File md5="27DE183D17E55C47F5D49E2D83ABE2D9" import="1">FXSXML/plantation_mid_mapletree.fxsxml</File>
+    <File md5="BE49E55442D03663E1BEDFA65A5042E2" import="1">FXSXML/plantation_mid_mapletree_hb.fxsxml</File>
+    <File md5="E333B754E51C40D2902A7AC0B51E0509" import="1">FXSXML/plantation_mid_mapletree_pil.fxsxml</File>
+    <File md5="9D3C007016E3A39BCB6146D4F92DEE8A" import="1">GGXML/VT_Font_MapleSyrup.ggxml</File>
+    <File md5="7FEE8D488B375470ED04D08073E08EC5" import="0">LUA/VT MapleFarm.lua</File>
+    <File md5="EAA020979F9F069816C9F90A52B0BF29" import="0">LUA/VT Trait.lua</File>
+    <File md5="934BAD074A110FFE6A702E0173F8D3C1" import="0">XML/VT DiploMap.xml</File>
+    <File md5="CC77F3E7055D42AE7235EE5945B4BC1B" import="0">XML/VT DiploText.xml</File>
+    <File md5="C78DC2754B71A8740CF2FF05F95A582E" import="0">XML/VT Trait Building.xml</File>
+    <File md5="E3E36D15B817E426E6BF95A318AC0CA7" import="0">XML/VT Civilization.xml</File>
+    <File md5="16EE2C73519A94AC62B14CEBCECFEC9F" import="0">XML/VT Art Terrain.xml</File>
+    <File md5="02B2312C82F7BCBAEAD314628C01FDAF" import="1">XML/VT Font Icons.xml</File>
+    <File md5="9952C32178806AA3CD02DFACA97DB450" import="0">XML/VT IconAtlases.xml</File>
+    <File md5="4E37949260D0A5384CDC468F3C2BE55D" import="0">XML/VT Improvements.xml</File>
+    <File md5="4116C83C01CD49170C5F3422B1E72C83" import="0">XML/VT Resource.xml</File>
+    <File md5="41F35893745375647E631EC28C2AF759" import="1">XML/VT Scene.xml</File>
+    <File md5="BC59D8476E9B6A4318FB4B591BB101B2" import="0">XML/VT Leader.xml</File>
+    <File md5="017CD3BFD30A1D5460C77BF9229846DE" import="0">XML/VT Unit.xml</File>
+    <File md5="9D8185849CDF21F60799783637983CCB" import="0">XML/VT Trait.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>XML/VT Art Terrain.xml</UpdateDatabase>
+      <UpdateDatabase>XML/VT Civilization.xml</UpdateDatabase>
+      <UpdateDatabase>XML/VT Font Icons.xml</UpdateDatabase>
+      <UpdateDatabase>XML/VT IconAtlases.xml</UpdateDatabase>
+      <UpdateDatabase>XML/VT Improvements.xml</UpdateDatabase>
+      <UpdateDatabase>XML/VT Leader.xml</UpdateDatabase>
+      <UpdateDatabase>XML/VT Resource.xml</UpdateDatabase>
+      <UpdateDatabase>XML/VT Scene.xml</UpdateDatabase>
+      <UpdateDatabase>XML/VT Trait.xml</UpdateDatabase>
+      <UpdateDatabase>XML/VT Unit.xml</UpdateDatabase>
+      <UpdateDatabase>XML/VT Trait Building.xml</UpdateDatabase>
+      <UpdateDatabase>XML/VT DiploMap.xml</UpdateDatabase>
+      <UpdateDatabase>XML/VT DiploText.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+  <EntryPoints>
+    <EntryPoint type="InGameUIAddin" file="LUA/VT Trait.lua">
+      <Name>VT Trait</Name>
+      <Description>VT Trait</Description>
+    </EntryPoint>
+    <EntryPoint type="InGameUIAddin" file="LUA/VT MapleFarm.lua">
+      <Name>VT MapleFarm</Name>
+      <Description>VT MapleFarm</Description>
+    </EntryPoint>
+  </EntryPoints>
+</Mod>

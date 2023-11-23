@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+	  
+<GameData>  
+	<Language_it_IT>
+		<Row Tag ="TXT_KEY_CIV_MEC_EASTERLINGS_DESC">
+			<Text>Regno di Easterling</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_EASTERLINGS_SHORT_DESC">
+			<Text>Easterling</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_EASTERLINGS_ADJECTIVE">
+			<Text>Easterling</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_EASTERLINGS_TEXT_1">
+			<Text>
+				Gli Esterling, comunemente noti come gli Uomini delle Tenebre, erano una razza di uomini che vivevano nelle vaste e inesplorate terre di Rhûn, ad est di Mordor e del Mare di Rhun. Gli Esterling erano nemici dei Popoli Liberi ed erano alleati di Sauron. C'erano molte nazioni e regni di Esterling che vivevano nelle vaste terre di Rhûn. Questi variavano da imperi civilizzati a nomadi barbari a cavallo delle steppe aperte. [NEWLINE] Durante la Terza Era, l'Esterling ha spesso attaccato Gondor e le terre confinanti con Rhun. Nel TA 490 invasero Gondor, passando per Dagorlad iniziando una serie di guerre che durarono 60 anni fino a quando furono finalmente sconfitti nel TA 550 da Turambar, il nono re di Gondor. Successivamente, Gondor ha sottomesso alcuni di loro e prese da loro una vasta area di terreno tra il Regno di Rhovanion e Mordor compreso il Mare di Rhûn. [NEWLINE] Gondor terrà questi territori per alcune centinaia di anni, ma ha cominciato a perderli nel tempo. Nel TA 1248 gli Easterling, ancora una volta si sono scontrati con Gondor in una serie di scaramucce, ma non erano ancora potenti o organizzati abbastanza per resistere contro il potere di Gondor. Anche se sconfitti gli Easterling non avrebbero dovuto aspettare a lungo, perchè Gondor presto cadde in declino e nella guerra civile. Successivamente, gli Easterling rimasero tranquilli fino alla metà del XIX secolo, quando erano di nuovo abbastanza potenti per attaccare l'Occidente. [NEWLINE] [NEWLINE] Khamul, l'Esterling Nero, è giunto il momento per te di riunire i regni Esterling e assalire i Popoli Liberi della Terra di Mezzo. Vuoi schiavizzare i tuoi nemici o soccombere a loro? Costruirai una civiltà che supererà la prova del tempo?
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_EASTERLINGS">
+			<Text>Easterling</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_RHUN">
+			<Text>Rhun</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_HILDORIEN">
+			<Text>Hildorien</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_RHUN_SEA">
+			<Text>Rhun Sea</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_BALCHOTH">
+			<Text>Balchoth</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_KALORME">
+			<Text>Kalorme</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_ROMENOR">
+			<Text>Romenor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_BROWNLANDS">
+			<Text>Brownlands</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_OROCARNI">
+			<Text>Orocarni</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_HELCAR">
+			<Text>Helcar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_RED_MOUNTAINS">
+			<Text>Red Mountains</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_BAB_LON">
+			<Text>Bab-lon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_NINWI">
+			<Text>Ninwi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_TRUI">
+			<Text>Trui</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_RUM">
+			<Text>Rum</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_CUIVIENEN">
+			<Text>Cuiviened</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ITHRYN_LUIN">
+			<Text>Ithryn Luin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MORINEHTAR">
+			<Text>Morinehtar</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_ROMESTAMO">
+			<Text>Romestamo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_EASTLANDS">
+			<Text>Eastlands</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_LEADER_MEC_KHAMUL_PEDIA">
+			<Text>Khamul</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_LEADER_MEC_KHAMUL">
+			<Text>Khamul</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_KHAMUL">
+			<Text>Khamul</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_WAINRIDER">
+			<Text>Wainrider</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_MEC_WAINRIDER">
+			<Text>
+				I Wainrider erano una confederazione di tribù Esterling e Southron che erano uniti dal loro odio verso Gondor, alimentato dall'oscuro signore Sauron. Dopo la Grande Peste che ha indebolito Gondor, hanno iniziato i loro attacchi nel TA 1856, sconfiggendo l'esercito di Gondor e uccidendo il re Narmacil II. Cavalcarono in grandi carri (che ha dato loro il nome), e hanno fatto irruzione nelle terre di Rhovanion, distruggendo o schiavizzando il suo popolo. Gondor gradualmente perse tutti i suoi possedimenti ad est dell'Anduin a causa loro. Il trentesimo Re di Gondor, Calimehtar figlio di Narmacil, sconfisse i Wainrider al Campo di Celebrant. Tuttavia i Wainrider colpirono nel TA 1944, alleandosi con l'Haradrim del Vicino Harad e la Variag del Khand. Prima di questa stavano espandendo il loro potere a sud, al di là di Mordor, ed erano venuti in conflitto con le tribù di Khand e Haradrim orientale. Ma alla fine questi uomini si allearono sotto il loro odio universale verso l'Occidente. Sono riusciti a uccidere il re Ondoher e tutti i suoi eredi, ma invece di cavalcare a Minas Anor e prendere la città, si fermarono per festeggiare. Nel frattempo, Eärnil generale dell'esercito meridionale di Gondor cavalcò a nord per difendere il suo re, ma arrivò troppo tardi per salvare Ondoher, riuscì però ad annientare i Wainrider. Eärnil fu incoronato re. Dopo questa sconfitta la potenza dei Wainrider era distrutta, e si ritirarono ad est. Hanno ancora tenuto Rhovanion, ma non hanno più turbato Gondor fino alla Guerra dell'Anello.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_WAINRIDER_STRATEGY">
+			<Text>
+				I Wainrdiers sono veloci unità, mortali sul terreno aperto, e la prima unità a richiedere una risorsa strategica - Cavalli. Sono più potente dell'Arciere e possono muoversi due volte la distanza sul terreno aperto (4 MP), permettendo loro di raggiungere elementi dell'esercito nemico che altre unità non possono. Tuttavia, i Wainrdiers subiscono una penalità in movimento quando si entra in caselle foresta, giungla o collina (a meno che le strade siano state costruite in quelle caselle). Inoltre, sono troppo ingombranti per usare la difesa del terreno naturale, a differenza di altre unità montate, non possono muoversi dopo aver attaccato!
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_WAINRIDER">
+			<Text>Prima unità montata del gioco, ma a differenza dell'Arciere su carro è un'unità da mischia montata. Può muoversi dopo aver attaccato. Richiede Cavalli. Sostituisce l'Arciere su carro.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_MEC_HALBERD">
+			<Text>
+				Gli Esterling avevano tre armi principali: la loro picca, la scimitarra, e l'arco composito. L'alabarda in legno e acciaio è in due dimensioni: l'alabarda di nove piedi è stata utilizzata per le formazioni di porcospino e marce a falange, mentre quella da cinque piedi è stata utilizzata come arma di un soldato di base. Tutte le alabarde sono appuntite in alto e hanno una curvatura verso il basso, lame dentellate, e sotto sono sostenute da una punta ricurva; sulla nove piedi è stato utilizzato per far cadere i cavalli nemici, mentre sulla cinque piedi è stato utilizzato per forare l'armatura e deviare le lame nemiche. La lama dell'ascia è caratterizzata da un buco che crea la curva. Questa era un'arma davvero versatile che potrebbe essere utilizzata sia in attacco che in difesa.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_HALBERD">
+			<Text>Alabardeire</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_HALBERD_STRATEGY">
+			<Text>L'Alabardiere è una nuova generazione di lanciere, armato con un'arma molto più lunga e letale. Riceve un bonus quando combatte contro le unità a cavallo, che lo rende praticamente l'unica unità che può sperare di resistere contro un Cavaliere infuriato. Un alabardiere fortificato in terreno difensivo è il peggior incubo di un Cavaliere. Gli alabardieri sono, tuttavia, debole contro le altre unità da mischia e tendono ad essere gravemente danneggiati da armi d'assedio utilizzate per difendere la città.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_HALBERD">
+			<Text>Unità medievale efficace contro le unità montate. Genera punti verso l'età dell'oro uccidendo i nemici. Sostituisce il Pikeman</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_TRAIT_MEC_SHADOW_OF_THE_EAST">
+			<Text>Le città senza sbocco sul mare ricevono un Caravanserraglio gratuito. +2 [ICON_GOLD] Oro per rotta commerciale terrestre. 1 rotta commerciale gratuita disponibile all'inizio del gioco.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_TRAIT_MEC_SHADOW_OF_THE_EAST_SHORT">
+			<Text>Ombra d'oriente</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_SPY_MEC_ULFANG">
+			<Text>Ulfang</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_ULFAST">
+			<Text>Ulfast</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_ULWORTH">
+			<Text>Ulworth</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_ULDOR">
+			<Text>Uldor</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_BOR">
+			<Text>Bor</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_BORLAD">
+			<Text>Borlad</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_BORLACH">
+			<Text>Borlach</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_BORTHAND">
+			<Text>Borthand</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_BRODDA">
+			<Text>Brodda</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_SPY_MEC_MALTOK">
+			<Text>Maltok</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_KHAMUL_NAME">
+			<Text>Khamul</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_KHAMUL_SUBTITLE">
+			<Text>L'Easterling Nero</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_KHAMUL_LIVED">
+			<Text>SA-3/25/3019</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_KHAMUL_DEFEATED_%">
+			<Text>Ho fallito. Oggi l'esercito d'oro è caduto.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_KHAMUL_FIRSTGREETING_%">
+			<Text>Vengo da laggiù. Io sono Khamul, l'Esterling Nero, Ombra d'Oriente, e Re Drago. Hai visto il mio esercito d'oro?</Text>
+		</Row>
+	</Language_it_IT>
+</GameData>	

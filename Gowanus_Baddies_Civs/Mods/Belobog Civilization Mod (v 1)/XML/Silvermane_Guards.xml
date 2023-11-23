@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/12/2023 9:48:49 PM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_SPEARMAN</Class>
+			<Type>UNIT_SILVERMANE_GUARD</Type>
+			<PrereqTech>TECH_BRONZE_WORKING</PrereqTech>
+			<Combat>14</Combat>
+			<Cost>56</Cost>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_MELEE</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_COUNTER</DefaultUnitAI>
+			<Description>TXT_KEY_UNIT_SILVERMANE_GUARD</Description>
+			<Civilopedia>TXT_KEY_CIV5_UNIT_SILVERMANE_GUARD</Civilopedia>
+			<Strategy>TXT_KEY_UNIT_SILVERMANE_GUARD_STRATEGY</Strategy>
+			<Help>TXT_KEY_UNIT_SILVERMANE_GUARD_HELP</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<ObsoleteTech>TECH_CIVIL_SERVICE</ObsoleteTech>
+			<GoodyHutUpgradeUnitClass>UNITCLASS_PIKEMAN</GoodyHutUpgradeUnitClass>
+			<AdvancedStartCost>15</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<Conscription>2</Conscription>
+			<UnitArtInfo>ART_DEF_UNIT_U_GREEK_HOPLITE</UnitArtInfo>
+			<UnitFlagAtlas>ALPHA_ATLAS_BELOBOG</UnitFlagAtlas>
+			<IconAtlas>BELOBOG_ATLAS</IconAtlas>
+			<PortraitIndex>2</PortraitIndex>
+		</Row>
+	</Units>
+
+	
+	
+	
+	
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_BELOBOG_MARCH</Type>
+			<Description>TXT_KEY_PROMOTION_BELOBOG_MARCH</Description>
+			<Help>TXT_KEY_PROMOTION_BELOBOG_MARCH_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OrderPriority>999</OrderPriority>
+			<MovesChange>1</MovesChange>
+			<PortraitIndex>33</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_MELEE</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_BELOBOG_MARCH</PediaEntry>
+		</Row>
+		<Row>
+			<Type>PROMOTION_SILVERMANE_BUFF</Type>
+			<Description>TXT_KEY_PROMOTION_SILVERMANE_BUFF</Description>
+			<Help>TXT_KEY_PROMOTION_SILVERMANE_BUFF_HELP</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<OrderPriority>998</OrderPriority>
+			<CanMoveAfterAttacking>true</CanMoveAfterAttacking>
+			<PortraitIndex>9</PortraitIndex>
+			<IconAtlas>PROMOTION_ATLAS</IconAtlas>
+			<PediaType>PEDIA_MELEE</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_SILVERMANE_BUFF</PediaEntry>
+		</Row>
+	</UnitPromotions>
+</GameData>

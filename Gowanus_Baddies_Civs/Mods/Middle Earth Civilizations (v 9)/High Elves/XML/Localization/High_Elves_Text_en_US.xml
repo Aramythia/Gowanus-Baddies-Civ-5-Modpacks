@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="utf-8"?>
+	  
+<GameData>  
+	<Language_en_US>
+		<Row Tag ="TXT_KEY_CIV_MEC_HIGH_ELVES_DESC">
+			<Text>Elves of Rivendell</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_HIGH_ELVES_SHORT_DESC">
+			<Text>Eldar Elves</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV_MEC_HIGH_ELVES_ADJECTIVE">
+			<Text>Eldar</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_HIGH_ELVES_TEXT_1">
+			<Text>In Tolkien mythology, the Elves were the first children of Eru, the One, whom they called Ilúvatar. The Elves are not subject to disease or physical aging, though they could be killed by violence or by wasting away and losing the will to live. They were otherwise essentially immortal. Some of these Elves were refered to as the Eldar, People of the Stars. [NEWLINE][NEWLINE] Elrond Half-elven is the son of Eärendil and Elwing, and a great-grandson of Lúthien. Elrond was given the choice at the end of the First Age to be counted among Men or Elves. Elrond chose to be counted among the Elves, and remained in Lindon as captain and herald of Gil-Galad, the High King of the Ñoldor. In SA 1695, Elrond was sent to Eregion by Gil-galad in an attempt to protect the city from the invading forces of Sauron. Unfortunately, Elrond's host was too weak and was unable to hold off Sauron's army. He retreated north with a host of elves out of Eregion including Celeborn and remained ever watchful of Sauron from there. It was during the following two years that Elrond founded Imladris (Rivendell) at the feet of the Misty Mountains. Near the end of the Second Age, Elrond rode beside Gil-Galad in the Last Alliance of Elves and Men. After the defeat of Sauron, Elrond returned to Rivendell at the end of the war. [NEWLINE][NEWLINE] Elrond, Lord of Rivendell, you have the gift of foresight. So you must see the evils of the world returning. Can you build a civilization that will stand the test of time?</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIV5_MEC_HIGH_ELVES">
+			<Text>Eldar</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_HITHAEGLIR">
+			<Text>Hithaeglir</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_BRUINEN">
+			<Text>Bruinen</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_IMLADRIS">
+			<Text>Imladris</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_HOLLIN">
+			<Text>Hollin</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_RIVENDELL">
+			<Text>Rivendell</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CITY_NAME_MEC_NAN_SIRANNON">
+			<Text>Sirannon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_EREGION">
+			<Text>Eregion</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_THAM_MIRDAM">
+			<Text>Mirdam</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_GLAD_EREG">
+			<Text>Glad Ereg</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_OST-IN-EDHIL">
+			<Text>Ost-in-Edhil</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_EMYN_NAER">
+			<Text>Emyn Naer</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_CELEBRIMBOR">
+			<Text>Celebrimbor</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_LOUDWATER">
+			<Text>Loudwater</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_HOARWELL">
+			<Text>Hoarwell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_SIRANNON">
+			<Text>Sirannon</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_GLANDUIN">
+			<Text>Glanduin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_THE_ANGLE">
+			<Text>The Angle</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_MITHEITHEL">
+			<Text>Mitheithel</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_MEC_NIN_IN_EILPH">
+			<Text>Nin-in-Eilph</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_LEADER_MEC_ELROND">
+			<Text>Elrond</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_LEADER_MEC_ELROND_PEDIA">
+			<Text>Elrond</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_ELROND">
+			<Text>
+				Elrond Half-elven, Lord of Rivendell, was one of the mighty rulers of old who lived in Middle-earth from the First Age through the Third Age. In SA 1695, Elrond was sent to Eregion by Gil-galad in an attempt to protect the city from the invading forces of Sauron. Unfortunately, Elrond's host was too weak and was unable to hold off Sauron's army. He retreated north with a host of elves out of Eregion including Celeborn and remained ever watchful of Sauron from there. It was during the following two years (SA 1697) that Elrond founded Imladris at the feet of the Misty Mountains, which survived as one of the last remaining strongholds against Sauron at the end of the Third Age. After the combined forces of the elves under Gil-Galad, Cirdan, Elrond and the Men of Numenor defeated Sauron in SA 1701 Elrond remained in Imladris and hosted the first White Council, attended by Galadriel, at which it was decided that Elrond's home, the Last Homely House, would remain the last stronghold west of the Misty Mountains, and that the Three Rings then held by Gil-Galad and Galadriel would remain hidden. According to one account Gil-Galad at this time gave Elrond Vilya the Blue Ring, though in other accounts Gil-Galad kept both Narya and Vilya until the end of the Second Age. In the later years, he was instrumental in harboring the heirs of Isildur while the line lasted, the most famous of these sons of men was Aragorn son of Arathorn II, whom he took in and fostered as his own after his father died in TA 2933. Elrond, foreseeing the boy's difficult future gave him the name Estel, Sindarin for Hope. Aragorn grew up in Imladris unaware of his kingly lineage until Elrond told him when he had reached his manhood. He also was a member of the White Council, which was often held in Imladris and was a great friend of Gandalf the Grey. He helped Thorin Oakenshield's expedition to retake the Lonely Mountain (Erebor) by discovering and translating the Moon Writing on Thorin's map. Elrond had sent Glorfindel to search for the Ring-bearer. On October 25, 3018 he held the Council at which it was decided to attempt to destroy the One Ring. He appeared to have selected the members of the Fellowship other than Frodo and Sam. Later, Elrond sent his sons Elladan and Elrohir with the Rangers of the North to Rohan. Through his sons, Elrond advised Aragorn to take the Paths of the Dead. Elrond remained in Rivendell until the destruction of the One Ring and of Sauron, after which he went to Minas Tirith to surrender the Sceptre of Annúminas to King Elessar and give his daughter Arwen Undómiel away to be married. On September 29, 3021, aged 6,520 years, Elrond left Middle-earth to go over the sea with the other Ring-bearers, never to return.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_RIVENDELL_LANCER">
+			<Text>Rivendell Lancer</Text>
+		</Row>
+		
+		<Row Tag ="TXT_KEY_CIVILOPEDIA_UNITS_RENAISSANCE_MEC_RIVENDELL_LANCER">
+			<Text>Rivendell sits in a valley not far from the east road, the main route through northern Middle-earth. Very often Elven riders make the journey from their home near the Misty Mountains to the coastal port of Mithlond, otherwise known as the Grey Havens. These riders are rare among the Elves, for Elves do not often walk openly among the societies of Men. Any craft an Elf learns in times of peace can be readily turned into an art of war when necessary. As such, the Rivendell Lancers are extremely skilled with light armor and sharp spear from horseback. Elves are able to speak to their horses as well, so they have proficiency when mounted that is approached only by the horse masters of Rohan.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_MEC_RIVENDELL_LANCER_STRATEGY">
+			<Text>
+				The Rivendell Lancer has Elven Sight and +1 Vision. The Rivendell Lancer is a mixed purpose unit: it's more powerful than the Knight or the Pikeman and it can better perform most of their functions. Thanks to its long spear it is also a dedicated anti-cavalry unit, deadly with its speed and ability to catch retreating enemy cavalry after their hit-and-run attacks. However, the Lancer is strictly an offensive weapon; the same spear which is such a good offensive weapon is too unwieldy for defense and nets the unit a combat penalty when defending. It can also be quickly destroyed by ranged units. Use it wisely.
+			</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_UNIT_HELP_MEC_RIVENDELL_LANCER">
+			<Text>Anti-calvary Calvary Unit with enhanced vision. Replaces the Lancer.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_BUILDING_MEC_EREGION_FORGE">
+			<Text>Eregion Forge</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_BUILDINGS_EREGION_FORGE">
+			<Text>In SA 750 a group of Noldor from Lindon led by Celebrimbor settled in Eregion near Khazad-dûm (Moria). Interested in the making of crafts and jewels, they drew close to the Dwarves of Moria and worked with in them in an alliance of friendship and peaceful commerce. Only Feanor surpassed this group in cunning for things wrought. Celebrimbor was the most skilled of this group. Their chief city was Ost-in-Edhil which stood in ruins for ages to come. For hundreds of years they prospered and grew immensely wealthy, but Sauron ever hungry for dominion over Middle-earth was jealous of their power. He approached them in SA 1200 disguised as Annatar and the Noldor ever eager for more knowledge, accepted his gifts and instruction. They also followed him because although they loved Middle-Earth they wanted to have the Bliss of Valinor. They could do this with the skills they would learn from this Annatar and make the land of their exile as beautiful as Eressea. With this new Knowledge, they forged the Rings of Power with Celebrimbor alone forging Three Rings. </Text>
+		</Row>
+		<Row Tag ="TXT_KEY_BUILDING_MEC_EREGION_FORGE_STRATEGY">
+			<Text>The Eregion Forge provides 1 Engineer Specialist Slot (Representing the Gwaith-i-Mirdain). The Eregion Forge is a great bonus building, increasing not only [ICON_PRODUCTION] Production on the Iron resources nearby, but also boosting Land unit production in the city. Use that to turn this city into a major Land training hub!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_BUILDING_MEC_EREGION_FORGE_HELP">
+			<Text>Replaces the Forge and provides 1 Engineer Specialist Slot</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_TRAIT_MEC_COUNCIL_OF_ELROND">
+			<Text>Specialists produce +1[ICON_CULTURE] Culture in addition to their normal yields. Declarations of Friendship give the Eldar Elves and the friendly Civ a additional +10% GPP boost towards great people.</Text>
+		</Row>
+		<Row Tag ="TXT_KEY_TRAIT_MEC_COUNCIL_OF_ELROND_SHORT">
+			<Text>Council of Elrond</Text>
+		</Row>
+		
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_ELROND_NAME">
+			<Text>Elrond</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_ELROND_SUBTITLE">
+			<Text>Lord of Rivendell</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIVILOPEDIA_LEADERS_MEC_ELROND_LIVED">
+			<Text>FA532</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_ELROND_DEFEATED_%">
+			<Text>My hands are cold. The life of the Eldar is leaving me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_MEC_ELROND_FIRSTGREETING_%">
+			<Text>Stranger from distant lands, I have summoned you here to answer to the threats of this world. It stands upon the brink of destruction, and none can escape it. We will unite or fall. Our races are bound to this fate, this one doom. Come forth and let us decide our fate.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_CELEBRIAN">
+			<Text>Celebrian</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ARWEN">
+			<Text>Arwen</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ELROHIR">
+			<Text>Elrohir</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ELROS">
+			<Text>Elros</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ELWING">
+			<Text>Elwing</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ELURED">
+			<Text>Elured</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ELURIN">
+			<Text>Elurin</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_DIOR">
+			<Text>Dior</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_MEC_ELLADAN">
+			<Text>Elladan</Text>
+		</Row>
+
+		<Row Tag="TXT_KEY_PROMOTION_MEC_ELVEN_SIGHT">
+			<Text>Elven Sight</Text>
+		</Row>
+		<Row Tag="TXT_KEY_PROMOTION_MEC_ELVEN_SIGHT_HELP">
+			<Text>+1 Vision</Text>
+		</Row>
+
+		
+	</Language_en_US>
+</GameData>	

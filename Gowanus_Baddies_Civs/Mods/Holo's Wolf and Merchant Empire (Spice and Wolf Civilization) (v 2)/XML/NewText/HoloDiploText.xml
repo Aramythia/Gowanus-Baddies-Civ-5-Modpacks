@@ -1,0 +1,921 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 6/4/2014 3:50:08 PM -->
+<GameData>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_HOLO_FIRST_GREETING_1">
+			<Text>Greetings. 'Tis a good moon, is it not? I am called Holo. Have you no wine?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_FIRST_GREETING_2">
+			<Text>Greetings. I am called Holo. A good name, no?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_FIRST_GREETING_3">
+			<Text>Greetings. I am Holo. It has been some time since I've taken this form, but, well, it is quite nice. Would you not agree?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_FIRST_GREETING_4">
+			<Text>Mm... 'Tis a good moon. Have you no wine? Ah, my apologies, I am Holo.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_FIRST_GREETING_5">
+			<Text>I am the Wisewolf of Yoitsu, Holo. 'Twould do you well to remember this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_FIRST_GREETING_6">
+			<Text>Greetings, stranger. I am known as Holo. Many have called me a Harvest God, but I am nothing so great as a deity. I am merely Holo. What of you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_FIRST_GREETING_7">
+			<Text>I am Holo, the Wisewolf of Yoitsu. I was born far to the north. The summers there are short and the winters long. A world of glistening silver... What of you, stranger?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_FIRST_GREETING_8">
+			<Text>Greetings. I am Holo, the Wisewolf of Yoitsu, and a proud one at that. Pleased to make your acquaintance.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DEFEATED_1">
+			<Text>I suppose I might be the biggest fool of all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DEFEATED_2">
+			<Text>Hmph. I can forget the pride of a youngster, if need be...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_POLITE_HELLO_1">
+			<Text>Do you not wish to worship me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_POLITE_HELLO_2">
+			<Text>Heh. If we speak like this too long, we may be suspected of mischief.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_POLITE_HELLO_3">
+			<Text>Coming to see me again? My human form must be quite charming, no?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_NEUTRAL_HELLO_1">
+			<Text>'Tis all too clear what you are thinking about.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_NEUTRAL_HELLO_2">
+			<Text>You are quite adorable, wishing to meet like this.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_NEUTRAL_HELLO_3">
+			<Text>Come, you. Speak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_NEUTRAL_HELLO_4">
+			<Text>'Tis good weather for a meeting. What would you like to discuss?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_HELLO_1">
+			<Text>Well, you're in a fine state.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_HELLO_2">
+			<Text>You're certainly a confident one. A fool, but a confident one nonetheless.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_HELLO_3">
+			<Text>If you dare speak now, I'll show you my true ire.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_SAME_POLICIES_FREEDOM_1">
+			<Text>SAME POLICY FREEDOM</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_SAME_POLICIES_ORDER_1">
+			<Text>SAME POLICY ORDER</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_SAME_POLICIES_AUTOCRACY_1">
+			<Text>SAME POLICY AUTOCRACY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>HOSTILE AGGRESSIVE MILITARY WARNING</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_BULLIED_PROTECTED_CITY_STATE_1">
+			<Text>BULLIED PROTECTED CITY STATE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_EXPANSION_SERIOUS_WARNING_1">
+			<Text>SERIOUS EXPANSION WARNING</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HOSTILE_WE_BULLIED_YOUR_MINOR_1">
+			<Text>HOSTILE WE BULLIED YOUR MINOR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WE_BULLIED_YOUR_MINOR_1">
+			<Text>WE BULLIED YOUR MINOR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_REQUEST_1">
+			<Text>REQUEST</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_LUXURY_TRADE_1">
+			<Text>'Twould be wise to accept this offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_LUXURY_TRADE_2">
+			<Text>Surely, you can calculate profit and loss, no? Come, what say you to this?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_LUXURY_TRADE_3">
+			<Text>'Tis a bargain, truly. What think you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_EMBASSY_EXCHANGE_1">
+			<Text>Do you not think we should have a warm place to meet?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_EMBASSY_OFFER_1">
+			<Text>If you would give me a warm place to stay, I shan't forget to visit for your adorable face.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_EMBASSY_OFFER_2">
+			<Text>A warm place is all I ask for. Will you not allow me such?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_OPEN_BORDERS_EXCHANGE_1">
+			<Text>'Twould be more festive if our peoples could feast together, no?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_RENEW_DEAL_1">
+			<Text>I'm sure this deal is worth more of our time. What say you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_RENEW_DEAL_2">
+			<Text>'Tis in your best interests as well to keep this deal, I'm sure.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WANT_MORE_RENEW_DEAL_1">
+			<Text>I ought to be allowed to beg from you a little at least.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_HOSTILE_WE_BULLIED_MINOR_BAD_1">
+			<Text>HOSTILE WE BULLIED MINOR BAD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HOSTILE_WE_BULLIED_MINOR_GOOD_1">
+			<Text>HOSTILE WE BULLIED MINOR GOOD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WE_BULLIED_MINOR_BAD_1">
+			<Text>WE BULLIED MINOR BAD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WE_BULLIED_MINOR_GOOD_1">
+			<Text>WE BULLIED MINOR GOOD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_BULLIED_MINOR_BAD_1">
+			<Text>HUMAN BULLIED MINOR BAD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_BULLIED_MINOR_GOOD_1">
+			<Text>HUMAN BULLIED MINOR GOOD</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_WILL_ACCEPT_SURRENDER_1">
+			<Text>Ho? Will you now start to cry, eh?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_CAUGHT_YOUR_SPY_1">
+			<Text>Did you think your misdirection would work on me?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_KILLED_YOUR_SPY_1">
+			<Text>Heh. Keeping a weather eye on your underlings so they don't make foolish mistakes is common sense.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_KILLED_MY_SPY_1">
+			<Text>Hmph. 'Tis amusing enough toying with you, but sometimes one longs for cleverer leaders to play with.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_CONFRONT_YOU_KILLED_MY_SPY_1">
+			<Text>Come, don't make such a nasty face. 'Twas only a bit of a joke.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_SUSPECT_YOU_OF_SPYING_1">
+			<Text>SUSPECT YOU OF SPYING</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_CAUGHT_YOUR_SPY_GOOD_1">
+			<Text>I am pleased to hear it. Still, though, a warning -- Try to restrain yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_CAUGHT_YOUR_SPY_BAD_1">
+			<Text>You are only and ever a fool.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_STOP_SPYING_YES_1">
+			<Text>Hmph, look at you, playing at being such a reasonable leader.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_STOP_SPYING_NO_1">
+			<Text>If you're tripped up by such a ruse, you've much to learn yet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WARNED_ABOUT_INTRIGUE_1">
+			<Text>Hmph. 'Tis a roundabout way of doing things, I'll say that. The {@1_CivAdjective} leader will be quite the fool indeed.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_SHARE_INTRIGUE_DECEPTION_1">
+			<Text>'Tis not just the quality of wheat I can judge. {1_PlayerName} is sure to be sharpening their fangs as we speak.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>SHARE INTRIGUE ARMY SNEAK ATTACK KNOWN CITY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_SHARE_INTRIGUE_ARMY_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>SHARE INTRIGUE ARMY SNEAK ATTACK UNKNOWN CITY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_KNOWN_CITY_1">
+			<Text>SHARE INTRIGUE AMPHIBIOUS SNEAK ATTACK KNOWN CITY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_SHARE_INTRIGUE_AMPHIBIOUS_SNEAK_ATTACK_UNKNOWN_CITY_1">
+			<Text>SHARE INTRIGUE AMPHIBIOUS SNEAK ATTACK UNKNOWN CITY</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_KILLED_MY_SPY_UNFORGIVEN_1">
+			<Text>You're certainly a confident one.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_KILLED_MY_SPY_FORGIVEN_1">
+			<Text>I'll just say that your intentions are admirable.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_STOP_CONVERSIONS_1">
+			<Text>STOP CONVERSIONS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_STOP_CONVERSIONS_GOOD_1">
+			<Text>HUMAN STOP CONVERSIONS GOOD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_STOP_CONVERSIONS_BAD_1">
+			<Text>HUMAN STOP CONVERSIONS BAD</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_CANT_MATCH_OFFER_1">
+			<Text>'Tis a proposal I can offer nothing in exchange for.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_STOP_CONVERSIONS_AGREE_1">
+			<Text>HUMAN STOP CONVERSIONS AGREE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_STOP_CONVERSIONS_DISAGREE_1">
+			<Text>HUMAN STOP CONVERSIONS DISAGREE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_STOP_DIGGING_1">
+			<Text>STOP DIGGING</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_STOP_DIGGING_AGREE_1">
+			<Text>STOP DIGGING AGREE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_STOP_DIGGING_DISAGREE_1">
+			<Text>STOP DIGGING DISAGREE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_STOP_DIGGING_BAD_1">
+			<Text>HUMAN STOP DIGGING BAD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_STOP_DIGGING_GOOD_1">
+			<Text>HUMAN STOP DIGGING GOOD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_CIVIL_RESISTANCE_ON_AI_BY_FREEDOM_1">
+			<Text>CIVIL RESISTANCE ON AI BY FREEDOM</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_CIVIL_RESISTANCE_ON_AI_BY_ORDER_1">
+			<Text>CIVIL RESISTANCE ON AI BY ORDER</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_CIVIL_RESISTANCE_ON_AI_BY_AUTOCRACY_1">
+			<Text>CIVIL RESISTANCE ON AI BY AUTOCRACY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_CIVIL_RESISTANCE_ON_HUMAN_BY_FREEDOM_1">
+			<Text>CIVIL RESISTANCE ON HUMAN BY FREEDOM</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_CIVIL_RESISTANCE_ON_HUMAN_BY_ORDER_1">
+			<Text>CIVIL RESISTANCE ON HUMAN BY ORDER</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_CIVIL_RESISTANCE_ON_HUMAN_BY_AUTOCRACY_1">
+			<Text>CIVIL RESISTANCE ON HUMAN BY AUTOCRACY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_SWITCHED_TO_FREEDOM_1">
+			<Text>SWITCHED TO FREEDOM</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_SWITCHED_TO_ORDER_1">
+			<Text>SWITCHED TO ORDER</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_SWITCHED_TO_AUTOCRACY_1">
+			<Text>SWITCHED TO AUTOCRACY</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_INFLUENTIAL_ON_AI_1">
+			<Text>I tire of this foolishness. My people have once again forgotten the lessons of Pasloe and no longer feel pride in their culture next to yours. Perhaps 'tis best I retreat into the arms of the one who still appreciates me.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_INFLUENTIAL_ON_HUMAN_1">
+			<Text>INFLUENTIAL ON HUMAN</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_WE_LIKE_HUMAN_PROPOSAL_1">
+			<Text>Ho? Even a fool can come up with a good idea once in a while.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WE_DISLIKE_HUMAN_PROPOSAL_1">
+			<Text>Fool, do you think I would ever allow such a proposal to come to pass?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_SUPPORTED_OUR_PROPOSAL_1">
+			<Text>Oh, ho. This is surprising foresight from you. I am pleased you support our proposal.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_FOILED_OUR_PROPOSAL_1">
+			<Text>You've rejected my notion, so you had best be prepared to take responsibility for what may come.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_SUPPORTED_OUR_HOSTING_1">
+			<Text>Not only do you count me the pack's leader, but you're hoping I won't give my favor to another? What an adorable pup.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_REPEAT_TRADE_TOO_MUCH_1">
+			<Text>You...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_REPEAT_TRADE_1">
+			<Text>I cannot but muse that I am on the losing end of this bargain, 'tis true.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_REPEAT_TRADE_2">
+			<Text>I can calculate profit and loss, and see the outcome of this proposal. Surely, you can do the same?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_REPEAT_TOO_MUCH_1">
+			<Text>Such an adorable pup, you are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_REPEAT_TOO_MUCH_2">
+			<Text>Come, speak. Do not simply wander in and out.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_REPEAT_TOO_MUCH_3">
+			<Text>'Tis an amusing game you must be playing. Do you not have more important matters to attend to?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_REPEAT_1">
+			<Text>I am quite charming, no?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_REPEAT_2">
+			<Text>Here again so soon? You must be quite taken with me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_REPEAT_3">
+			<Text>Come, you. What is it you wish to discuss? I will not bite...yet.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_REPEAT_1">
+			<Text>I tire of your foolishness.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_REPEAT_2">
+			<Text>Do you truly have nothing better to do?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_REPEAT_3">
+			<Text>Foolish mule. What is it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_REPEAT_4">
+			<Text>Here again? A brave fool you are, or a reckless one, I know not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_REPEAT_5">
+			<Text>You, again... I've no desire to speak.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DESTRUCTION_LOOMS_1">
+			<Text>If I am made to act like a mere dog, I... I shall still not be angry. 'Tis my own fault I am in this situation.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_AT_WAR_WANTS_PEACE_1">
+			<Text>It is my hope that this will all conclude peacefully, but I don't know how it will go. What say you? Shall we not put an end to this farce?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_AT_WAR_HOSTILE_1">
+			<Text>You...no, I always found your face rather charming when it was so scared of me.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_RESEARCH_AGREEMENT_1">
+			<Text>GREETING RESEARCH AGREEMENT</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_BROKEN_MILITARY_PROMISE_1">
+			<Text>The master always takes responsibility for betrayal. This is the truth of the world.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_WORKING_WITH_1">
+			<Text>GREETING WORKING WITH</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_WORKING_AGAINST_1">
+			<Text>GREETING WORKING AGAINST</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_COOP_WAR_1">
+			<Text>GREETING COOP WAR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_HUMAN_AT_WAR_1">
+			<Text>GREETING HOSTILE HUMAN AT WAR</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HUMAN_AT_WAR_1">
+			<Text>I hope your gains are worth the lives you are losing in the battlefield.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_AGGRESSIVE_MILITARY_1">
+			<Text>Such cheap bluster. Such rough pride. Both prized by the young, I suppose. 'Tis no surprise to see your armed fools near my territory.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_AGGRESSIVE_MILITARY_1">
+			<Text>I show you weakness only because I trust you. Should I be proven the fool who misplaced that trust?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_AGGRESSIVE_EXPANSION_1">
+			<Text>'Tis perplexing watching your people sprawl out over every little piece of land. It seems I may need to teach you a few thing about territory...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_AGGRESSIVE_EXPANSION_1">
+			<Text>I shan't abide your people encroaching upon our territory. Just mind you don't tread on my feet.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_AGGRESSIVE_PLOT_BUYING_1">
+			<Text>GREETING HOSTILE AGGRESSIVE PLOT BUYING</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_FRIENDLY_STRONG_MILITARY_1">
+			<Text>You've certainly a very defensive-minded personality.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_FRIENDLY_STRONG_ECONOMY_1">
+			<Text>GREETING FRIENDLY STRONG ECONOMY</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_HUMAN_FEW_CITIES_1">
+			<Text>'Tis not very large, your empire. Perhaps you would consider joining mine?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_HUMAN_SMALL_ARMY_1">
+			<Text>I fear for the safety of your people. There are many predators about in the world...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_HOSTILE_HUMAN_IS_WARMONGER_1">
+			<Text>Such bloodlust you're known for may well lead you down the path of despair.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_DENOUNCED_BY_AI_1">
+			<Text>GREETING DENOUNCED BY AI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_DENOUNCED_AI_1">
+			<Text>GREETING DENOUNCED AI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_OUR_DOF_WITH_ENEMY_OF_AI_1">
+			<Text>GREETING OUR DOF WITH ENEMY OF AI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_OUR_DOF_WITH_FRIEND_OF_AI_1">
+			<Text>GREETING OUR DOF WITH FRIEND OF AI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_DENOUNCED_FRIEND_OF_AI_1">
+			<Text>GREETING DENOUNCED FRIEND OF AI</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_GREETING_DENOUNCED_ENEMY_OF_AI_1">
+			<Text>GREETING DENOUNCED ENEMY OF AI</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_TOO_SOON_FOR_DOF_1">
+			<Text>My, but aren't you adorable. 'Tis too soon for you, though.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOF_AI_DENOUNCE_REQUEST_1">
+			<Text>DOF AI DENOUNCE REQUEST</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOF_AI_WAR_REQUEST_1">
+			<Text>DOF AI WAR REQUEST</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOF_NOT_HONORED_1">
+			<Text>DOF NOT HONORED</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_AI_DOF_BACKSTAB_1">
+			<Text>AI DOF BACKSTAB</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_RESPONSE_TO_BEING_DENOUNCED_1">
+			<Text>You're not the type of person who would follow through on that threat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_DOFED_FRIEND_1">
+			<Text>Even fools may be strong when bound together. I am pleased to see you've enough wisdom to befriend {1_CivName}.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_DOFED_ENEMY_1">
+			<Text>HUMAN DOFED ENEMY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_DENOUNCED_FRIEND_1">
+			<Text>HUMAN DENOUNCED FRIEND</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_DENOUNCED_ENEMY_1">
+			<Text>HUMAN DENOUNCED ENEMY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_DOF_SO_AI_DOF_1">
+			<Text>HUMAN DOF SO AI DOF</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_DENOUNCE_SO_AI_DENOUNCE_1">
+			<Text>HUMAN DENOUNCE SO AI DENOUNCE</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_DOF_SO_AI_DENOUNCE_1">
+			<Text>So, the fools are gathering. {1_CivName} will not make you any stronger.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_DENOUNCE_SO_AI_DOF_1">
+			<Text>HUMAN DENOUNCE SO AI DOF</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_AGGRESSIVE_MILITARY_WARNING_1">
+			<Text>AGGRESSIVE MILITARY WARNING</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_KILLED_PROTECTED_CITY_STATE_1">
+			<Text>KILLED PROTECTED CITY STATE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_PROTECTED_CITY_STATE_1">
+			<Text>ATTACKED PROTECTED CITY STATE</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_EXPANSION_WARNING_1">
+			<Text>Look, you, mind your settlers don't tread into our territory.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_EXPANSION_BROKEN_PROMISE_1">
+			<Text>EXPANSION BROKEN PROMISE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_PLOT_BUYING_SERIOUS_WARNING_1">
+			<Text>PLOT BUYING SERIOUS WARNING</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_PLOT_BUYING_WARNING_1">
+			<Text>Is your coin purse so stuffed 'tis worth more than my temperament?</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_PLOT_BUYING_BROKEN_PROMISE_1">
+			<Text>PLOT BUYING BROKEN PROMISE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HOSTILE_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>HOSTILE WE ATTACKED YOUR MINOR</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WE_ATTACKED_YOUR_MINOR_1">
+			<Text>WE ATTACKED YOUR MINOR</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_WORK_WITH_US_1">
+			<Text>Won't you treat me kindly?</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_END_WORK_WITH_US_WARMONGER_1">
+			<Text>END WORK WITH US WARMONGER</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_END_WORK_WITH_US_MINORS_1">
+			<Text>END WORK WITH US MINORS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_END_WORK_WITH_US_LAND_1">
+			<Text>END WORK WITH US LAND</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_END_WORK_WITH_US_WONDERS_1">
+			<Text>END WORK WITH US WONDERS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_END_WORK_WITH_US_VICTORY_1">
+			<Text>END WORK WITH US VICTORY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_END_WORK_WITH_US_DEFAULT_1">
+			<Text>END WORK WITH US DEFAULT</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WORK_AGAINST_SOMEONE_1">
+			<Text>WORK AGAINST SOMEONE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_END_WORK_AGAINST_SOMEONE_DEFAULT_1">
+			<Text>END WORK AGAINST SOMEONE DEFAULT</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_COOP_WAR_REQUEST_1">
+			<Text>I must be completely frank, I may have to kill someone. I can no longer tolerate {1_PlayerName:textkey}'s transgressions.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_COOP_WAR_TIME_1">
+			<Text>COOP WAR TIME</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_NOW_UNFORGIVABLE_1">
+			<Text>NOW UNFORGIVABLE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_NOW_ENEMY_1">
+			<Text>NOW ENEMY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_COMPLIMENT_1">
+			<Text>COMPLIMENT</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_BOOT_KISSING_1">
+			<Text>BOOT KISSING</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WARMONGER_1">
+			<Text>WARMONGER</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_MINOR_CIV_COMPETITION_1">
+			<Text>Hmph. Your continued pursuit of {1_MinorCivName:textkey} only serves to strain our relationship.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_PLEASED_1">
+			<Text>'Tis a wise decision.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_THANKFUL_1">
+			<Text>THANKFUL</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_DISAPPOINTED_1">
+			<Text>This is why you are ever the fool.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_SO_BE_IT_1">
+			<Text>'Tis well.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_SO_BE_IT_2">
+			<Text>Aye, fine then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_RETURNED_CIVILIAN_1">
+			<Text>Whatever the circumstances, it is a good thing to see a companion returned safely. You have my gratitude.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_CULTURE_BOMBED_1">
+			<Text>CULTURE BOMBED</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_INSULT_GENERIC_1">
+			<Text>INSULT GENERIC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_INSULT_MILITARY_1">
+			<Text>INSULT MILITARY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_INSULT_NUKE_1">
+			<Text>INSULT NUKE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_INSULT_BULLY_1">
+			<Text>INSULT BULLY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_INSULT_UNHAPPINESS_1">
+			<Text>INSULT UNHAPPINESS</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_INSULT_CITIES_1">
+			<Text>INSULT CITIES</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_INSULT_POPULATION_1">
+			<Text>INSULT POPULATION</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_INSULT_CULTURE_1">
+			<Text>INSULT CULTURE</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_DECLARATION_PROTECT_CITY_STATE_1">
+			<Text>{2_MajorCivName:textkey} have partnered with {1_MinorCivName:textkey} in a mutually beneficial relationship. 'Twould be wise to avoid interference.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_DECLARATION_ABANDON_CITY_STATE_1">
+			<Text>DECLARATION ABANDON CITY STATE</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_REPEAT_NO_1">
+			<Text>Do not test me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DONT_SETTLE_YES_1">
+			<Text>I've prudence enough to avoid a pointless fight over something like that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DONT_SETTLE_NO_1">
+			<Text>Just who do you think I am?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WORK_WITH_US_YES_1">
+			<Text>I am pleased to make your acquaintance. Henceforth, the bards will pass down legends of our achievements for generations to come.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WORK_WITH_US_NO_1">
+			<Text>You are an adorable, naive little pup, are you not?</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_WORK_AGAINST_SOMEONE_YES_1">
+			<Text>WORK AGAINST SOMEONE YES</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_WORK_AGAINST_SOMEONE_NO_1">
+			<Text>I shan't agree to something so dishonorable.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_COOP_WAR_YES_1">
+			<Text>COOP WAR YES</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_COOP_WAR_NO_1">
+			<Text>I share no interest in such petty strife.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_COOP_WAR_SOON_1">
+			<Text>COOP WAR SOON</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_DEMAND_YES_1">
+			<Text>HUMAN DEMAND YES</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_DEMAND_REFUSE_WEAK_1">
+			<Text>HUMAN DEMAND REFUSE WEAK</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_DEMAND_REFUSE_HOSTILE_1">
+			<Text>We are not your followers. We've no obligation to do as you tell us. Do I not speak the truth?</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_DEMAND_REFUSE_TOO_MUCH_1">
+			<Text>HUMAN DEMAND REFUSE TOO MUCH</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_DEMAND_REFUSE_TOO_SOON_1">
+			<Text>Hmph. Come begging for more, have you? I shan't indulge you again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOT_DOT_DOT_1">
+			<Text>You dare...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOT_DOT_DOT_2">
+			<Text>You...</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOT_DOT_DOT_3">
+			<Text>Hmph.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_LETS_HEAR_IT_1">
+			<Text>Come, you, speak up.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_LETS_HEAR_IT_2">
+			<Text>Mm?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_LETS_HEAR_IT_3">
+			<Text>What is it?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_PEACE_OFFER_1">
+			<Text>I tire of this foolish trifle. Let us bargain.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_DEMAND_1">
+			<Text>DEMAND</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_OPEN_BORDERS_OFFER_1">
+			<Text>We need not trespass your territory so long as you'll agree to grant us passage.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_PLAN_RESEARCH_AGREEMENT_1">
+			<Text>PLAN RESEARCH AGREEMENT</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_RESEARCH_AGREEMENT_OFFER_1">
+			<Text>RESEARCH AGREEMENT OFFER</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_GENEROUS_1">
+			<Text>So long as you're offering, I'll not waste your generosity and impose upon you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_GENEROUS_2">
+			<Text>Hehe. I'm not sure how much you expect to make, but feel free to invest to your heart's content.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_ACCEPTABLE_1">
+			<Text>I suppose I'll allow that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_ACCEPTABLE_2">
+			<Text>Aye, fine then.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_ACCEPTABLE_3">
+			<Text>'Tis well enough. I accept.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_ACCEPTABLE_4">
+			<Text>Aye, 'twill be fine.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_ACCEPTABLE_5">
+			<Text>Aye, 'tis a fair enough trade.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_ACCEPTABLE_6">
+			<Text>I can manage that much, at least.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_AI_DEMAND_1">
+			<Text>TRADE ACCEPT AI DEMAND</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_ACCEPT_HUMAN_CONCESSIONS_1">
+			<Text>TRADE ACCEPT HUMAN CONCESSIONS</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_REJECT_UNACCEPTABLE_1">
+			<Text>I cannot but muse that I am on the losing end of this bargain, 'tis true.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_REJECT_UNACCEPTABLE_2">
+			<Text>Do you truly believe that's a fair trade?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_REJECT_UNACCEPTABLE_3">
+			<Text>Surely, you jest.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_REJECT_INSULTING_1">
+			<Text>If you would wish to bargain, you might try to sound reasonable!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_REJECT_INSULTING_2">
+			<Text>Are you truly not able to calculate loss and gain?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_DEAL_UNCHANGED_1">
+			<Text>'Tis a fair deal in my eyes.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_AI_MAKES_OFFER_1">
+			<Text>A wise leader would see the true value of this exchange.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TRADE_NO_DEAL_POSSIBLE_1">
+			<Text>'Tis not possible for me to match your offer.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_HOSTILE_1">
+			<Text>One always sees the wretched parts of one's own land and the best parts of one's neighbor's.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_HOSTILE_2">
+			<Text>Hmph. How ungrateful of you, pointing your weapons at me.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_HOSTILE_3">
+			<Text>Drawing a weapon on me now? How lacking in manners.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_HOSTILE_4">
+			<Text>How adorably naive you are.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_HOSTILE_5">
+			<Text>Ho? You would try to take my reins...a rare fool, indeed.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_WEAK_HOSTILE_1">
+			<Text>ATTACKED WEAK HOSTILE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_STRONG_HOSTILE_1">
+			<Text>ATTACKED STRONG HOSTILE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_EXCITED_1">
+			<Text>ATTACKED EXCITED</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_WEAK_EXCITED_1">
+			<Text>ATTACKED WEAK EXCITED</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_STRONG_EXCITED_1">
+			<Text>ATTACKED STRONG EXCITED</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_SAD_1">
+			<Text>ATTACKED SAD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_BETRAYED_1">
+			<Text>ATTACKED BETRAYED</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOW_GENERIC_1">
+			<Text>DOW GENERIC</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_ATTACKED_MILITARY_PROMISE_BROKEN_1">
+			<Text>ATTACKED MILITARY PROMISE BROKEN</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOW_LAND_1">
+			<Text>'Tis time to teach you about territory.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOW_WORLD_CONQUEST_1">
+			<Text>DOW WORLD CONQUEST</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOW_OPPORTUNITY_1">
+			<Text>DOW OPPORTUNITY</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOW_DESPERATE_1">
+			<Text>DOW DESPERATE</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOW_BETRAYAL_1">
+			<Text>DOW BETRAYAL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOW_WEAK_BETRAYAL_1">
+			<Text>DOW WEAK BETRAYAL</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_DOW_REGRET_1">
+			<Text>DOW REGRET</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WAR_DEMAND_REFUSED_1">
+			<Text>WAR DEMAND REFUSED</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_PEACE_WHAT_WILL_HUMAN_OFFER_1">
+			<Text>I shan't expect much from you in your poor state. What do you propose?</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_PEACE_MADE_BY_HUMAN_GRACIOUS_1">
+			<Text>PEACE MADE BY HUMAN GRACIOUS</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_NO_PEACE_1">
+			<Text>I decline. I don't mind being resented once in a while.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_NO_PEACE_2">
+			<Text>Fool! Do you truly believe I would be appeased with just this?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_TOO_SOON_NO_PEACE_1">
+			<Text>A fool who's already running tail between the legs is not fit to lead.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>HOSTILE AGGRESSIVE MILITARY WARNING BAD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HOSTILE_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>HOSTILE AGGRESSIVE MILITARY WARNING GOOD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_AGGRESSIVE_MILITARY_WARNING_BAD_1">
+			<Text>AGGRESSIVE MILITARY WARNING BAD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_AGGRESSIVE_MILITARY_WARNING_GOOD_1">
+			<Text>AGGRESSIVE MILITARY WARNING GOOD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HOSTILE_WE_ATTACKED_MINOR_BAD_1">
+			<Text>HOSTILE WE ATTACKED MINOR BAD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HOSTILE_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>HOSTILE WE ATTACKED MINOR GOOD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WE_ATTACKED_MINOR_BAD_1">
+			<Text>WE ATTACKED MINOR BAD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_WE_ATTACKED_MINOR_GOOD_1">
+			<Text>WE ATTACKED MINOR GOOD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_ATTACKED_MINOR_BAD_1">
+			<Text>HUMAN ATTACKED MINOR BAD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_ATTACKED_MINOR_GOOD_1">
+			<Text>HUMAN ATTACKED MINOR GOOD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_KILLED_MINOR_BAD_1">
+			<Text>HUMAN KILLED MINOR BAD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_KILLED_MINOR_GOOD_1">
+			<Text>HUMAN KILLED MINOR GOOD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_SERIOUS_EXPANSION_WARNING_BAD_1">
+			<Text>HUMAN SERIOUS EXPANSION WARNING BAD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_SERIOUS_EXPANSION_WARNING_GOOD_1">
+			<Text>HUMAN SERIOUS EXPANSION WARNING GOOD</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_EXPANSION_WARNING_BAD_1">
+			<Text>You truly are a terribly clumsy ruler.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_EXPANSION_WARNING_GOOD_1">
+			<Text>'Tis a wise leader who recognizes the boundaries of territory.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_SERIOUS_PLOT_BUYING_WARNING_BAD_1">
+			<Text>HUMAN SERIOUS PLOT BUYING WARNING BAD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_SERIOUS_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>HUMAN SERIOUS PLOT BUYING WARNING GOOD</Text>
+		</Row>
+		-->
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_PLOT_BUYING_WARNING_BAD_1">
+			<Text>Hmph. All I can do is pray you stop being such a reckless leader.</Text>
+		</Row>
+		<!--
+		<Row Tag="TXT_KEY_LEADER_HOLO_HUMAN_PLOT_BUYING_WARNING_GOOD_1">
+			<Text>HUMAN PLOT BUYING WARNING GOOD</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_HOLO_REPEAT_TOO_MUCH_1">
+			<Text>GENERIC REPEAT</Text>
+		</Row>
+		-->
+		<!--
+		<Row Tag="">
+			<Text></Text>
+		</Row>
+		-->
+	</Language_en_US>
+</GameData>
