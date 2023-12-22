@@ -1,3 +1,0 @@
-INSERT INTO UnitPromotions
-(Type, Description, Help, Sound, CannotBeChosen, LostWithUpgrade, NearbyEnemyCombatMod, NearbyEnemyCombatRange, IconAtlas, PortraitIndex, PediaType, PediaEntry)
-VALUES  ('PROMOTION_STRENGTH_OF_THE_ADEPTI', 'TXT_KEY_PROMOTION_STRENGTH_OF_THE_ADEPTI', 'TXT_KEY_PROMOTION_STRENGTH_OF_THE_ADEPTI_HELP', 'AS2D_IF_LEVELUP', 1, 1, -10, 1, 'ABILITY_ATLAS', 59, 'PEDIA_ATTRIBUTES', 'TXT_KEY_PROMOTION_STRENGTH_OF_THE_ADEPTI');
